@@ -49,10 +49,10 @@ Data is generated using Python and the `Faker` library with realistic business l
 `create_insurance_data_mart.sql` builds the full relational schema:
 
 #### ER Diagram
-<img src="er_diagram.png">
+<img src="er_diagram.png"  width="600">
 
 #### Relational Schema
-<img src="relational_schema.png">
+<img src="relational_schema.png" width="600">
 
 ---
 
