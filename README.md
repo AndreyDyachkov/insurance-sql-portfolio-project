@@ -60,12 +60,12 @@ Data is generated using Python and the `Faker` library with realistic business l
 
 Includes insurance metrics and KPIs:
 ### **📌 Annual Gross Premium Written (GPW) by Line of Business (LOB)**
-- Typical insurance KPI to estimate sales by LOB;
-- Other intervals (month, quarter) can be applied as well.
+- A typical insurance KPI for estimating sales by LOB;
+- Other intervals (monthly, quarterly) can be applied as well.
 
 ### **📌 Running Total of Monthly GPW by Year (Common Table Expression (CTE) + Window Function)**
-- Common insurance KPI to estimated YTD (Year-to-Date) sales;
-- SQL query includes CTE to aggregate sales by month and year and a window function to calculate running total.
+- Common insurance KPI for estimating YTD (Year-to-Date) sales;
+- SQL query includes a CTE to aggregate sales by month and year, and a window function to calculate running total.
 
 ### **📌 Customer Analytics (Nested Queries, Window Function)**
 Includes various typical analytical tasks:
