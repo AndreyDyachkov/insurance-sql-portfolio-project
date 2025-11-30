@@ -64,21 +64,28 @@ Includes insurance metrics and KPIs:
 - Other intervals (month, quarter) cam be applied as well.
 
 ### **📌 Running Total of Monthly GPW by Year (Common Table Expression (CTE) + Window Function)**
-- Common insurance KPI to estimated YTD (Year-to-Date) sales  
-- SQL query includes CTE to aggregate sales by month and year and a window function to calculate running total
+- Common insurance KPI to estimated YTD (Year-to-Date) sales;
+- SQL query includes CTE to aggregate sales by month and year and a window function to calculate running total.
 
+### **📌 Customer analytics (Nested Queries, Window Function)**
+Includes various typical analytical tasks:
+- Ranking Customers by Lifetime Net Value (LTV);
+- Customers with More Than 2 Claims per Policy (Nested Query);
+- Customers with More Than 2 Claims in the Past Year;
+- Top 3 Customers by Payout Amount.
 
-### **📌 Gross Premium Earned (GPE)**
+### **📌 Frequency calculation (Common Table Expression (CTE))**
+Claim frequency calculation is one of the main tasks in insurance analytics, used for premium pricing.
+- Claim Frequency for Expired Policies by LOB and Year;  
+- Exposure-Based Frequency for a specific reporting period.
+
+### **📌 Claim Severity by LOB and Year**
+Severity is average cost per claim, also used for premium pricing.
+
+### **📌 Gross Premium Earned (GPE) per LOB (Common Table Expressions (CTE))**
 - Accurate day-level overlap calculation  
 - Handles partial policy periods  
 - Supports custom intervals (e.g., Q1 2025)
-
-### **📌 Exposure Calculation**
-- Overlapping policy days / full policy duration  
-- Used for frequency
-
-### **📌 Frequency**
-
 
 ## 🧩 SQL Queries
 Full scripts are available in:
