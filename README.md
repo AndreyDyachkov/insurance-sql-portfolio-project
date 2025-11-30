@@ -1,37 +1,20 @@
 # Insurance Data Mart — SQL & Data Engineering Portfolio Project
 
-This project demonstrates the end-to-end design of a small **Insurance Data Mart**, including:
-- Generation of high-quality **synthetic data** using Python + Faker  
-- Creation of **dimensional data mart structures**  
-- Analytical SQL queries for **GPE**, **exposure**, **frequency**, and **claims analysis**  
-- Clean, production-ready SQL and Python scripts  
-- A realistic workflow similar to BI / Data Engineering roles
-
-This repository simulates the core analytical processes of an insurance company, including policies, customers, claims, pricing metrics, and exposure calculations.
+This repository simulates the core analytical processes of an insurance company, including policies, customers, claims, insurance metrics and KPIs.
+The project demonstrates the end-to-end design of a small **Insurance Data Mart**, including:
+- Generation of realistic **synthetic data** using Python + Faker;
+- Creation of **dimensional data mart structures**;  
+- Analytical SQL queries for insurance metrics and KPIs: **GPE**, **exposure**, **frequency**, and **claims analysis**;
+- Production-ready SQL scripts.
 
 ---
 
 ## 🏗️ Project Overview
 
 ### 🎯 Goal  
-Build a realistic insurance analytics environment using SQL and Python to demonstrate:
-
-- Data generation  
-- Data modelling  
-- ETL logic  
-- Insurance KPIs  
-- SQL proficiency  
-- Analytics workflows  
-
-This project works with three core entities:
-- **Customers**  
-- **Policies**  
-- **Claims**
-
----
+Build a realistic insurance analytics environment using SQL and Python to demonstrate data generation, data modelling, and data analysis using SQL. 
 
 ## 🧬 Synthetic Data Generation
-
 Data is generated using Python and the `Faker` library with realistic business logic:
 
 ### ✔️ `generate_customers.py`
@@ -65,9 +48,12 @@ Data is generated using Python and the `Faker` library with realistic business l
 
 `create_insurance_data_mart.sql` builds the full relational schema:
 
-- **customer**
-- **insurance_policy**
-- **claim**
+#### ER Diagram
+<img src="er_diagram.png">
+
+#### Relational Schema
+<img src="relational_schema.png">
+
 ---
 
 ## 📊 Analytical SQL (analysis_queries.sql)
