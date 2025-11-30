@@ -67,9 +67,14 @@ Includes insurance metrics and KPIs:
 
 ### **📌 Exposure Calculation**
 - Overlapping policy days / full policy duration  
-- Used for rate making and frequency
+- Used for frequency
 
 ### **📌 Frequency**
 
 
+## 🧩 SQL Queries
+Full scripts are available in:
+- [`create_insurance_data_mart.sql`](create_insurance_data_mart.sql)  
+- [`analysis_queries.sql`](analysis_queries.sql)
 
+---
