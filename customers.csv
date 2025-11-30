@@ -1,0 +1,3001 @@
+customer_id,full_name,dob,marital_status,num_children,region
+1,Alex Morgan,04/02/1960,Single,0,Auckland
+2,Nicholas Rickard,27/10/1950,Married,2,Waikato
+3,Amber Scott,26/09/1960,Single,0,Wellington
+4,Amanda Ward-Satherley,27/12/1981,Single,0,Taranaki
+5,John Murphy,23/01/2004,Married,0,Manawatu-Whanganui
+6,Oliver Harrison,27/06/1955,Married,0,Wellington
+7,Ava Fisher,02/05/1969,Married,0,Taranaki
+8,Emily Jones-Lloyd,26/05/1953,Married,1,Taranaki
+9,Liam Long,30/12/1986,Married,0,Southland
+10,Courtney Brown-Morton,06/07/1997,Married,2,Manawatu-Whanganui
+11,Shane Law,10/10/1970,Married,0,Hawke's Bay
+12,Megan O'Sullivan,04/02/1970,Married,0,Auckland
+13,Nathan Kenny,03/06/1991,Married,2,Canterbury
+14,Matthew Hansen,10/07/1994,Single,0,Otago
+15,John Knight,17/11/2007,Married,0,Waikato
+16,Destiny Webb,10/03/1997,Single,1,Otago
+17,David Anderson,16/05/1966,Single,0,Manawatu-Whanganui
+18,Anthony Landon-Lane-Sutton,04/10/1993,Married,0,Otago
+19,Michael Black,21/02/2007,Married,1,Auckland
+20,Casey Martin,08/08/1995,Single,0,Taranaki
+21,Emily Greig,01/01/2006,Single,0,Manawatu-Whanganui
+22,Isla Jacques,27/04/1954,Single,0,Bay of Plenty
+23,Aria Jones,14/05/1952,Single,0,Hawke's Bay
+24,Robert Grant,24/03/1949,Married,2,Otago
+25,Lynne Weston,05/01/1962,Married,1,Wellington
+26,Nicholas Thomas,11/02/2005,Single,0,Waikato
+27,Richard Harrison-Morrison,02/09/1955,Single,0,Wellington
+28,Wayne Willis,30/10/1962,Single,1,Wellington
+29,Justin Mitchell,16/06/1987,Single,0,Northland
+30,Maree Simpson,17/10/1996,Married,1,Otago
+31,Vanessa Boon,30/05/2007,Married,0,Otago
+32,Hannah Smith-McFarlane,13/09/2004,Married,0,Bay of Plenty
+33,Angus Aitken,07/04/1950,Married,2,Southland
+34,Sandra Meads,26/02/1981,Married,1,Hawke's Bay
+35,Bruce Shaw,27/04/1982,Single,0,Taranaki
+36,Kevin Stratford-Burnett,09/08/1981,Married,2,Canterbury
+37,Paul Kennedy,12/08/1990,Single,0,Bay of Plenty
+38,Jocelyn Pope,20/02/1953,Single,2,Southland
+39,Anthony Smith,07/08/1982,Married,2,Waikato
+40,Diana Brown-Peters,26/06/1960,Married,2,Auckland
+41,Shane Brown,06/02/1961,Married,0,Auckland
+42,Debra Stewart,13/12/2004,Married,2,Manawatu-Whanganui
+43,Karen Reardon-Bull,11/11/1957,Single,0,Waikato
+44,Mitchell Gibson,18/11/1972,Married,3,Hawke's Bay
+45,Neil Rossiter,09/08/1951,Single,1,Otago
+46,Pamela Reeves,04/05/1952,Married,0,Northland
+47,Craig Ferguson,12/08/1973,Married,1,Southland
+48,John Spelman-Williams,22/11/1999,Married,1,Bay of Plenty
+49,Andrew Love,18/10/2001,Single,0,Taranaki
+50,Timothy Johnstone,22/03/1956,Married,1,Hawke's Bay
+51,Kate Jeffries,26/04/2006,Married,1,Hawke's Bay
+52,Jackson Skinner,14/12/1962,Married,1,Waikato
+53,Jason Toms-Guard,22/09/1982,Single,2,Canterbury
+54,Charlotte Wallace,19/11/1948,Single,0,Wellington
+55,Angela Davies,26/04/1948,Single,0,Wellington
+56,Kay Rees,15/08/1955,Single,0,Canterbury
+57,Anna Edwards,25/05/1985,Married,2,Manawatu-Whanganui
+58,James Claridge,03/09/1983,Married,1,Manawatu-Whanganui
+59,Lynette Gore-Currie,16/08/1984,Married,1,Northland
+60,Grace Carter,25/06/1990,Single,0,Taranaki
+61,Elizabeth Black,12/08/1990,Single,1,Auckland
+62,John McFarlane-Waller,16/07/1945,Single,0,Wellington
+63,Tui Hume-Williams,30/05/1959,Single,0,Taranaki
+64,Caleb Phillips-Brown,12/07/1961,Single,0,Southland
+65,Christopher Muir-Low,13/07/1986,Married,1,Bay of Plenty
+66,Alana Rasmussen,12/04/1965,Single,0,Northland
+67,Trevor Stewart,04/10/1952,Single,0,Bay of Plenty
+68,Charlotte Miller,29/03/1959,Married,3,Canterbury
+69,Deborah Bright,14/11/1962,Single,0,Wellington
+70,Ella Gillies,12/05/1948,Single,1,Bay of Plenty
+71,Sarah Jones,09/08/1967,Married,2,Taranaki
+72,Michael Allen,07/05/1995,Single,0,Canterbury
+73,Nicole Hope,08/07/1952,Single,0,Canterbury
+74,Levi O'Keefe,18/07/1984,Married,1,Taranaki
+75,Jason Jones,20/09/1969,Single,1,Hawke's Bay
+76,Deborah Parker,25/11/1951,Married,1,Auckland
+77,Stacey O'Connor,21/02/1987,Married,0,Otago
+78,Timothy Baker,19/12/1955,Single,1,Bay of Plenty
+79,Amanda Bush,06/07/1967,Married,0,Waikato
+80,Douglas Butcher,05/04/1952,Married,2,Wellington
+81,Shane Bailey,22/06/2000,Married,0,Northland
+82,Georgia Leslie,23/05/1960,Single,0,Taranaki
+83,Mitchell Kennedy,12/11/1963,Married,2,Canterbury
+84,Hayden Buchanan-Payne,26/04/2002,Married,2,Taranaki
+85,Tracey Thomas,06/09/1962,Single,0,Taranaki
+86,Victoria Roberts-Mitchell,24/06/1974,Married,2,Manawatu-Whanganui
+87,Joanne Rossiter,10/10/1952,Married,3,Taranaki
+88,Claudia Jones-Coleman,14/04/1980,Married,2,Waikato
+89,Ian Brown,08/02/1990,Single,0,Manawatu-Whanganui
+90,Grace Jefferies-Parkes,05/05/1965,Married,4,Southland
+91,Nathan Webb-Hickey,19/08/1982,Single,0,Taranaki
+92,Jason Buckley,30/12/1990,Married,1,Waikato
+93,Matthew Stevens,12/03/1982,Single,0,Otago
+94,Felix Wilton-Field,16/06/1989,Married,0,Taranaki
+95,Joy Lawson,10/09/1979,Married,0,Waikato
+96,Mitchell Morris,30/01/1990,Single,0,Southland
+97,Heather Shailer-Wheeler,09/09/1990,Single,0,Wellington
+98,Roger Moore,19/01/1948,Married,3,Otago
+99,Margaret Griffin,24/11/1975,Married,0,Waikato
+100,Courtney Drummond-Cresswell,05/07/1961,Married,0,Northland
+101,Steven Gullery,28/02/2005,Married,0,Canterbury
+102,Denise Watkins,05/04/1992,Married,2,Hawke's Bay
+103,Andrea Parker,20/08/2002,Single,0,Waikato
+104,Carol Francis,18/01/1981,Married,2,Manawatu-Whanganui
+105,Hannah Barker-Saunders,14/05/2000,Single,0,Wellington
+106,Joanna Fairhall,02/04/1975,Single,0,Otago
+107,Julie Wheeler,21/01/2002,Married,1,Northland
+108,Reuben Woolley-Poole,05/08/1963,Single,1,Auckland
+109,Paul Baker,05/10/1967,Single,0,Southland
+110,Anna Simpson,21/12/1970,Married,0,Manawatu-Whanganui
+111,Patrick Brown,22/08/1972,Single,0,Wellington
+112,Karen Brown,01/08/2001,Married,0,Waikato
+113,Susan Greig,27/03/1992,Married,1,Canterbury
+114,Jane Smith-Clarke,06/03/1996,Married,1,Bay of Plenty
+115,Laura Whyte,03/05/1999,Married,1,Wellington
+116,Joseph Morgan,14/12/1977,Single,0,Taranaki
+117,Heather Patterson,02/06/1972,Married,0,Southland
+118,Scott Allerby,02/04/1987,Single,2,Auckland
+119,Terry Gibbons,08/01/1990,Single,1,Waikato
+120,Michael Martin,28/04/1976,Married,0,Northland
+121,Dennis Patchett,06/11/1975,Married,1,Manawatu-Whanganui
+122,Rachel Fisher,30/01/1996,Married,3,Canterbury
+123,Samuel Chapman-Simonsen,13/06/1948,Married,1,Manawatu-Whanganui
+124,Michael Findlay,04/04/1989,Married,0,Northland
+125,Warwick Ward,17/04/1946,Married,0,Taranaki
+126,David Crawford,09/09/1952,Single,0,Northland
+127,John Russell,03/01/1970,Single,0,Bay of Plenty
+128,Maree Schwass-Thomas,28/08/2000,Married,0,Auckland
+129,Brendon Smith-Davies,31/12/1990,Married,1,Taranaki
+130,Tracey Ward,13/03/1985,Married,0,Otago
+131,Bradley Mercer,08/10/2002,Single,0,Hawke's Bay
+132,Sally McMahon-Rose,13/09/1947,Single,0,Taranaki
+133,Joanne Gardiner,03/05/1979,Married,0,Taranaki
+134,Alexis Currie,07/04/1978,Single,0,Canterbury
+135,Victoria Bright,19/04/2001,Married,0,Wellington
+136,Jayden Sowman,03/03/1989,Single,0,Waikato
+137,Samantha Atkinson-Burton,19/07/1974,Married,1,Hawke's Bay
+138,Emma Norton-Lowe,21/10/1950,Single,0,Hawke's Bay
+139,Elizabeth Francis,09/06/1986,Married,0,Wellington
+140,Heather Cresswell,09/01/1967,Single,0,Hawke's Bay
+141,Deborah McNabb,25/01/1968,Married,1,Otago
+142,Nicola Murphy-Smith,27/11/1957,Married,3,Waikato
+143,Paul West,01/07/1996,Married,2,Otago
+144,Melissa Burns,12/11/1998,Married,0,Manawatu-Whanganui
+145,Garry Jamieson,18/06/1961,Married,0,Southland
+146,Jacqueline Barrett-Larsen,01/09/1995,Married,0,Otago
+147,Holly Fowler,09/10/1965,Single,1,Wellington
+148,Brian Davis,15/01/1953,Married,0,Hawke's Bay
+149,Vanessa Paton,09/12/1957,Single,2,Wellington
+150,Emma Bradley,21/08/1996,Married,0,Waikato
+151,Eva Harris-Davis,21/05/1960,Single,0,Canterbury
+152,Geoffrey Tucker,09/07/1953,Married,3,Wellington
+153,Zachary Simmons,13/05/1992,Married,2,Otago
+154,Ava Smith,03/04/1964,Married,0,Northland
+155,Jorja Edwards,26/05/1948,Single,0,Bay of Plenty
+156,Brenda Brown,15/05/1978,Married,1,Southland
+157,Mary Taylor-Moore,17/03/1983,Married,1,Southland
+158,Tamati Campbell,04/12/1996,Married,2,Bay of Plenty
+159,MacKenzie Gore-Stone,16/10/1970,Married,3,Wellington
+160,Gemma Forrest,01/02/1974,Single,1,Canterbury
+161,Maria Small-Hoare,22/10/1996,Married,0,Wellington
+162,Donald Williams,24/03/1961,Married,2,Canterbury
+163,Anna Smith,25/07/1975,Married,0,Hawke's Bay
+164,Karen Anderson-McKay,23/02/1964,Single,0,Otago
+165,Ann Mason,28/11/1962,Single,0,Southland
+166,Michelle Southee-Rush,18/12/1981,Single,1,Taranaki
+167,Thomas Humphrey,06/10/1949,Married,1,Auckland
+168,Robert MacKenzie,29/12/2000,Married,0,Manawatu-Whanganui
+169,Jeffrey Weston-Johnston,18/04/1972,Single,0,Auckland
+170,Lauren Davidson,08/08/1985,Married,0,Canterbury
+171,Patricia Holmes,31/08/1946,Married,1,Bay of Plenty
+172,William Potter,18/01/1984,Married,0,Northland
+173,Wiremu Joe,31/03/1963,Single,0,Manawatu-Whanganui
+174,Raymond Gray,21/03/1980,Single,0,Wellington
+175,Tania Henderson,26/09/1984,Single,0,Canterbury
+176,Wendy Chapman,10/09/1972,Single,0,Otago
+177,Michelle Davison,08/05/1967,Married,1,Canterbury
+178,Fiona Faulkner,08/04/2000,Married,1,Auckland
+179,Amelia Thompson,30/01/1962,Single,0,Auckland
+180,William Jamieson,04/12/1979,Married,2,Waikato
+181,Karen Taylor,08/03/1980,Married,2,Southland
+182,Rachel Parsons-Manning,04/10/1958,Married,0,Taranaki
+183,Caitlyn McKay,05/11/2004,Married,2,Manawatu-Whanganui
+184,Bronwyn Henry,04/05/1986,Single,2,Canterbury
+185,George Smith,01/09/1972,Married,3,Waikato
+186,Tama Landon-Lane,22/04/1976,Married,2,Canterbury
+187,Joshua McIntyre,15/07/1979,Married,2,Auckland
+188,Jamie Burton-Crawford,28/12/1975,Single,0,Otago
+189,Jacob Blick,29/06/1979,Single,0,Manawatu-Whanganui
+190,Shaun Murphy,31/08/1998,Single,0,Waikato
+191,Tina Allan,28/09/2000,Married,0,Wellington
+192,Paul Stubbs-Field,24/10/1989,Married,1,Auckland
+193,Joel Fuller,12/07/1967,Single,1,Waikato
+194,Jane Shannon,31/01/2004,Single,0,Northland
+195,Malcolm Mason,06/09/1997,Married,1,Waikato
+196,Glenn Crawford,24/01/2007,Married,0,Southland
+197,Kora Gifford,11/04/1989,Married,0,Otago
+198,Vivienne Jackson,25/01/1985,Married,0,Wellington
+199,Simon Gardner,11/09/1980,Married,3,Bay of Plenty
+200,Paul Perry,18/06/1989,Single,0,Taranaki
+201,John Foot,11/12/1967,Married,1,Taranaki
+202,Melissa Norton,28/11/2002,Single,0,Auckland
+203,Jane Oliver,24/10/1993,Single,0,Bay of Plenty
+204,Sophia Anderson,24/07/1949,Single,0,Bay of Plenty
+205,Te Ariki Prentice-Nicholson,09/08/1951,Married,0,Hawke's Bay
+206,Jesse Pike,20/05/2006,Single,0,Otago
+207,Graham Taylor,19/04/1969,Married,1,Taranaki
+208,Catherine Bartlett,02/06/1983,Married,0,Hawke's Bay
+209,Christopher Williams,01/03/2004,Single,0,Auckland
+210,Natalie Holdaway-Greig,15/09/1960,Married,2,Auckland
+211,John Donaldson-Beard,25/07/1976,Single,0,Taranaki
+212,Charlotte Gardner,03/06/1968,Married,2,Southland
+213,Michael Rush-Neal,06/06/2002,Single,0,Manawatu-Whanganui
+214,Wiremu Rowlands,29/02/1952,Married,0,Southland
+215,Lisa Stevenson,28/06/1992,Married,3,Hawke's Bay
+216,Ari Fleming,02/08/1963,Married,1,Wellington
+217,Shirley Craig-Hoskins,15/11/2006,Married,2,Bay of Plenty
+218,Sarah Cooke,11/09/1997,Single,0,Southland
+219,Ruby Cook-McDonald,17/12/1961,Married,1,Manawatu-Whanganui
+220,Michael Cooke,20/11/1988,Single,0,Taranaki
+221,Robert Anderson-O'Sullivan,06/11/1953,Married,0,Manawatu-Whanganui
+222,Grant Day-Ward,05/06/1998,Married,2,Manawatu-Whanganui
+223,Kylie Marsh,02/06/2001,Single,0,Canterbury
+224,Thomas Dyer-Coutts,27/12/1964,Married,1,Bay of Plenty
+225,Sally Weston,11/01/1950,Single,0,Auckland
+226,Shane Dalton,13/12/1971,Married,1,Waikato
+227,Aria Black,26/11/1962,Single,0,Hawke's Bay
+228,John Joe,29/08/1990,Single,0,Otago
+229,Jane O'Neill-Richards,30/10/1990,Married,1,Northland
+230,Amanda Guthrie,09/02/1983,Married,2,Taranaki
+231,Diane Brown-Edmonds,15/10/2006,Married,1,Canterbury
+232,Michael Thomas-Jones,09/06/1947,Single,0,Bay of Plenty
+233,Brianna Baker,26/06/1981,Married,1,Southland
+234,Julie Jellyman,23/06/1995,Married,1,Wellington
+235,Jessica Hudson,03/06/1955,Single,0,Waikato
+236,Samuel Dunn,10/12/1963,Married,2,Waikato
+237,Denise Rogers,21/12/1960,Married,2,Canterbury
+238,Ihaia Barnes,07/04/2006,Married,0,Waikato
+239,Angela Morgan,21/03/1953,Single,2,Hawke's Bay
+240,Murray Ritchie,17/07/1985,Single,0,Wellington
+241,Robert Jensen,22/06/1953,Married,1,Southland
+242,Antony Blair,01/01/1959,Single,0,Manawatu-Whanganui
+243,Ross Mason,08/08/1997,Single,0,Waikato
+244,Abigail Gee-Turner,01/10/1953,Married,0,Auckland
+245,Robert Mitchell-Law,15/11/1953,Single,1,Wellington
+246,Robyn Baker,09/12/1966,Married,2,Waikato
+247,Donald Jackson,21/07/1973,Married,0,Taranaki
+248,Peter Sullivan,06/11/1997,Single,0,Taranaki
+249,Lynette Ford,25/12/1959,Married,0,Wellington
+250,Paul Healey,29/09/1989,Single,0,Northland
+251,John Burnett-Taylor,02/07/1977,Single,0,Taranaki
+252,Natasha Burns,23/10/2006,Married,1,Northland
+253,Steven Marshall,31/12/1954,Single,0,Taranaki
+254,Edward Armstrong,22/03/1982,Married,1,Taranaki
+255,Jane Todd,21/12/1964,Single,0,Canterbury
+256,Maia Harris,29/08/1992,Single,0,Northland
+257,Olivia Reid,20/08/1975,Married,1,Waikato
+258,Heather Fowler,19/03/1973,Married,2,Bay of Plenty
+259,Gerard Davies,02/04/1962,Single,0,Taranaki
+260,Nicholas Shaw,11/02/1951,Married,1,Waikato
+261,Jason McKinnon,07/04/1970,Married,0,Wellington
+262,Angela Thornton,16/02/1983,Married,2,Waikato
+263,James Rowland,18/12/1995,Married,0,Otago
+264,William Ball,01/11/1968,Married,2,Wellington
+265,Kelly Simpson-Burton,25/07/2002,Married,0,Waikato
+266,Sarah Barnes,19/10/1996,Married,1,Canterbury
+267,Dianne Wilton-Hope,16/02/1997,Married,2,Wellington
+268,Millie Freeman-Griffiths,02/09/1989,Single,0,Otago
+269,Alexander Morgan-Pritchard,13/08/2007,Single,0,Manawatu-Whanganui
+270,Aimee Paul,11/06/1983,Married,0,Manawatu-Whanganui
+271,Ann Hoare,28/12/1946,Single,0,Hawke's Bay
+272,Debra Currie,08/02/1968,Married,3,Auckland
+273,Grace Webb,13/07/1983,Married,2,Hawke's Bay
+274,Stephen Hart,30/03/1996,Single,0,Auckland
+275,Neil Knight,13/12/1989,Single,1,Bay of Plenty
+276,Maree Williamson,29/07/1959,Married,2,Manawatu-Whanganui
+277,Brenda Wilton,07/03/1964,Single,0,Taranaki
+278,Kathleen Donaldson-Jones,21/10/1971,Single,0,Waikato
+279,Aaron Johnston,13/04/1959,Single,0,Bay of Plenty
+280,Raymond McKay,26/01/1953,Single,0,Auckland
+281,Phoebe Gray,12/10/1970,Married,1,Southland
+282,Joshua McKenna,08/10/1999,Single,0,Manawatu-Whanganui
+283,James Hubbard,04/08/1974,Married,2,Northland
+284,Tania Haines,01/02/1984,Married,3,Hawke's Bay
+285,Jennifer Spencer-McKay,20/06/1972,Married,1,Manawatu-Whanganui
+286,Christina Huddleston,19/03/1976,Married,1,Southland
+287,Annette Franklin,18/06/1961,Single,0,Southland
+288,Jennifer Williams-Paul,29/08/1995,Single,0,Northland
+289,Grant Evans,24/08/1979,Married,0,Bay of Plenty
+290,Kieran Davis,23/09/1997,Single,0,Waikato
+291,Pamela Shepherd,14/05/2000,Married,1,Otago
+292,Bradley Russell,17/09/1956,Married,2,Manawatu-Whanganui
+293,Phoenix Coley,16/12/1956,Single,0,Manawatu-Whanganui
+294,Karen McMillan,03/05/1984,Single,0,Wellington
+295,Melanie Soper-Marshall,03/08/1987,Single,0,Taranaki
+296,Jeremy Weston,15/11/1987,Married,0,Otago
+297,Mark Clarke-Williams,29/04/1976,Married,0,Wellington
+298,Angus Manson,16/02/1950,Single,0,Southland
+299,Matthew McCallum,23/05/1976,Single,0,Auckland
+300,Vanessa Giles,12/09/1947,Single,1,Waikato
+301,Melissa Marshall-Shaw,04/03/1955,Single,0,Hawke's Bay
+302,Ava Beard,11/04/1968,Married,0,Canterbury
+303,Joshua Hansen,06/10/1961,Single,0,Wellington
+304,Mareikura Barnett,27/05/1986,Single,0,Waikato
+305,Jade Miller,21/09/1972,Married,1,Bay of Plenty
+306,Monique Taylor,02/11/1987,Single,0,Canterbury
+307,Angela Scott,26/01/1991,Single,0,Wellington
+308,David Norton-Burnett,02/12/1985,Married,2,Canterbury
+309,Annabelle Clifford,16/04/2007,Married,3,Wellington
+310,William Hooper-Olsen,25/05/1985,Married,1,Bay of Plenty
+311,George Duncan,11/10/1998,Single,0,Manawatu-Whanganui
+312,Nathan Laurenson,07/03/1995,Married,1,Waikato
+313,Aroha Jellyman,05/07/1979,Single,0,Southland
+314,Ian Henderson,25/06/1959,Married,0,Bay of Plenty
+315,Colleen Lyon,14/06/1955,Married,2,Hawke's Bay
+316,Scott Harris-McGill,26/09/2001,Married,2,Hawke's Bay
+317,Amelia Wells,19/01/1997,Single,0,Otago
+318,Mason Simpson,18/03/1957,Single,0,Southland
+319,Samantha Evans-Davidson,11/11/1972,Single,0,Taranaki
+320,William Small,08/02/1996,Married,1,Auckland
+321,Donna Green,07/12/1999,Single,0,Northland
+322,Isaac Gibb,21/11/1974,Single,0,Otago
+323,Richard Brooks-Pedersen,07/12/1955,Single,0,Northland
+324,Caroline Neal-Spencer,22/05/2004,Married,2,Manawatu-Whanganui
+325,Tina Dickson,05/01/1980,Married,0,Taranaki
+326,Benjamin Bell-Ferguson,03/11/1979,Married,3,Bay of Plenty
+327,Ariana Ingram,25/06/2000,Married,1,Taranaki
+328,Tessa Day,19/11/1971,Single,0,Northland
+329,Eden Godfrey,02/06/1970,Single,0,Hawke's Bay
+330,Gordon Harris,17/07/1993,Married,0,Waikato
+331,Robyn Martin,05/06/1964,Single,0,Wellington
+332,Phillip Weston,12/10/1986,Single,0,Northland
+333,Alan Reid,30/01/1955,Married,0,Northland
+334,Kirsty Mitchell-McKay,26/05/1965,Single,0,Southland
+335,David O'Neill,16/04/1987,Married,1,Auckland
+336,Brent Cumming,07/07/1985,Single,0,Otago
+337,Michael Bird,20/10/1993,Single,0,Waikato
+338,Jason Bishop-Green,02/04/1973,Married,1,Bay of Plenty
+339,Kevin Price,14/09/1980,Married,1,Hawke's Bay
+340,Robyn Allan,16/04/1946,Single,0,Bay of Plenty
+341,Amy O'Brien,23/04/1970,Married,1,Taranaki
+342,Hugh Brown,25/04/1961,Married,3,Wellington
+343,Richard Whyte,14/07/1967,Single,0,Manawatu-Whanganui
+344,Hayden Wells,24/08/1988,Married,1,Waikato
+345,Zoe Webster,23/04/1957,Married,2,Southland
+346,Paul Dyer,04/06/1947,Married,2,Northland
+347,Andrew Ward,04/10/1947,Married,2,Wellington
+348,Keith Berkahn-Douglas,22/02/1962,Married,0,Manawatu-Whanganui
+349,Ethan Haines,28/02/1948,Married,2,Bay of Plenty
+350,Emma Porter,22/08/1974,Single,0,Otago
+351,Susan O'Brien,14/08/1957,Married,1,Taranaki
+352,Jacqueline McNabb,21/01/1963,Single,0,Taranaki
+353,Anna Davey,12/11/2000,Married,1,Northland
+354,Frances Harris,22/03/1967,Married,0,Bay of Plenty
+355,George Davey-McEwen,05/11/1991,Single,0,Waikato
+356,Julia Hawkins,10/12/2006,Single,0,Taranaki
+357,Tui Morgan-Murdoch,22/10/1948,Married,3,Canterbury
+358,Isla Seymour,20/02/1991,Married,0,Northland
+359,Cameron Stratford,27/01/1998,Married,0,Hawke's Bay
+360,Bruce Baker,22/10/1988,Single,2,Taranaki
+361,Janet Sutton,30/01/1986,Married,1,Wellington
+362,Tracy Richards,31/10/1996,Married,2,Bay of Plenty
+363,Caroline Barnes-Oliver,14/11/1963,Married,0,Canterbury
+364,Alexander Edwards,20/02/1980,Married,1,Taranaki
+365,Bridget Stone,24/10/1992,Married,0,Auckland
+366,Tangaroa Morris,10/04/2007,Single,2,Taranaki
+367,Brian Rees,01/09/1975,Single,0,Canterbury
+368,Tiare Gledhill,11/06/2002,Married,1,Northland
+369,Nicole Newman,30/08/1964,Married,0,Auckland
+370,Paul Laing,20/04/1988,Married,1,Northland
+371,Kelly Campbell,01/08/1958,Married,1,Otago
+372,Robert Smith,10/08/1982,Married,0,Auckland
+373,Karen Priest,26/09/1953,Single,0,Northland
+374,Anthony Kennedy,10/09/1993,Single,0,Wellington
+375,Kirsten Griffin,07/12/2000,Single,0,Wellington
+376,Bruce Oliver,14/12/1949,Single,0,Southland
+377,Mya Larsen,25/08/2004,Single,0,Canterbury
+378,Megan Henderson,08/09/1953,Single,0,Bay of Plenty
+379,Suzanne Taylor,10/05/1953,Single,0,Waikato
+380,Geoffrey Bell,05/03/1993,Single,0,Manawatu-Whanganui
+381,Tracy Rowe,27/03/1964,Married,1,Hawke's Bay
+382,Craig Steer-Morgan,10/06/1987,Married,0,Taranaki
+383,Laura Brooks-Evans,02/06/1984,Married,1,Northland
+384,Mitchell Parkes,31/01/1986,Married,0,Hawke's Bay
+385,Amy Howell-Williams,22/07/1988,Married,4,Bay of Plenty
+386,Emily MacDonald-Osborne,20/12/1986,Single,0,Auckland
+387,Joshua Watts,13/08/1964,Single,0,Wellington
+388,Jordan Watkins-Donald,22/02/1965,Single,1,Waikato
+389,Nigel Hart,10/03/1973,Single,0,Bay of Plenty
+390,Deborah Stratford,06/03/1966,Single,0,Canterbury
+391,Patricia Gullery,15/01/1972,Single,0,Taranaki
+392,Kerry Mitchell,10/05/1961,Married,0,Auckland
+393,Douglas Parker,30/06/1951,Single,0,Hawke's Bay
+394,Tyrone Howell-Pedersen,16/10/2003,Married,1,Auckland
+395,Tina Short,28/10/1957,Married,0,Bay of Plenty
+396,Joshua Pickering,05/11/1978,Single,0,Northland
+397,Amanda Faulkner,20/04/1979,Married,0,Waikato
+398,Daniel Clarke,06/05/1948,Single,1,Southland
+399,Maddison Cunningham,02/09/1990,Married,1,Waikato
+400,Lachlan Hopkins-Kelly,15/12/2004,Single,0,Taranaki
+401,Raewyn Barnes,01/03/1972,Married,0,Canterbury
+402,Linda Price-McKay,13/03/1971,Married,3,Canterbury
+403,Raewyn Murphy,26/04/1987,Single,0,Canterbury
+404,Brittany Learmonth-Powell,31/12/1998,Single,0,Hawke's Bay
+405,Tracey Barker,14/06/1958,Married,2,Hawke's Bay
+406,Jennifer Jones,22/07/1947,Single,1,Northland
+407,Sadie Rowe,15/01/1955,Married,0,Bay of Plenty
+408,Carolyn Orr,01/08/1966,Single,0,Bay of Plenty
+409,Mareikura Giles,08/04/1965,Married,1,Northland
+410,Kelly Buchanan,29/03/1978,Single,0,Hawke's Bay
+411,Georgia Pollard-Barnes,04/10/1990,Single,0,Manawatu-Whanganui
+412,Lucy McMahon,07/04/1994,Married,2,Hawke's Bay
+413,Martin Roberts,08/07/1989,Single,0,Wellington
+414,Louise Short-Greig,05/07/1956,Single,0,Southland
+415,Rebecca Fisher-Steele,21/05/1961,Single,0,Hawke's Bay
+416,Tracy Mitchell-Smith,02/04/1966,Married,1,Auckland
+417,Jamie Cameron,20/01/1979,Married,4,Southland
+418,Tania Ramsay-Bush,22/02/1949,Single,0,Hawke's Bay
+419,Kenneth Hope,20/12/1989,Single,0,Canterbury
+420,Jane Thornton,08/03/1976,Single,0,Southland
+421,Leanne Lawson,13/12/2003,Single,0,Bay of Plenty
+422,Matthew McDonald-Parker,19/11/1982,Single,0,Hawke's Bay
+423,Troy Peterson,20/05/1997,Married,1,Northland
+424,Nigel West,22/07/1977,Married,3,Northland
+425,Tina Leslie,07/07/1963,Married,1,Otago
+426,Marcus Pratt,11/11/2005,Married,1,Wellington
+427,Vicki Watkins,02/09/1964,Married,2,Otago
+428,Wayne Williams-Broughan,18/07/1989,Married,1,Northland
+429,Debra Hutchinson,11/05/1963,Married,0,Manawatu-Whanganui
+430,Cameron Dunn-Reynolds,28/05/1961,Single,0,Taranaki
+431,Dianne Mason,22/09/1951,Married,0,Wellington
+432,Olivia Harris,10/05/1997,Married,1,Otago
+433,William Meads,27/08/1955,Married,0,Manawatu-Whanganui
+434,Kate Ward,14/06/1964,Married,2,Auckland
+435,Michael Gillies-Thompson,23/12/1983,Married,2,Taranaki
+436,Paula Mann,12/06/1947,Married,1,Auckland
+437,Stacey Gray,27/06/2007,Married,0,Otago
+438,Robyn Edwards,16/11/1995,Married,1,Northland
+439,Adam Sutton,16/03/1952,Married,1,Auckland
+440,John Ritchie-Barnett,02/06/2005,Married,0,Taranaki
+441,Karen Davis,27/07/1952,Married,0,Bay of Plenty
+442,Peter Robson,21/10/1993,Married,1,Northland
+443,Peter Eaton,18/07/1983,Married,0,Southland
+444,Cody Chambers,13/12/2005,Single,0,Waikato
+445,Kerry Thompson,13/06/1990,Married,2,Bay of Plenty
+446,Kahu Sullivan,14/10/1961,Married,1,Taranaki
+447,Jacob Bryant-Roberts,03/05/1967,Married,1,Waikato
+448,Paige Smith-Woods,18/01/1992,Married,4,Wellington
+449,Nathan Francis,10/10/1955,Married,1,Wellington
+450,Tara Lyons,17/04/1997,Married,1,Canterbury
+451,Michael Burke,01/12/1969,Married,1,Bay of Plenty
+452,Darren Stewart,01/05/1955,Single,0,Bay of Plenty
+453,Jade Kenny-Landon-Lane,11/06/1996,Single,0,Northland
+454,Raymond Payne,14/06/1985,Single,2,Waikato
+455,Judith Low,22/03/1950,Married,1,Canterbury
+456,Anthony Hayward,21/04/1979,Single,0,Hawke's Bay
+457,Laura Bell-Sanders,22/12/1974,Married,1,Canterbury
+458,Paul West,28/01/2006,Married,2,Bay of Plenty
+459,Samantha Fowler,31/10/1979,Single,0,Manawatu-Whanganui
+460,Lisa Higgins,08/09/1990,Married,1,Taranaki
+461,James Pollard,29/08/1995,Married,0,Auckland
+462,Anna Grant-Jordan,24/09/1981,Married,0,Bay of Plenty
+463,Manawa Crawford,10/06/1964,Married,2,Hawke's Bay
+464,Richard Christiansen,14/07/1994,Married,4,Northland
+465,Jamie Reed,06/06/1975,Single,1,Northland
+466,Anna Burnett,02/06/2004,Married,1,Otago
+467,Michael Matthews,18/01/1957,Single,0,Taranaki
+468,Krystal Ireland,22/01/1960,Single,0,Otago
+469,Ariki Page,03/11/1993,Married,2,Waikato
+470,Kylie Edmonds,30/09/1961,Single,0,Waikato
+471,Charlotte McDonald,18/06/2004,Single,1,Manawatu-Whanganui
+472,Alistair Morton,01/10/1986,Single,0,Northland
+473,David Brown,28/04/1985,Single,0,Manawatu-Whanganui
+474,Maddison Low,20/03/1948,Married,1,Southland
+475,James Baker,10/09/1959,Married,2,Southland
+476,Cameron Esson,03/11/1960,Single,2,Northland
+477,Hannah Todd-Joe,23/09/1966,Single,1,Canterbury
+478,Stephen Skinner-Woolley,18/01/1973,Married,1,Hawke's Bay
+479,Anthony Jarvis-Bruce,09/12/2006,Married,1,Wellington
+480,Linda Jones,05/05/1968,Married,2,Northland
+481,Robyn Ryan,27/03/1973,Single,0,Northland
+482,Gavin Edwards,06/07/1981,Married,0,Canterbury
+483,Sean Stevens,20/01/1993,Single,0,Southland
+484,Tania McGregor,01/04/1973,Married,3,Wellington
+485,Carol Jensen,28/09/1958,Single,0,Bay of Plenty
+486,Timothy Hopkins,14/03/1951,Married,1,Manawatu-Whanganui
+487,Andrew Duncan,27/01/1986,Single,0,Otago
+488,Simon McDonald,27/09/1996,Single,1,Taranaki
+489,Denise Wood,18/08/2006,Single,0,Otago
+490,William Smith-Arnott,13/05/1995,Married,1,Northland
+491,Tania Dillon,18/10/1992,Married,2,Auckland
+492,Tania Simmons,05/09/1997,Married,1,Waikato
+493,Karen Robson,22/11/1965,Married,1,Bay of Plenty
+494,Kelly Holdaway,13/08/1951,Married,4,Wellington
+495,Rachel Ryan,23/09/1958,Single,0,Wellington
+496,Jessica McGregor,18/12/1959,Married,2,Wellington
+497,Adrian Simmons,25/08/1984,Single,0,Bay of Plenty
+498,Gabrielle Davis,23/07/1960,Single,1,Auckland
+499,Sarah Hodson-Woods,05/07/1991,Married,1,Auckland
+500,Raymond West-Baxter,27/03/1995,Married,0,Otago
+501,Chloe Jennings,04/06/1956,Single,0,Waikato
+502,Kathleen Turnbull,18/10/1981,Married,1,Hawke's Bay
+503,Kevin Wall,18/12/1949,Single,0,Canterbury
+504,Raymond Williamson,29/03/2002,Single,0,Wellington
+505,Anthony Simpson,16/10/1959,Single,0,Manawatu-Whanganui
+506,Jade Goodwin,12/04/1990,Single,0,Waikato
+507,Michelle Smith,14/02/1981,Single,0,Hawke's Bay
+508,Alexandra Tapp,08/08/1963,Single,0,Northland
+509,Aidan Kendall-Johansen,07/10/1999,Single,0,Northland
+510,Thomas Barnett,21/04/1961,Married,0,Auckland
+511,Kirsty McPherson-Roberts,30/11/1971,Married,2,Northland
+512,Victoria Holland,15/06/1961,Married,3,Southland
+513,Gavin Laurenson,23/05/1950,Single,0,Wellington
+514,Benjamin Fisher,08/07/1982,Single,0,Otago
+515,Michael Kenny,14/07/1950,Single,2,Bay of Plenty
+516,Melanie Hughes,16/04/2003,Single,0,Manawatu-Whanganui
+517,Tania Adams,28/03/2006,Married,2,Northland
+518,Kate Jones-Williams,22/11/2007,Single,0,Waikato
+519,Lisa Anderson,11/10/2002,Married,4,Northland
+520,William Reynolds,05/02/1996,Married,0,Manawatu-Whanganui
+521,Teresa Stevens,14/04/1983,Single,0,Hawke's Bay
+522,Sarah Gordon-Alve,25/06/1967,Married,0,Bay of Plenty
+523,Robert McIntosh,30/03/1950,Married,0,Southland
+524,Andrea Coleman,23/12/2001,Single,0,Auckland
+525,Maia Andrew,08/06/1985,Married,1,Southland
+526,Amanda Morgan,26/07/1975,Married,2,Auckland
+527,Henry Burke,17/04/1974,Single,1,Northland
+528,Michelle Thompson-Gore,19/03/1999,Married,2,Bay of Plenty
+529,Benjamin Simpson,02/05/1993,Married,2,Waikato
+530,Peter Oliver,27/02/1952,Single,0,Otago
+531,Tyler Rogers,18/09/1996,Married,0,Waikato
+532,Caleb Edwards,14/06/1975,Married,1,Southland
+533,Kelly Harris,02/01/1951,Single,0,Southland
+534,Aroha Todd,25/12/1966,Married,2,Canterbury
+535,Gareth Gordon,02/09/1950,Married,1,Southland
+536,Susan Meads,30/10/1983,Single,0,Bay of Plenty
+537,Nicholas Evans,17/03/1963,Single,0,Auckland
+538,Joshua Brown-Nicholson,24/07/1973,Married,1,Canterbury
+539,Renee Price,08/09/1961,Married,0,Bay of Plenty
+540,Lynette Davis,08/03/1952,Single,0,Manawatu-Whanganui
+541,Aaron Black-Carroll,04/10/1970,Married,0,Canterbury
+542,Hazel McPherson,25/05/2003,Married,2,Otago
+543,Caroline Marshall-Huddleston,29/07/1958,Single,0,Bay of Plenty
+544,Christine Kennedy,16/08/1966,Single,0,Bay of Plenty
+545,Wendy Maxwell,30/01/1967,Married,3,Northland
+546,Ryan Powell-Thomas,11/04/1983,Married,3,Bay of Plenty
+547,Tiare Henderson-Gibbs,27/09/1946,Married,2,Otago
+548,Tracey Wood,10/03/1999,Single,0,Northland
+549,Ryan Leslie,30/09/1972,Married,3,Canterbury
+550,Carolyn Johnston,06/02/1962,Single,0,Waikato
+551,Paul Doyle,09/12/1949,Single,1,Southland
+552,Kate Dixon-McCallum,16/07/2007,Single,2,Taranaki
+553,Leah Eaton,16/05/1969,Single,0,Manawatu-Whanganui
+554,Lynette Mortimer,07/05/1952,Single,0,Taranaki
+555,Michael Gibson,07/12/1988,Single,0,Otago
+556,Lucas Curtis,30/11/1988,Single,0,Southland
+557,Wendy Wilton,16/08/1945,Married,0,Manawatu-Whanganui
+558,Darryl Prentice-Freeman,13/09/1991,Married,2,Otago
+559,Jesse Olsen,18/06/1997,Single,0,Waikato
+560,Natasha Simpson-Jacques,04/10/1977,Single,0,Hawke's Bay
+561,Jamie Boniface-Thomas,04/08/1994,Married,2,Taranaki
+562,Grace McLean,25/12/1958,Married,1,Hawke's Bay
+563,Helen Scott,14/01/1994,Single,0,Wellington
+564,Hannah Stevens,15/01/2000,Single,0,Northland
+565,Alan Larsen,07/05/1952,Single,1,Bay of Plenty
+566,Toby Hoare,08/01/1980,Single,0,Wellington
+567,Charlotte Higgins,07/05/1976,Married,0,Auckland
+568,Mary Edwards,20/08/1989,Married,1,Northland
+569,Amanda Bishop,02/05/1958,Single,0,Waikato
+570,Joanne Smith-Reid,06/11/1963,Single,1,Canterbury
+571,Mark Porter,10/06/1981,Single,0,Otago
+572,Hannah Holland,04/10/1962,Married,2,Taranaki
+573,Kirsty O'Neill,12/07/1985,Single,0,Canterbury
+574,Jasmine Thomas-Clarke,24/01/1976,Married,2,Southland
+575,Russell Newton,23/02/1965,Single,0,Northland
+576,Anne Stewart-Campbell,08/09/1965,Single,0,Bay of Plenty
+577,Jack Turner,05/05/1971,Married,0,Otago
+578,Caroline Gill-Edwards,25/02/1988,Married,0,Northland
+579,Lindsay West,15/06/1954,Single,1,Otago
+580,Sarah Gore,21/10/2003,Married,0,Southland
+581,Joseph Davis,12/01/1971,Married,1,Southland
+582,Mia Sinclair,14/05/1978,Single,0,Manawatu-Whanganui
+583,Kathleen Thompson,03/01/1947,Married,0,Wellington
+584,Gareth Morgan,28/06/1981,Single,1,Northland
+585,Richard Rose,23/06/1997,Married,0,Waikato
+586,Lesley Thomas,04/09/1952,Single,0,Hawke's Bay
+587,Sara Barnes,19/11/2000,Married,3,Auckland
+588,Phoenix Gardner,11/10/1959,Single,0,Waikato
+589,Peter Woods,01/10/1961,Married,4,Hawke's Bay
+590,John Phillips,25/06/2000,Married,0,Taranaki
+591,Shirley Thomas,26/02/2000,Married,0,Waikato
+592,Ross Forrest,06/10/1968,Married,2,Waikato
+593,Maureen Evans-Martin,19/12/1958,Single,0,Canterbury
+594,Luke Bartlett,09/07/1985,Married,2,Hawke's Bay
+595,Graham Low,05/08/1964,Single,0,Canterbury
+596,Wayne Lee-Bowden,18/05/2000,Single,2,Taranaki
+597,William Tait,06/06/2007,Married,0,Canterbury
+598,Simon Jackson-Lamb,23/11/1961,Married,0,Auckland
+599,Sarah Nolan,03/12/1990,Married,0,Otago
+600,Casey Vercoe,18/08/1987,Married,2,Waikato
+601,Julie Armstrong,18/10/2004,Married,1,Auckland
+602,James Simonsen,06/03/1992,Single,0,Auckland
+603,Valerie Patchett,27/01/1945,Married,0,Manawatu-Whanganui
+604,Peter Holland,06/02/1990,Single,0,Wellington
+605,Shannon Leslie,21/12/1971,Single,0,Otago
+606,Sarah Cresswell,16/11/1966,Married,1,Wellington
+607,Leanne Stewart,30/11/2002,Married,1,Waikato
+608,Summer Pritchard,12/01/1948,Single,1,Auckland
+609,Alice McFarlane,28/08/1955,Married,2,Southland
+610,Aaliyah Twidle,03/09/1958,Single,0,Northland
+611,Stephen Johnston,29/05/2004,Single,0,Auckland
+612,Michael Neal,18/03/1970,Married,0,Northland
+613,Andrew Poole,23/04/1994,Single,0,Manawatu-Whanganui
+614,Jason Scott,20/05/1951,Single,0,Northland
+615,Jonathan Stewart,19/04/1960,Married,2,Northland
+616,Alexandra Dillon,05/07/2000,Single,0,Wellington
+617,Nicola Sullivan,26/06/1960,Married,1,Canterbury
+618,Peter Harris,25/03/1966,Married,0,Bay of Plenty
+619,Cameron Middleton-Wratt,19/12/1953,Married,1,Hawke's Bay
+620,Anthony McGregor,09/06/1986,Single,0,Otago
+621,Jeremy Barr,25/08/1987,Single,0,Hawke's Bay
+622,Thomas Dunn,04/01/1975,Single,0,Northland
+623,Steven Martin,15/04/1953,Married,1,Manawatu-Whanganui
+624,Holly Wilton,27/09/1998,Single,0,Wellington
+625,Edward Thompson,25/07/1982,Married,2,Southland
+626,Olivia Morris-Claridge,24/09/1946,Single,1,Taranaki
+627,Daniel Stratford-McDonald,26/07/1971,Single,0,Waikato
+628,Riley Guy,11/03/1961,Married,1,Waikato
+629,Beverley Hodson,28/04/1985,Single,0,Northland
+630,Stephanie Smith,24/06/1969,Married,1,Wellington
+631,Jacob Wall,18/07/1973,Married,1,Otago
+632,Natalie Pritchard,30/04/1997,Married,2,Otago
+633,Mark Smith,03/08/1959,Married,3,Southland
+634,Warren Kennedy,26/05/1964,Married,3,Wellington
+635,Rebecca Grant,12/04/1972,Single,0,Wellington
+636,Laura Simpson,05/08/1950,Married,0,Wellington
+637,Karl Cameron,23/11/1999,Married,2,Otago
+638,Harmony Reynolds,04/11/1996,Married,2,Taranaki
+639,George Davidson,05/07/2002,Single,0,Taranaki
+640,David Broughan,18/10/1952,Married,1,Southland
+641,Maree Lewis-Hubbard,23/04/1995,Single,0,Otago
+642,Adam Martin,05/09/1945,Married,2,Manawatu-Whanganui
+643,Vanessa McLeod,10/03/1998,Married,2,Auckland
+644,Christopher Jackson-Findlay,13/03/1963,Single,1,Hawke's Bay
+645,Richard Anderson,30/10/1999,Single,0,Wellington
+646,Kevin Allen-Learmonth,11/08/1987,Married,1,Waikato
+647,Julie Price,26/11/1978,Married,0,Northland
+648,Isaac Russell,28/11/1951,Single,0,Wellington
+649,David Allan,26/11/1947,Single,0,Taranaki
+650,Andrew O'Sullivan,12/07/2007,Married,1,Bay of Plenty
+651,Todd Davison,12/07/1982,Married,1,Manawatu-Whanganui
+652,Diane Parker,25/03/2007,Single,0,Hawke's Bay
+653,Emma Williams,11/04/1970,Single,0,Southland
+654,Mikayla Taylor,04/02/1960,Married,1,Hawke's Bay
+655,Wayne Brown,21/07/1976,Single,1,Bay of Plenty
+656,Grant Simmons-Smith,24/07/1958,Married,0,Bay of Plenty
+657,Renee Giles-Jensen,19/12/1969,Married,2,Bay of Plenty
+658,Tui Terry,01/10/1994,Single,1,Otago
+659,Charles Procter,14/07/1946,Single,0,Canterbury
+660,Helen Wallis,06/08/2004,Married,1,Manawatu-Whanganui
+661,Abby Fitzgerald,06/09/2002,Married,0,Southland
+662,Bradley Tapp-Baker,22/05/1978,Single,2,Wellington
+663,Paul Scott,07/08/2007,Married,2,Waikato
+664,Jessica York,08/02/1976,Married,1,Northland
+665,Mark McCallum,08/04/1988,Single,0,Otago
+666,Mark Brown,26/12/1989,Married,1,Otago
+667,Gabriel Mann,27/05/1999,Married,2,Hawke's Bay
+668,Hannah Knight,27/12/1949,Married,1,Auckland
+669,Richard Nielsen,25/06/1955,Married,0,Hawke's Bay
+670,John Davies,13/02/1953,Married,0,Wellington
+671,Vivienne Wood,20/11/1965,Single,0,Southland
+672,Sebastian Scott-Bull,10/08/1965,Single,0,Hawke's Bay
+673,Amy Potter-Patchett,11/02/1951,Single,0,Bay of Plenty
+674,William Black,27/03/1948,Single,0,Taranaki
+675,Dennis Cairns-Anderson,04/06/1972,Single,0,Manawatu-Whanganui
+676,Pippa Parker,07/05/1976,Single,0,Southland
+677,Brian Brown,18/01/1998,Married,2,Northland
+678,Craig Dixon,10/08/1991,Married,1,Bay of Plenty
+679,Mark Carter,18/03/2000,Single,0,Manawatu-Whanganui
+680,Te Ariki Ward,12/11/1988,Married,4,Auckland
+681,Benjamin Hopkins,14/12/1999,Single,0,Bay of Plenty
+682,Andrew Lloyd,03/05/1956,Married,3,Canterbury
+683,Sandra Black,29/11/1946,Single,0,Bay of Plenty
+684,Christina Reid,22/08/1957,Married,1,Auckland
+685,Jesse Moore-Bishop,22/11/1986,Married,1,Manawatu-Whanganui
+686,Joshua Gilmore-Webster,16/11/1950,Married,0,Manawatu-Whanganui
+687,Caroline Ward,08/02/2005,Married,1,Waikato
+688,Michael Trask,30/12/1998,Single,0,Southland
+689,Renee Lucas,17/12/1981,Married,2,Wellington
+690,Suzanne Brooks,03/05/1971,Single,0,Auckland
+691,Alexander Nelson,25/11/1946,Married,1,Northland
+692,Anthony Corbett-Tapp,01/02/1997,Single,1,Otago
+693,Zachary Harris,09/08/1989,Single,0,Hawke's Bay
+694,Kyle Flood-Drake,24/11/1996,Married,1,Southland
+695,Scarlett McNabb-Gibson,05/01/2002,Married,1,Wellington
+696,David Ryan,18/02/1995,Married,1,Otago
+697,Tania Anderson,30/07/1992,Single,0,Hawke's Bay
+698,Lisa McGregor-McDonald,20/01/2000,Married,1,Otago
+699,Glenda Burns,18/01/1951,Single,0,Wellington
+700,Mathew Smith,07/06/1977,Married,0,Hawke's Bay
+701,Tania Cameron,14/10/1953,Married,1,Wellington
+702,Thomas Franklin,04/12/1966,Married,1,Bay of Plenty
+703,Charles Marfell,18/07/1954,Married,2,Waikato
+704,Scott Gullery,03/11/1949,Single,0,Canterbury
+705,Lucy Wells,10/11/1966,Married,0,Southland
+706,Peter Coleman,29/05/1988,Married,0,Taranaki
+707,Christina Enright,07/02/1992,Single,0,Otago
+708,Diane Forrest,02/11/1956,Single,0,Southland
+709,Peter Wallace-Gray,10/01/1945,Married,2,Waikato
+710,Jasmine Farland-Ching,09/02/1947,Single,0,Bay of Plenty
+711,Hannah Dawick-Watt,07/06/1988,Married,0,Hawke's Bay
+712,Tony Turner,17/08/1995,Single,0,Southland
+713,Harrison Ryan,13/03/1988,Married,0,Southland
+714,Judith Roberts,20/11/1961,Married,1,Hawke's Bay
+715,Hayden Baldwin,05/12/1993,Single,0,Northland
+716,Jacob Perano,23/03/1956,Married,2,Hawke's Bay
+717,Stacey Phillips,13/06/1970,Married,1,Hawke's Bay
+718,Robyn Boyd,03/07/1996,Married,1,Southland
+719,Christopher Williams,17/06/2002,Single,0,Northland
+720,Alan Carter-Harris,01/03/1968,Married,0,Northland
+721,Charlotte Williams,08/01/2006,Married,1,Bay of Plenty
+722,Lynette Andrew,03/10/1977,Married,1,Otago
+723,Jason Woods,26/03/1986,Single,0,Bay of Plenty
+724,Andrew Hughes,01/11/1957,Single,0,Auckland
+725,Olivia Nash,16/12/1962,Married,0,Bay of Plenty
+726,Gary Scott-Powell,23/04/1982,Single,0,Wellington
+727,Andrew Smith,14/11/1950,Single,0,Taranaki
+728,Kate Scott-Wood,02/05/1988,Married,1,Hawke's Bay
+729,Jonathan Thomas,26/04/1998,Married,1,Auckland
+730,Kathryn Morton,09/02/1951,Married,1,Hawke's Bay
+731,Janine Gardiner,11/11/1970,Single,0,Otago
+732,Jesse Allen,21/07/1976,Married,1,Taranaki
+733,Samuel McMillan,11/03/1955,Married,0,Auckland
+734,Benjamin Larsen,01/10/1981,Single,0,Otago
+735,Dianne Taylor-Gordon,19/06/1980,Married,4,Wellington
+736,Natasha Webby,17/11/1983,Married,1,Canterbury
+737,Gemma Black,06/01/2003,Married,0,Northland
+738,Joshua Boyle,18/05/1999,Single,2,Taranaki
+739,Catherine Kay-Ferguson,12/04/1956,Single,0,Canterbury
+740,Bruce Grant,24/05/1991,Married,1,Bay of Plenty
+741,Te Ariki Watts,31/08/2001,Single,0,Otago
+742,Graeme Hawkins-Bull,30/10/1950,Single,0,Auckland
+743,Jennifer Webb,14/09/1963,Married,2,Southland
+744,Tania Smith,26/07/1992,Single,0,Otago
+745,Kim Currie-Day,28/12/1954,Single,0,Southland
+746,Lucy Ching-Harris,04/02/1952,Single,0,Bay of Plenty
+747,Riley MacPherson,18/10/2004,Single,0,Southland
+748,Emily Coley,31/10/1983,Married,3,Hawke's Bay
+749,Amelia Morgan,11/09/1954,Single,1,Otago
+750,Naomi Dixon-Black,19/09/2004,Single,0,Southland
+751,Andrew Shaw,08/03/1963,Married,0,Otago
+752,Gregory Guy,24/01/1966,Married,1,Southland
+753,Sharon Donald,13/01/2004,Married,2,Manawatu-Whanganui
+754,Gavin MacKay,30/07/1997,Married,0,Wellington
+755,Peter Rodgers-Thompson,18/12/1974,Married,1,Manawatu-Whanganui
+756,Pauline Horton,02/12/2003,Married,1,Otago
+757,Keith Hart,29/01/1966,Married,2,Southland
+758,Jennifer Ellery,01/08/1980,Single,0,Southland
+759,Clinton Waghorn,26/07/1958,Single,1,Wellington
+760,Allan Jones,06/06/1969,Married,1,Manawatu-Whanganui
+761,Edward Edmonds,12/04/1979,Single,0,Auckland
+762,Nicholas Green,02/03/1978,Married,1,Canterbury
+763,Christine Paul,03/11/1984,Single,1,Otago
+764,Helen Stubbs,05/07/1962,Single,1,Northland
+765,Ethan O'Brien,29/12/1955,Single,0,Canterbury
+766,Shane Nicol,09/01/1991,Single,0,Bay of Plenty
+767,Michael Lee-Jeffries,20/02/1997,Married,2,Wellington
+768,Jonathan Stewart,09/09/1956,Single,0,Taranaki
+769,David Griffiths,10/09/1965,Single,0,Taranaki
+770,Jason Duncan-Phillips,20/01/1962,Single,0,Otago
+771,Georgia Woolley,05/05/1987,Married,2,Hawke's Bay
+772,Ava Carr-Beattie,16/04/2002,Married,0,Manawatu-Whanganui
+773,Melissa Griffiths,20/03/1965,Married,0,Canterbury
+774,Jordan Wells,21/09/1963,Single,0,Hawke's Bay
+775,Shelley Carter,18/04/1993,Single,0,Canterbury
+776,Craig Pope-Green,08/10/1948,Single,0,Auckland
+777,Michelle Read,27/12/1993,Single,0,Southland
+778,Tui Carter,22/05/1973,Married,2,Northland
+779,Paula Greer,01/11/1983,Married,1,Northland
+780,Pamela Bailey,15/04/1981,Married,0,Waikato
+781,Susan Joe,06/06/1979,Single,0,Northland
+782,Scott Willis,26/03/1957,Married,3,Waikato
+783,John Hoare,03/04/1994,Married,1,Hawke's Bay
+784,Warren Bowden,10/06/1989,Single,2,Northland
+785,Henry MacKay,20/10/1965,Married,2,Manawatu-Whanganui
+786,Jade Nielsen,18/06/1976,Married,1,Manawatu-Whanganui
+787,Andrea Bright,24/05/1984,Married,3,Waikato
+788,Jonathan Davis,22/01/1953,Single,0,Canterbury
+789,Kylie Williamson,02/03/2004,Single,1,Auckland
+790,Tama Larsen,27/08/1983,Married,1,Otago
+791,Glenn McCarthy,29/11/1997,Single,0,Wellington
+792,Hayley Street,26/03/1966,Married,2,Taranaki
+793,Aaron Morgan,14/09/1996,Single,1,Bay of Plenty
+794,Mark Hart,04/05/1998,Single,0,Canterbury
+795,Bryan Nicholson,16/02/1974,Single,0,Taranaki
+796,Wendy Gill,22/06/1947,Married,0,Manawatu-Whanganui
+797,Peter Kemp,09/08/2005,Single,0,Waikato
+798,Claudia Lawson,21/07/1987,Married,2,Otago
+799,David Zimmerman,22/02/1966,Single,1,Manawatu-Whanganui
+800,Jacob Forrest,09/04/1956,Married,0,Taranaki
+801,Gary Morrison,08/06/1994,Married,1,Manawatu-Whanganui
+802,Kimberley Nicholson-Gilchrist,04/01/1954,Single,2,Otago
+803,Isabella McDonald,14/08/2006,Married,0,Otago
+804,David Hawkins,01/11/1953,Married,3,Southland
+805,Mark Evans,07/11/1969,Married,1,Canterbury
+806,Jack Spencer,22/05/1997,Single,0,Bay of Plenty
+807,Anahera Godfrey-Beattie,19/05/1989,Single,1,Northland
+808,Nigel Pedersen,13/10/1970,Married,2,Canterbury
+809,Ella Kenny,21/11/1958,Married,2,Northland
+810,Gavin Beattie,27/12/1989,Single,0,Auckland
+811,Max Judd-Pedersen,21/01/2006,Single,1,Auckland
+812,Olivia Thomas,30/08/1952,Married,0,Canterbury
+813,Danielle Ward,20/10/1962,Married,1,Hawke's Bay
+814,Hunter Perry,27/10/1955,Single,0,Wellington
+815,Katie Wood,12/08/1977,Married,2,Waikato
+816,Aaron Jellyman,14/08/2006,Married,1,Auckland
+817,Michelle Moore-Scott,23/09/1979,Married,0,Southland
+818,Taylor Curtis,27/12/1975,Married,2,Northland
+819,John Harris-Gray,04/08/1947,Married,0,Northland
+820,Ruby Davies,01/03/1995,Married,1,Auckland
+821,Sean Neilson,25/07/1945,Married,1,Hawke's Bay
+822,Grant Stratton,22/03/1987,Married,0,Canterbury
+823,Jack Larsen,26/08/1952,Married,0,Auckland
+824,Victoria Knight,26/02/1971,Married,1,Waikato
+825,Ruby Robson,19/02/1999,Single,0,Canterbury
+826,Caleb Hawkins,13/05/2002,Married,2,Wellington
+827,Jamie Bradley,02/07/1999,Married,1,Otago
+828,Christine Fisher,23/04/1969,Single,0,Taranaki
+829,Shannon Bruce,25/05/1994,Single,0,Taranaki
+830,Tania Thomas,22/11/1972,Married,1,Manawatu-Whanganui
+831,Anthony Coley,30/09/1945,Single,1,Auckland
+832,Rebecca Boyd,10/05/1983,Single,0,Otago
+833,Kim Hyde,23/12/1986,Married,0,Auckland
+834,Michelle Parker,07/06/1968,Married,1,Wellington
+835,Catherine Humphrey,11/08/2005,Single,0,Southland
+836,Adam Stace,23/04/1979,Single,0,Hawke's Bay
+837,Sonia Williams,12/05/1978,Single,0,Otago
+838,Grant Murphy,27/05/1979,Married,0,Otago
+839,Melanie Jamieson,23/11/1960,Married,1,Southland
+840,Judith Osborne,23/11/1950,Married,0,Southland
+841,Grace Murdoch,15/08/1995,Single,0,Northland
+842,Bradley Williamson,26/10/1982,Single,0,Canterbury
+843,Sam Flood,12/01/1987,Single,0,Northland
+844,Stephen McGregor-Woods,14/12/1975,Single,0,Waikato
+845,Sarah Pollard,12/05/2002,Married,0,Waikato
+846,Linda Healy,06/02/1977,Single,1,Otago
+847,Olivia Thomas,29/07/1996,Single,1,Taranaki
+848,Aaron Gibson,10/01/1988,Single,0,Taranaki
+849,Kim Kenny,08/01/1948,Married,1,Auckland
+850,Carolyn McIntyre,03/01/1994,Married,2,Waikato
+851,Dean Davis,14/02/1953,Married,0,Auckland
+852,John Findlay,06/09/1993,Married,2,Otago
+853,Phillip Jones,31/12/1987,Married,0,Otago
+854,Brooke Reed-Holland,03/01/1985,Single,0,Manawatu-Whanganui
+855,William Smith,02/01/1995,Single,0,Manawatu-Whanganui
+856,Toni Wall,08/10/1977,Married,1,Canterbury
+857,Nikau Hansen,20/05/2000,Single,0,Northland
+858,Jacob Ball,21/12/2004,Married,1,Taranaki
+859,Sophie Pedersen,07/05/1986,Married,0,Wellington
+860,Edward Buick,03/12/1964,Single,0,Wellington
+861,Cameron Davey,24/03/2005,Single,0,Canterbury
+862,Gemma Judd,24/06/2003,Single,0,Otago
+863,Maureen Ward,19/05/1987,Married,0,Otago
+864,Nicholas Blackwell-Stewart,31/03/1993,Single,0,Bay of Plenty
+865,Joshua Pike,04/11/1966,Single,0,Manawatu-Whanganui
+866,Quinn McGregor,25/07/1984,Single,0,Northland
+867,Mila Stratton,28/03/1981,Single,0,Auckland
+868,Samantha McLeod,17/08/1946,Married,2,Otago
+869,Andrew Taylor,27/01/1963,Married,1,Manawatu-Whanganui
+870,Kauri Chandler,14/11/1954,Single,0,Auckland
+871,Daniel Butler-Lucas,15/09/1975,Married,0,Southland
+872,Sienna Giles-Jeffries,05/06/1995,Married,1,Taranaki
+873,Janine Carr,17/02/1999,Single,0,Southland
+874,Nikau Jones-Fisher,02/04/1973,Single,0,Auckland
+875,Wendy Taylor,07/07/1995,Single,0,Hawke's Bay
+876,Matthew Ellery,12/02/2004,Married,2,Northland
+877,Thomas Marfell,22/12/1988,Single,0,Wellington
+878,Leanne Holmes-Terry,27/01/1958,Married,0,Southland
+879,Christine Casey,18/08/1957,Married,1,Manawatu-Whanganui
+880,Brittany Jones,25/11/1963,Married,3,Auckland
+881,Bryan Greig-Russell,27/05/1967,Single,0,Southland
+882,Andrew Mayo,10/07/1985,Single,0,Otago
+883,Sarah Stevens-Doyle,06/05/1982,Married,1,Wellington
+884,Riley Ryan,16/11/1959,Married,1,Taranaki
+885,Anita Fletcher,18/03/1973,Married,1,Otago
+886,Jennifer Phillips,07/01/2005,Single,0,Waikato
+887,Hayley Morrison,15/02/1996,Married,3,Auckland
+888,Karyn Hope,02/02/1996,Single,0,Northland
+889,Brett Matthews,05/04/1961,Single,0,Taranaki
+890,Tania Jensen-Jones,05/03/2005,Single,0,Bay of Plenty
+891,Tania Faulkner,01/03/1971,Married,2,Waikato
+892,Paige Smith,29/01/1980,Married,4,Bay of Plenty
+893,Kelsey Allan,12/01/1978,Single,0,Northland
+894,Steven Davis-Lee,09/06/1951,Married,0,Canterbury
+895,Kylie Poole,02/04/1959,Married,2,Northland
+896,Shaun Rush,24/12/1951,Single,0,Northland
+897,Sarah Booker,10/05/1995,Married,4,Southland
+898,Melissa Buckley,25/09/1995,Single,1,Otago
+899,Alex McIntyre,26/06/1947,Single,0,Wellington
+900,Andrew Jennings,19/11/1982,Married,1,Bay of Plenty
+901,Sandra Ingram-Sinclair,09/08/1975,Married,2,Canterbury
+902,Joanne Smith,21/09/1990,Single,0,Southland
+903,Aimee Parkes,17/03/1949,Married,0,Otago
+904,Amy Jefferies-Lucas,15/02/1979,Single,0,Wellington
+905,Robert Johnston-Thompson,24/12/1996,Married,4,Canterbury
+906,Jenna Morton,28/02/1977,Single,0,Northland
+907,Diana Prentice,15/02/1999,Married,0,Taranaki
+908,William Turner-O'Donnell,11/02/2007,Single,0,Northland
+909,Vicki Smith,07/06/2004,Single,0,Taranaki
+910,Brian Smith,04/07/1985,Single,0,Wellington
+911,Leanne Thompson,14/03/1959,Married,0,Manawatu-Whanganui
+912,Deborah Drew,06/11/2002,Single,2,Northland
+913,Christopher Cook,16/09/2001,Single,0,Manawatu-Whanganui
+914,Brett Jellyman,06/07/1983,Married,2,Wellington
+915,Karen Little,07/09/1964,Married,0,Otago
+916,David Ward,31/05/1984,Single,0,Northland
+917,Isabella Jellyman,12/11/1960,Single,0,Taranaki
+918,Matthew Bowden-Ryan,28/07/1975,Married,1,Taranaki
+919,Michelle Pike-Simpson,25/06/1983,Married,1,Canterbury
+920,Victoria Evans,21/03/1966,Married,2,Canterbury
+921,Paul Spencer,25/09/1963,Married,1,Auckland
+922,Nicholas Hughes,26/07/1977,Married,2,Taranaki
+923,Isabella Jenkins,12/06/1982,Single,0,Canterbury
+924,Michael Thompson,01/01/1964,Married,0,Waikato
+925,Daisy Sowman,19/07/1987,Married,1,Taranaki
+926,Steven Linton,21/11/1987,Married,2,Wellington
+927,Louise Griffin-MacDonald,27/05/1947,Married,0,Southland
+928,Leslie Love-Crawford,28/08/1997,Single,1,Bay of Plenty
+929,Jasmine Reed,10/01/1985,Married,0,Bay of Plenty
+930,Caleb Kerr-Scott,31/08/1969,Single,0,Wellington
+931,Murray Jefferies,16/10/1999,Single,0,Canterbury
+932,Phillip Turner,28/09/1955,Single,0,Hawke's Bay
+933,Tracy Herd-Eglinton,26/12/1994,Married,0,Southland
+934,Tracey Jones,21/09/1996,Single,0,Hawke's Bay
+935,Anthony Gardiner,27/10/1947,Single,0,Hawke's Bay
+936,Kenneth Flood,26/04/1971,Single,0,Auckland
+937,Sophie Jones,14/01/1989,Single,0,Southland
+938,Oscar Woolley,12/05/2001,Married,2,Bay of Plenty
+939,Mark Harper-Duncan,31/08/1970,Married,2,Hawke's Bay
+940,Mia O'Keefe-Pope,07/07/1970,Married,1,Southland
+941,Jennifer Rasmussen,20/05/1968,Married,0,Southland
+942,Stephanie Smith,05/12/2004,Single,0,Southland
+943,Cheryl Williams,10/09/1988,Married,3,Northland
+944,Charles Hart,15/11/1985,Married,0,Southland
+945,Murray Day,18/05/1967,Single,0,Northland
+946,Jordan Webster,31/03/1959,Single,0,Auckland
+947,Michael Perry,27/06/1961,Single,0,Manawatu-Whanganui
+948,Marcus Bell,30/09/1987,Married,1,Waikato
+949,Steven Moore,23/03/1956,Single,0,Canterbury
+950,Keith O'Connor,05/04/1983,Married,1,Otago
+951,Stephen Ireland,17/10/2000,Single,0,Otago
+952,Daniel Stratford,26/12/1976,Married,3,Canterbury
+953,Darren Perry,14/08/1954,Single,0,Taranaki
+954,Max Buchanan,26/04/1956,Single,0,Otago
+955,Tanya Nelson,04/08/1949,Single,0,Wellington
+956,Janice Mitchell,04/09/1958,Married,0,Waikato
+957,Natalie Humphrey,10/02/1986,Single,0,Auckland
+958,Jonathan Bishop,25/07/1947,Married,0,Manawatu-Whanganui
+959,Rachael Scott,11/10/1989,Single,1,Manawatu-Whanganui
+960,Lauren Smith-Baird,30/01/1991,Married,0,Canterbury
+961,Kim Gardiner,11/11/1947,Single,0,Hawke's Bay
+962,Joanne Bary,18/09/1977,Single,0,Waikato
+963,Holly Watkins,07/09/2006,Single,0,Northland
+964,Ashleigh Stewart-Sullivan,23/09/1960,Single,2,Northland
+965,Mason Pratt-Carter,11/04/1945,Married,1,Bay of Plenty
+966,Mark Thomas,24/05/1945,Single,0,Wellington
+967,Nigel Oliver,23/07/1969,Married,3,Taranaki
+968,Jason Nielsen,08/09/1962,Married,1,Waikato
+969,Lisa Watt,22/03/1991,Single,0,Otago
+970,Jamie North,26/09/1977,Married,0,Bay of Plenty
+971,Linda Burton,09/10/1965,Married,1,Southland
+972,Rebecca Kennedy,20/04/1954,Single,0,Bay of Plenty
+973,Peter Bryant,29/06/1992,Single,0,Wellington
+974,Daniel Dixon,08/12/1967,Married,1,Bay of Plenty
+975,Nicola O'Leary-Bell,05/03/1988,Single,0,Manawatu-Whanganui
+976,Ryan Chapman,02/10/1985,Married,1,Manawatu-Whanganui
+977,Anthony Cook,09/05/1950,Single,0,Taranaki
+978,Paul Monk,03/03/1972,Single,0,Taranaki
+979,Fiona Buick,25/10/1948,Single,0,Manawatu-Whanganui
+980,Michael Davidson,19/08/1958,Single,0,Taranaki
+981,Faith Anderson,14/09/1985,Single,0,Hawke's Bay
+982,Nicola Bishop,09/10/1990,Single,0,Wellington
+983,Elizabeth Smith,15/08/1955,Married,0,Wellington
+984,Richard Clarke-Black,15/10/1984,Married,1,Otago
+985,Alice Low,16/06/2007,Married,1,Otago
+986,Evelyn Long,04/03/2007,Married,2,Waikato
+987,Helen McPherson,21/04/1960,Single,0,Manawatu-Whanganui
+988,John Jamieson,22/03/1945,Single,0,Auckland
+989,James Mitchell,31/10/1949,Married,0,Otago
+990,Gregory Thomas-Lee,11/06/1962,Single,0,Taranaki
+991,Elizabeth Saunders-Duncan,25/10/1977,Single,0,Hawke's Bay
+992,Phillip Batchelar,17/02/1976,Single,1,Canterbury
+993,Susan Haines,14/09/1977,Single,0,Hawke's Bay
+994,Anthony Armstrong-Farland,20/12/1990,Married,1,Manawatu-Whanganui
+995,Robert Williamson,07/12/1968,Single,2,Bay of Plenty
+996,Alexandra McGrath,19/10/1961,Single,0,Taranaki
+997,James Schwass,06/03/1968,Married,2,Taranaki
+998,Tessa Sullivan,18/12/1968,Married,1,Hawke's Bay
+999,Emma Gibb-Casey,29/10/2006,Married,0,Auckland
+1000,Paula Baker,18/05/1961,Married,1,Southland
+1001,David O'Keefe,26/10/2001,Married,0,Manawatu-Whanganui
+1002,Charlotte Mitchell,11/07/2007,Single,0,Southland
+1003,Margaret Blair,02/10/1981,Married,0,Northland
+1004,Jade Oliver,08/01/2006,Married,0,Southland
+1005,Joseph Shand-Sixtus,24/12/1963,Single,0,Hawke's Bay
+1006,Philip Jackson,06/09/1980,Married,1,Auckland
+1007,Tracey Anderson,15/07/1968,Married,1,Canterbury
+1008,John Campbell,03/03/1980,Married,1,Hawke's Bay
+1009,Natasha Smith,01/04/1959,Single,0,Manawatu-Whanganui
+1010,Ashley Price-Haines,22/08/1957,Married,0,Southland
+1011,David Chapman-Andrew,22/10/1969,Single,0,Hawke's Bay
+1012,Jillian Currie,03/02/1996,Married,3,Wellington
+1013,Sharon Murphy,23/02/1957,Married,0,Northland
+1014,Ariki Gilchrist,23/04/2000,Single,0,Canterbury
+1015,Rodney Cooksley-Chambers,01/04/1958,Married,1,Waikato
+1016,Jonathan Smith,03/08/1973,Married,1,Hawke's Bay
+1017,Tane Linton,02/02/1980,Single,1,Auckland
+1018,Riley Stevens,28/02/1983,Single,0,Taranaki
+1019,James Paton,28/12/1948,Single,0,Otago
+1020,Jonathan Hills-Ferguson,05/09/1967,Married,4,Northland
+1021,Isabelle Freeman,11/01/2000,Married,1,Otago
+1022,Alison Campbell,06/12/2003,Married,3,Northland
+1023,Danielle Bird-Robson,13/10/1956,Single,1,Otago
+1024,Henry Johansen-Hamilton,10/01/1995,Single,0,Southland
+1025,Jacob Morris,23/11/1987,Single,0,Southland
+1026,Michael Mayo,11/08/1973,Married,1,Bay of Plenty
+1027,Lisa Johnstone-Brown,06/12/1955,Single,0,Waikato
+1028,Glen Waugh,01/04/1993,Married,3,Bay of Plenty
+1029,Melanie Knight-Rogers,15/08/2003,Married,1,Waikato
+1030,Kim Ferguson-Evans,13/01/2003,Married,3,Bay of Plenty
+1031,Paul Beattie,12/07/1995,Married,2,Waikato
+1032,Daniel Black,30/05/1951,Single,0,Northland
+1033,Leanne Smith,03/12/1971,Married,1,Otago
+1034,Bradley Goodwin,23/08/1950,Single,0,Bay of Plenty
+1035,Glenys Parker,30/03/1964,Single,0,Hawke's Bay
+1036,Caleb Wall,07/11/1946,Single,0,Manawatu-Whanganui
+1037,Shelley Webb,22/04/1977,Married,2,Manawatu-Whanganui
+1038,Toni Little,06/02/1954,Single,0,Canterbury
+1039,Christine Todd,06/11/1987,Single,0,Bay of Plenty
+1040,Joanne O'Neill-Elliott,04/10/2006,Single,1,Wellington
+1041,Lauren Watkins,22/12/1974,Married,1,Northland
+1042,Jessica Hart,16/08/1945,Married,2,Northland
+1043,Sandra Jefferies,22/04/1968,Married,0,Taranaki
+1044,Laura Hyde,20/05/1978,Married,0,Taranaki
+1045,Georgia Christiansen,17/03/1999,Single,0,Canterbury
+1046,Donna Smith-Richards,03/12/1972,Married,0,Hawke's Bay
+1047,Jemma Bell,25/01/1995,Single,0,Auckland
+1048,Sarah Cook,18/04/1950,Single,0,Taranaki
+1049,Keith Porter,20/08/1986,Married,0,Waikato
+1050,Ethan Hudson-Dawick,01/01/1973,Single,0,Manawatu-Whanganui
+1051,Connor McKay,31/03/1988,Married,1,Northland
+1052,Julie Jordan-Cox,22/09/1966,Single,0,Canterbury
+1053,Andrew Pearson,23/07/1957,Married,0,Taranaki
+1054,Dylan McCarthy-Hawkins,30/09/1960,Married,3,Canterbury
+1055,Adrian Reid,03/07/1973,Married,1,Northland
+1056,Tui Francis,05/10/1998,Married,1,Waikato
+1057,Anna Walton,06/11/1954,Married,2,Bay of Plenty
+1058,Richard Brown-Chapman,25/12/1957,Married,1,Southland
+1059,Sarah Campbell,06/03/1997,Married,0,Wellington
+1060,Jacob Learmonth,22/09/1961,Single,0,Waikato
+1061,Damon Whyte,20/04/1951,Single,0,Auckland
+1062,Jonathan Read,22/02/1966,Single,1,Canterbury
+1063,Michael Jones,21/04/1982,Married,1,Canterbury
+1064,David O'Neill,06/06/1958,Single,1,Auckland
+1065,Shaun Reid,03/08/1952,Married,4,Manawatu-Whanganui
+1066,Hannah Evans,11/09/1963,Married,2,Canterbury
+1067,James Jensen,06/10/1947,Single,1,Bay of Plenty
+1068,Natasha Simpson,11/05/1997,Single,1,Auckland
+1069,Christopher Scott,02/01/1987,Married,0,Hawke's Bay
+1070,Anthony Curtis,18/08/1992,Married,0,Otago
+1071,Bruce Mason,25/11/1982,Single,0,Southland
+1072,Sally Davidson,14/01/1958,Single,0,Northland
+1073,Isabella Martin,22/01/2006,Married,2,Canterbury
+1074,Nicole Higgins,02/11/1981,Married,2,Northland
+1075,Clare Edwards,25/07/1968,Single,0,Wellington
+1076,Emma Manson,19/02/2007,Married,1,Northland
+1077,Antony Simpson,09/01/1965,Single,0,Canterbury
+1078,Jacqueline Smith,28/04/1988,Married,0,Otago
+1079,Patricia Gilmore,29/01/1987,Single,0,Hawke's Bay
+1080,Elizabeth Short-Fleming,31/07/1981,Married,2,Waikato
+1081,Kevin Holdaway,07/06/1982,Married,0,Southland
+1082,Eva Perry-Marshall,16/06/1951,Married,2,Manawatu-Whanganui
+1083,Andrew Baird,23/01/1957,Single,0,Wellington
+1084,Brendan McDonald,26/01/1947,Married,1,Wellington
+1085,Michelle Berry,18/08/1992,Single,0,Canterbury
+1086,Andrew Cook-Moran,18/10/1945,Single,0,Waikato
+1087,Teresa McGrath,03/10/1976,Married,0,Manawatu-Whanganui
+1088,Ian MacKay,01/07/2005,Single,0,Bay of Plenty
+1089,Rose Taylor,20/11/1986,Married,3,Bay of Plenty
+1090,Amy Brown,02/08/1965,Married,1,Hawke's Bay
+1091,William Scott,03/04/1994,Married,0,Southland
+1092,Janice Davis,09/08/1989,Married,1,Waikato
+1093,Mary Henderson-Simonsen,27/02/1973,Married,0,Wellington
+1094,Reuben Bird,21/10/1990,Single,0,Canterbury
+1095,Stacey Evans,07/03/1957,Single,0,Taranaki
+1096,Kayla Fleming,28/03/1981,Single,1,Bay of Plenty
+1097,Tina Connolly,04/05/1982,Single,0,Southland
+1098,Jessica Armstrong,15/02/2001,Married,3,Bay of Plenty
+1099,Maree McGregor,19/06/1959,Single,0,Waikato
+1100,Taylor Russell,10/09/1975,Married,0,Canterbury
+1101,Aaliyah Anderson,06/04/1964,Single,0,Northland
+1102,Kelvin Esson,12/06/1965,Single,0,Hawke's Bay
+1103,Manaaki Reid-Oliver,29/05/1997,Married,1,Taranaki
+1104,Thomas Carr-Harper,21/10/1983,Single,1,Taranaki
+1105,Andrew Gibson,29/04/1954,Married,2,Waikato
+1106,Stephanie Parker,05/05/1962,Married,2,Southland
+1107,Luke Wong,14/09/1959,Married,2,Wellington
+1108,Paul Gifford,02/09/1956,Single,0,Taranaki
+1109,Sandra Scott-Ritchie,13/06/1947,Single,0,Wellington
+1110,Jane Ellery-Blick,30/08/1967,Single,1,Wellington
+1111,Jessica MacPherson,04/02/2004,Married,0,Taranaki
+1112,Peter Linton,07/09/1945,Single,1,Waikato
+1113,Andrea Barnett,20/08/1966,Single,0,Canterbury
+1114,Catherine Brooks-Cook,05/05/1948,Single,0,Taranaki
+1115,Wendy Wratt,20/01/1984,Single,0,Southland
+1116,Darryl McKay,27/09/1971,Single,0,Hawke's Bay
+1117,Gregory Sullivan,16/08/1995,Married,1,Taranaki
+1118,Jennifer Thompson,20/01/1979,Married,1,Auckland
+1119,Raymond Millar,22/05/1958,Single,0,Taranaki
+1120,Melissa Davis,28/10/1986,Single,0,Hawke's Bay
+1121,Elizabeth Williams,06/10/1997,Single,0,Northland
+1122,Natalie Bird,24/07/1952,Single,0,Bay of Plenty
+1123,Jillian Matthews,24/09/1966,Single,0,Manawatu-Whanganui
+1124,Mia Hook-Evans,14/09/1968,Married,0,Auckland
+1125,Marie Gardner,19/10/2007,Single,0,Hawke's Bay
+1126,Nicholas Hart,24/06/1994,Married,0,Manawatu-Whanganui
+1127,Peter Jensen,02/03/1987,Married,1,Wellington
+1128,Adam Pike-Mitchell,14/07/1975,Married,1,Auckland
+1129,Grant Hoare,29/04/1959,Single,1,Wellington
+1130,Kimberley Carter,10/10/1977,Married,4,Northland
+1131,Noah Fox,14/07/1970,Single,0,Manawatu-Whanganui
+1132,Amy Hansen,26/03/1964,Single,0,Canterbury
+1133,Emma Francis-Faulkner,09/06/1949,Married,2,Southland
+1134,Murray Landon-Lane-Price,31/03/1952,Married,3,Otago
+1135,Simon Satherley-Mason,24/10/1970,Married,4,Manawatu-Whanganui
+1136,Stuart Fuller,16/07/1985,Single,0,Manawatu-Whanganui
+1137,Corey Kerr,27/01/1976,Single,0,Southland
+1138,Andrew Blick,28/08/1965,Single,1,Taranaki
+1139,Jasmine Hart,03/07/1968,Married,0,Otago
+1140,Isabella Johnston,06/01/1979,Single,0,Taranaki
+1141,Michael Booker,01/07/2005,Married,1,Canterbury
+1142,Tracy Bailey,01/03/1968,Married,2,Waikato
+1143,Benjamin Gill,16/01/1991,Married,2,Auckland
+1144,Jared Osborne,04/12/1973,Single,2,Northland
+1145,Hayley Douglas-Wood,03/05/1954,Married,2,Taranaki
+1146,Natalie Cameron,21/04/1954,Single,0,Manawatu-Whanganui
+1147,Suzanne Wilton,06/10/2006,Married,2,Waikato
+1148,Michael McMillan,30/08/1955,Single,0,Canterbury
+1149,Logan Jarvis,17/12/1952,Married,0,Wellington
+1150,Sarah Moore,29/11/1946,Married,0,Southland
+1151,Sophie Williamson,21/11/1972,Single,0,Auckland
+1152,Phoebe Steele,29/03/1988,Married,0,Wellington
+1153,Charlie McDonald-Stewart,09/09/1946,Single,0,Auckland
+1154,Maria Rodgers-Watt,27/06/1985,Single,0,Southland
+1155,Nicholas Lucas,25/09/1991,Married,2,Auckland
+1156,Carol Gilbert,21/10/1976,Single,0,Auckland
+1157,Christine Gordon,24/02/1977,Single,0,Waikato
+1158,Craig Anderson,06/12/1996,Married,1,Auckland
+1159,Wayne Bailey-Jellyman,16/09/1958,Married,0,Bay of Plenty
+1160,Anthony Laing,19/10/1974,Single,0,Hawke's Bay
+1161,Natasha Law,22/04/2005,Single,0,Hawke's Bay
+1162,Jennifer Jones,11/12/1994,Married,2,Otago
+1163,Jeanette Bassett,29/10/1983,Married,0,Canterbury
+1164,Kirsten Waghorn,15/06/1998,Single,2,Taranaki
+1165,Belinda McLean,21/08/2004,Married,0,Bay of Plenty
+1166,Kenneth Black,07/12/1994,Married,0,Taranaki
+1167,Janine Blair,05/04/1948,Married,3,Canterbury
+1168,Jeremy Hewitt-Rayner,12/05/1964,Married,1,Manawatu-Whanganui
+1169,Jason Andrew,13/08/1948,Single,0,Auckland
+1170,Susan Francis,14/11/1988,Single,2,Southland
+1171,Paul Thomas,24/11/1997,Single,0,Taranaki
+1172,Carol Williamson,03/08/1975,Single,0,Manawatu-Whanganui
+1173,John Alve,12/11/2005,Married,1,Bay of Plenty
+1174,Aria Webb,15/01/1989,Married,1,Taranaki
+1175,Paul Jackson,03/09/1952,Single,0,Waikato
+1176,Megan Thompson,13/01/1993,Single,0,Canterbury
+1177,Margaret Hart,10/05/1982,Married,2,Auckland
+1178,Richard Lancaster,22/05/1983,Married,1,Manawatu-Whanganui
+1179,Christopher Turner,31/03/1997,Single,0,Canterbury
+1180,Jarrod Lewis,18/03/1997,Single,0,Bay of Plenty
+1181,Michael Thomas-Stewart,16/09/1958,Single,0,Southland
+1182,Raewyn Smith-Holdaway,02/11/1978,Married,0,Northland
+1183,Matthew Cox,31/08/1959,Single,0,Wellington
+1184,Julie Gardner,26/10/1985,Single,0,Waikato
+1185,David Hayward,30/01/1987,Single,0,Manawatu-Whanganui
+1186,Sandra Wood,26/06/1957,Single,0,Hawke's Bay
+1187,Michael Anderson,04/01/2003,Married,0,Wellington
+1188,Sarah Stevens-Arnold,29/03/1948,Married,0,Hawke's Bay
+1189,Ria Bell,04/04/1964,Married,2,Taranaki
+1190,Lisa McGregor-Corlett,24/11/1995,Single,0,Waikato
+1191,Tessa Scott,10/04/1965,Single,1,Otago
+1192,Susan Sheridan,08/07/1996,Married,1,Auckland
+1193,Angela Chapman,17/03/1953,Married,0,Waikato
+1194,Grant Williamson-MacDonald,17/02/1959,Single,1,Wellington
+1195,Brendon Miles,16/09/1987,Single,0,Northland
+1196,Jordan McIntosh,17/07/1998,Single,1,Hawke's Bay
+1197,Jason Jefferies-Carter,17/01/1984,Single,0,Manawatu-Whanganui
+1198,Tegan Bishop,08/09/1978,Single,1,Taranaki
+1199,Kathryn Henderson,17/05/1986,Single,0,Bay of Plenty
+1200,Ariki Smith-Smith,20/06/1987,Married,1,Taranaki
+1201,Robert Love,30/01/1973,Married,1,Bay of Plenty
+1202,Holly Best,10/05/1959,Married,0,Taranaki
+1203,Nigel Russell,10/07/1949,Married,2,Northland
+1204,Justin Webb-Smith,30/07/1991,Married,0,Northland
+1205,Jenna Wong,20/11/1946,Married,2,Otago
+1206,Grant Wells,01/09/1990,Married,3,Otago
+1207,Rosemary Freeth,02/09/1977,Single,0,Auckland
+1208,Stephanie Wilkinson,17/09/1967,Married,1,Waikato
+1209,Teresa Taylor,13/05/1980,Single,0,Auckland
+1210,Paige Oliver-Pearson,29/01/1959,Married,0,Hawke's Bay
+1211,Ruby Lyons,19/12/1968,Single,0,Manawatu-Whanganui
+1212,Eric Anderson,10/06/1970,Married,0,Waikato
+1213,Sarah Harper,01/06/1971,Single,0,Manawatu-Whanganui
+1214,Bridget Maxwell-Lewis,13/04/2003,Married,1,Waikato
+1215,Dylan Thompson,03/08/2004,Married,1,Southland
+1216,Julie McLachlan,13/08/1959,Married,3,Otago
+1217,Cody Boyce-Anderson,29/08/1958,Single,0,Northland
+1218,Kayla Porter,27/06/2006,Married,3,Southland
+1219,Craig Bowater,30/09/1994,Single,0,Northland
+1220,Richard Turner-Prouse,07/11/2000,Single,0,Otago
+1221,Daniel Anderson,13/04/1971,Single,0,Taranaki
+1222,Brianna Lewis,26/11/1947,Single,0,Taranaki
+1223,Sophia Graham-McDowall,03/12/1951,Single,2,Auckland
+1224,Alan Holloway-O'Neill,09/03/1959,Single,0,Wellington
+1225,Craig Murphy,16/08/1966,Married,3,Southland
+1226,Michelle Morgan,16/08/1955,Single,0,Auckland
+1227,Adrian Munro,21/11/1979,Married,1,Southland
+1228,Leon Little,09/05/1963,Married,0,Canterbury
+1229,Marcus Hansen-Davies,15/08/2005,Married,0,Taranaki
+1230,Judith Stewart,09/12/1976,Married,1,Auckland
+1231,Brendan Taylor,04/12/1973,Single,0,Southland
+1232,Patrick Reed,28/09/1987,Married,3,Northland
+1233,Maria Davies,13/07/2000,Single,0,Auckland
+1234,Anna Boon,03/12/1996,Married,0,Taranaki
+1235,Carmen Kendall-Allerby,09/10/1976,Single,0,Auckland
+1236,Grace Curtis,24/01/1997,Married,1,Bay of Plenty
+1237,Donna Bailey,03/07/2003,Single,0,Bay of Plenty
+1238,Thomas Powell-Jordan,04/03/1990,Single,0,Southland
+1239,Julie Anderson,02/04/1977,Married,1,Canterbury
+1240,Kate Gilbert,11/02/1964,Married,0,Wellington
+1241,Maia Jackson,29/11/1951,Single,0,Waikato
+1242,Graham Satherley,30/10/1998,Married,0,Taranaki
+1243,Karen Bradley,20/02/1961,Married,0,Otago
+1244,Liam Hoskins,09/01/1971,Single,0,Manawatu-Whanganui
+1245,Deborah Pike,31/03/1974,Married,0,Manawatu-Whanganui
+1246,Robyn Pratt-Baker,30/12/1989,Single,0,Waikato
+1247,Peter Dickson,05/11/2001,Single,2,Waikato
+1248,Mark Page,05/09/1982,Single,0,Wellington
+1249,Christine Steer,23/08/1949,Married,2,Southland
+1250,Nicholas Nelson,11/09/2000,Single,0,Wellington
+1251,Kathryn Morton,25/01/1951,Married,1,Manawatu-Whanganui
+1252,Stephen Cooke,12/03/1988,Married,1,Auckland
+1253,Mitchell Fowler,28/09/1964,Married,1,Canterbury
+1254,Louise Davis-Read,14/06/1966,Married,0,Manawatu-Whanganui
+1255,Rose Payne-Aldridge,28/06/1974,Married,1,Otago
+1256,Mareikura Greer,08/07/1986,Single,0,Wellington
+1257,Scarlett Rees,25/02/1949,Single,1,Auckland
+1258,Wendy Smith,06/01/1983,Married,0,Hawke's Bay
+1259,Shane Lamb,29/11/1960,Married,1,Auckland
+1260,Jeanette Ryan-Gill,14/11/1970,Single,1,Southland
+1261,Deborah Hansen,15/05/1954,Single,1,Taranaki
+1262,Janice Broughan,24/01/2002,Married,1,Auckland
+1263,Finn Ramsay,13/06/1953,Married,0,Otago
+1264,Arthur Smith,28/12/1993,Married,0,Waikato
+1265,Yvonne Martin,30/03/1954,Single,0,Manawatu-Whanganui
+1266,Shelley Stokes,24/03/1992,Single,1,Bay of Plenty
+1267,Marie Fowler,07/10/1973,Single,0,Waikato
+1268,Janice Bailey,23/10/1973,Single,0,Manawatu-Whanganui
+1269,Mark Hopkins,06/01/1961,Single,0,Taranaki
+1270,Emma Forsyth,16/02/1984,Single,0,Canterbury
+1271,Ari Sutton,14/11/1992,Married,2,Wellington
+1272,Mark Boniface,09/05/1950,Married,1,Otago
+1273,Awhina Rossiter,27/11/1997,Married,0,Manawatu-Whanganui
+1274,Kim McLeod,03/06/1986,Married,0,Wellington
+1275,Jonathan Hubbard,31/05/1990,Married,1,Hawke's Bay
+1276,Ruby Davies,30/06/1948,Married,3,Manawatu-Whanganui
+1277,Rebecca Weston,17/10/1979,Married,3,Otago
+1278,Patricia Currie-Whittaker,23/03/1999,Single,0,Bay of Plenty
+1279,Christopher Dillon-Todd,06/08/1965,Married,2,Northland
+1280,Emily Hills-Boyd,21/11/1983,Single,0,Otago
+1281,Ronald Parsons-Morris,09/07/1950,Married,1,Manawatu-Whanganui
+1282,Anna North,21/01/1962,Married,1,Southland
+1283,Erin Davison-Smith,30/06/1952,Married,1,Manawatu-Whanganui
+1284,Thomas Giles,05/10/1989,Single,0,Hawke's Bay
+1285,Samantha Carter,04/08/1992,Single,0,Waikato
+1286,Christine Lane,27/02/1947,Married,2,Wellington
+1287,William MacKenzie,28/10/2000,Married,0,Manawatu-Whanganui
+1288,Rachael Williamson,24/12/1970,Married,2,Southland
+1289,Paige Evans,22/03/1984,Married,0,Manawatu-Whanganui
+1290,Andrea Allen,03/09/2000,Single,0,Wellington
+1291,Christopher Kennedy,31/05/1965,Married,0,Bay of Plenty
+1292,Donna Chandler,14/06/1971,Single,0,Bay of Plenty
+1293,Carl Paul-Smith,01/03/1999,Single,0,Wellington
+1294,Monique Boniface,17/05/1991,Single,0,Northland
+1295,Thomas Collis,10/05/2002,Married,1,Taranaki
+1296,Tania Gee-Graham,30/01/1963,Single,0,Auckland
+1297,Michael Olsen-Middleton,18/11/1995,Married,0,Taranaki
+1298,Rebecca Rowe-O'Donnell,23/02/1957,Married,0,Hawke's Bay
+1299,Alexandra Smith,12/07/1949,Married,2,Manawatu-Whanganui
+1300,Ashleigh Harris,02/04/1975,Married,0,Manawatu-Whanganui
+1301,Paul Neal,23/03/1947,Married,1,Wellington
+1302,Ariana Bary-Fitzgerald,04/10/2001,Married,2,Taranaki
+1303,Megan Tucker-Campbell,09/03/2003,Married,3,Waikato
+1304,Jack Bishell,29/12/1988,Single,0,Canterbury
+1305,Steven Dillon,22/02/1962,Single,0,Canterbury
+1306,Michelle Williams,06/10/1975,Married,0,Bay of Plenty
+1307,Nevaeh Donaldson,24/04/1997,Married,0,Canterbury
+1308,Christopher Williams-Walsh,15/12/1970,Married,0,Manawatu-Whanganui
+1309,Tia Carter,20/03/2000,Married,0,Bay of Plenty
+1310,Jeremy Burns,24/07/1958,Married,1,Wellington
+1311,Christine Cox,11/09/1954,Single,0,Waikato
+1312,Denise Alexander,04/01/2007,Single,0,Northland
+1313,Bradley Williams-Harper,16/12/1961,Single,0,Waikato
+1314,Alison Holdaway,02/05/1989,Single,0,Canterbury
+1315,Tony Costello,14/01/1963,Single,0,Manawatu-Whanganui
+1316,Susan Stevenson,23/12/1979,Married,1,Hawke's Bay
+1317,Kate Jamieson,06/06/1994,Single,0,Otago
+1318,Lee Smith,23/10/1991,Single,0,Manawatu-Whanganui
+1319,Bronwyn Pearson,30/04/1969,Single,0,Southland
+1320,James Vercoe-Vincent,28/01/1951,Married,3,Canterbury
+1321,Sharon Harrison,23/02/2002,Married,1,Hawke's Bay
+1322,Michael Gray-Jones,18/01/1971,Single,1,Waikato
+1323,Gary Olsen,03/03/1952,Single,0,Canterbury
+1324,Kathleen Hewitt,17/09/1974,Single,1,Otago
+1325,Cameron Davis,19/11/1993,Single,0,Southland
+1326,Joseph Brown,09/09/1981,Single,0,Hawke's Bay
+1327,Joshua Ching-Hayes,09/01/1946,Single,0,Otago
+1328,Angela Butcher,27/10/1947,Married,1,Manawatu-Whanganui
+1329,Daniel Woods,03/07/1980,Married,1,Hawke's Bay
+1330,Catherine Dick,03/11/2007,Single,0,Taranaki
+1331,Peter West,15/03/1946,Married,0,Taranaki
+1332,Amy Judd-Stewart,17/08/1956,Single,0,Northland
+1333,Taylor Simmonds,12/07/1951,Single,1,Waikato
+1334,Chloe Gibbons-Shailer,21/02/1952,Single,0,Bay of Plenty
+1335,Lynne Dunn,14/03/1949,Married,2,Wellington
+1336,Heather Potter,14/02/1995,Married,2,Manawatu-Whanganui
+1337,Hannah Logan,06/02/1984,Single,0,Canterbury
+1338,Graeme Ching,01/06/1959,Single,0,Waikato
+1339,Mark Graham,14/02/1953,Single,0,Canterbury
+1340,Phillip Evans,29/01/1970,Married,2,Manawatu-Whanganui
+1341,Jeffrey Foote,04/09/1947,Single,0,Hawke's Bay
+1342,Robert Vercoe,02/07/1970,Married,1,Manawatu-Whanganui
+1343,Adrian Hamilton,03/05/1945,Single,0,Manawatu-Whanganui
+1344,Timothy O'Leary,23/04/1985,Married,1,Otago
+1345,Nicola Gifford,19/04/1977,Married,2,Taranaki
+1346,Daniel O'Neill,02/07/1980,Single,0,Wellington
+1347,Elizabeth Gray,22/12/1991,Single,0,Waikato
+1348,Christine Kerr-Kemp,02/08/1987,Married,2,Otago
+1349,Jessica Freeman,18/12/1957,Married,0,Hawke's Bay
+1350,Zoe Gore,13/08/2003,Married,0,Southland
+1351,Kelly Francis,15/07/1987,Single,0,Manawatu-Whanganui
+1352,Edward Davis,11/02/1999,Single,1,Otago
+1353,Katie Hart,11/09/2007,Married,3,Manawatu-Whanganui
+1354,Michael Morris,26/06/1974,Married,0,Wellington
+1355,Maria Neilson,29/09/1975,Married,0,Taranaki
+1356,Peter Davenport,15/11/1956,Married,2,Taranaki
+1357,Joseph Thomas,25/10/2005,Married,1,Hawke's Bay
+1358,Lynette Webb,06/06/1958,Married,0,Otago
+1359,Donna Mitchell,28/05/1960,Single,0,Southland
+1360,Peter Paul,17/06/1970,Married,1,Taranaki
+1361,John Fuller,03/07/2005,Married,0,Auckland
+1362,Daniel Small,08/01/1957,Single,0,Bay of Plenty
+1363,Caroline Parkes,30/11/1987,Married,1,Wellington
+1364,Daniel Jackson-Rutherford,18/12/1948,Married,0,Canterbury
+1365,Brent Smart,14/05/1973,Married,1,Otago
+1366,Diana Wallace,29/07/1955,Married,1,Waikato
+1367,Susan Boyd-Simmons,15/07/1960,Single,0,Otago
+1368,Sharon West,20/08/1959,Married,1,Northland
+1369,Sarah Murphy,01/08/1994,Single,0,Northland
+1370,David Nicholson,15/01/1960,Married,1,Bay of Plenty
+1371,Thomas Banks,02/05/1973,Single,0,Wellington
+1372,Tai Sowman,21/03/1979,Married,0,Otago
+1373,Kylie Webster,18/03/1999,Married,1,Southland
+1374,John Green,29/11/1982,Single,0,Waikato
+1375,Noah O'Connor,28/09/1959,Single,0,Taranaki
+1376,Gabrielle Nicol,30/01/1951,Married,0,Taranaki
+1377,Michelle Bell,28/02/1976,Married,1,Northland
+1378,Amanda Fowler-Mercer,24/05/2004,Single,0,Manawatu-Whanganui
+1379,Christine Prouse,24/07/1987,Single,0,Canterbury
+1380,Shane Brown,14/09/2005,Single,0,Manawatu-Whanganui
+1381,Kylie Wallace,21/02/1996,Single,0,Hawke's Bay
+1382,Layla Jennings-Butcher,01/06/1950,Married,2,Northland
+1383,Paula Taylor,31/10/2006,Single,0,Manawatu-Whanganui
+1384,Stephanie Mitchell,13/10/1969,Single,0,Waikato
+1385,Amy Barnes-Robson,14/11/1992,Single,0,Wellington
+1386,Nicole Cameron,12/09/1967,Married,1,Taranaki
+1387,Brenda Webster,05/02/1996,Married,0,Otago
+1388,Philip Manning,18/09/1966,Single,0,Wellington
+1389,Joshua Grant-Taylor,11/04/1970,Married,0,Northland
+1390,Kathleen Berry,03/04/1953,Married,1,Southland
+1391,Monique Elliott,17/10/1964,Single,0,Manawatu-Whanganui
+1392,Jacqueline Johansen-Rutherford,01/01/2005,Single,0,Hawke's Bay
+1393,Steven Holland,12/05/1950,Married,0,Otago
+1394,Finn Thornton,07/05/1952,Married,2,Hawke's Bay
+1395,Brent Moore-Simpson,21/10/1958,Married,0,Southland
+1396,Gareth Foot,01/10/1981,Single,0,Bay of Plenty
+1397,Helen Saunders,10/10/1988,Married,3,Hawke's Bay
+1398,Craig Smith-Trask,21/09/2001,Married,0,Canterbury
+1399,Jessica Larsen,13/11/1988,Single,0,Waikato
+1400,Lynette Drummond,13/03/2002,Married,1,Canterbury
+1401,Julie Sutton,12/01/2006,Single,0,Canterbury
+1402,Robert Adams,19/03/1970,Married,1,Manawatu-Whanganui
+1403,Charles Morris,23/03/1956,Married,1,Hawke's Bay
+1404,Paul Morris,02/11/1956,Single,0,Canterbury
+1405,Christopher Thomas,14/06/1966,Single,0,Taranaki
+1406,Jeremy Gardiner,13/11/1958,Single,0,Southland
+1407,Nathan Meads,22/12/1954,Single,1,Canterbury
+1408,Lauren Bell,05/06/1965,Married,1,Northland
+1409,James Hodson,19/10/1954,Married,0,Canterbury
+1410,Charlotte Frost,26/01/1982,Single,0,Northland
+1411,Melissa Wallace,16/11/2005,Single,0,Otago
+1412,Michelle Porter-Ireland,01/09/2007,Married,3,Northland
+1413,Natasha Owen,28/02/2006,Single,0,Manawatu-Whanganui
+1414,Nicholas Thomas,05/08/1946,Married,3,Taranaki
+1415,Sarah Rogers-Scott,25/08/1948,Married,2,Manawatu-Whanganui
+1416,Mark Cook,08/02/1997,Single,0,Manawatu-Whanganui
+1417,Alan Atkinson,21/03/1975,Married,2,Northland
+1418,Zachary Powell,13/04/1978,Single,0,Wellington
+1419,Maia Croad-Gillies,23/06/1969,Married,1,Waikato
+1420,Paul McEwen,07/03/1971,Married,0,Bay of Plenty
+1421,Ethan Clarke,24/03/1975,Married,0,Bay of Plenty
+1422,Daniel Lyons,14/05/1995,Single,0,Northland
+1423,Fiona Wills,30/12/2005,Married,1,Northland
+1424,Carolyn Reynolds,06/10/1950,Married,1,Wellington
+1425,Geoffrey Aberhart,26/08/1980,Married,1,Bay of Plenty
+1426,Tony Bradley,23/06/1970,Married,2,Otago
+1427,James Mortimer,10/02/1973,Married,1,Auckland
+1428,Karen Sutton,01/03/2007,Married,2,Northland
+1429,Cooper Gill,06/08/1982,Married,1,Manawatu-Whanganui
+1430,Ryan Johnston,23/09/1984,Single,0,Southland
+1431,Linda Francis,25/09/1946,Married,2,Bay of Plenty
+1432,Dion Steer,04/09/2001,Married,2,Auckland
+1433,Brooke Dawson,25/06/1964,Single,0,Otago
+1434,Joseph Hyde,24/07/1961,Married,2,Wellington
+1435,Regan Cox,12/06/1949,Married,1,Wellington
+1436,Louise Rose,30/12/2003,Single,0,Waikato
+1437,Yvonne Shailer,20/04/1970,Married,0,Hawke's Bay
+1438,Alison Carter-Greer,07/11/1954,Single,0,Hawke's Bay
+1439,Sophie Martin,08/01/1956,Married,1,Canterbury
+1440,Ian Burgess-Robert,21/03/1948,Married,1,Waikato
+1441,Kevin Webby-Lee,23/01/1997,Married,2,Auckland
+1442,Regan Waters,12/04/1956,Single,0,Taranaki
+1443,Sophia Humphrey,08/07/1991,Single,0,Taranaki
+1444,Nicholas McIntosh-Scott,18/05/1984,Married,0,Bay of Plenty
+1445,Adam Pope,16/04/1970,Married,0,Bay of Plenty
+1446,Jessica Blackwell,01/01/1956,Single,1,Taranaki
+1447,Christopher Cook,23/09/1957,Married,4,Southland
+1448,Natasha Moody-Gilbert,24/05/1993,Single,0,Canterbury
+1449,Jared Sixtus,02/11/1952,Single,1,Manawatu-Whanganui
+1450,Jordan Davies,30/07/1969,Married,3,Bay of Plenty
+1451,Stephanie Todd,13/11/1996,Married,2,Canterbury
+1452,Paul Anderson,03/05/2000,Married,2,Canterbury
+1453,Bruce Pike,23/09/1991,Married,0,Otago
+1454,Bruce Stewart-Williams,01/12/1991,Married,2,Southland
+1455,Barry Stone,10/06/1996,Single,0,Canterbury
+1456,Craig Anderson,21/10/1989,Single,0,Bay of Plenty
+1457,Angela Campbell-Neal,31/05/1949,Single,0,Manawatu-Whanganui
+1458,Phillip Maxwell,09/07/2007,Married,1,Southland
+1459,Mark Ward,16/07/1990,Single,0,Wellington
+1460,Benjamin Gilbert,13/10/1963,Married,1,Bay of Plenty
+1461,Holly Bond,14/01/1998,Single,0,Otago
+1462,Elizabeth Harper-Harris,31/03/1984,Single,0,Northland
+1463,Kevin McCarthy,01/02/1964,Single,0,Auckland
+1464,Addison Forbes,19/10/2007,Married,2,Wellington
+1465,Sharon Shaw,31/05/1992,Married,2,Northland
+1466,Jeremy Toms,19/03/1957,Single,0,Otago
+1467,Jillian Lee,22/08/1972,Married,2,Taranaki
+1468,Brooke Mitchell,26/02/1954,Married,1,Manawatu-Whanganui
+1469,Nicole Freeman,02/09/1947,Single,0,Northland
+1470,Kathryn O'Brien,01/01/1976,Married,0,Bay of Plenty
+1471,Nicholas Browne-Bailey,15/08/1972,Single,0,Hawke's Bay
+1472,Claire Brown,20/02/2002,Married,0,Northland
+1473,Christine Love,12/05/1978,Single,0,Southland
+1474,James McLeod,10/12/1990,Single,0,Auckland
+1475,Campbell Dixon,03/02/1985,Married,0,Northland
+1476,Anthony Learmonth,13/12/1967,Married,0,Canterbury
+1477,Sarah Jamieson-Mason,22/10/1973,Married,1,Auckland
+1478,Emma George,03/07/1984,Single,2,Manawatu-Whanganui
+1479,Phillip Reeves-Croad,19/02/1969,Single,0,Canterbury
+1480,Valerie Tanner-Carr,08/12/1954,Single,1,Bay of Plenty
+1481,Barbara Neal,29/09/1978,Single,0,Bay of Plenty
+1482,Alexander Eden,29/05/2001,Married,0,Otago
+1483,Monique Hardie,11/12/1970,Married,0,Otago
+1484,Charlotte May,18/06/1951,Single,0,Southland
+1485,Murray Rowe,26/05/1978,Single,0,Manawatu-Whanganui
+1486,Garry Hodson,04/04/1979,Single,0,Waikato
+1487,Helen Gleeson,07/02/1982,Married,1,Wellington
+1488,Rawiri Burrell,05/01/1953,Married,2,Auckland
+1489,Grace Boyce,08/03/1976,Married,0,Wellington
+1490,Cole Herd,10/12/1997,Married,0,Waikato
+1491,Joseph Stewart,11/08/1993,Married,1,Northland
+1492,Raewyn Wong,15/04/1978,Married,0,Otago
+1493,Natalie Osborne,16/04/1977,Single,0,Manawatu-Whanganui
+1494,Justin Olsen,27/07/1978,Single,0,Northland
+1495,Maria Clarke,05/04/1964,Single,0,Manawatu-Whanganui
+1496,Alexander Jones,10/11/2001,Married,0,Wellington
+1497,Samantha Greig,23/12/1996,Married,0,Otago
+1498,Jane McEwen,23/03/1969,Single,1,Canterbury
+1499,Angela Jensen,14/11/1960,Married,1,Canterbury
+1500,Mark Ingram-Brown,27/08/1965,Single,0,Southland
+1501,Chloe Atkinson,14/06/1947,Married,0,Taranaki
+1502,Lisa Carpenter,18/01/1963,Single,0,Hawke's Bay
+1503,Luna Skinner,11/08/1970,Married,2,Northland
+1504,Hannah Scott,20/02/1978,Single,0,Waikato
+1505,Gregory Brooks,15/12/1996,Married,1,Canterbury
+1506,Cheyenne Stevens,29/07/1974,Single,1,Hawke's Bay
+1507,Megan Hoskins,12/01/1950,Married,2,Waikato
+1508,Finn Jones,07/12/1983,Single,0,Wellington
+1509,Max Twidle,29/09/1993,Married,0,Wellington
+1510,Mark Morgan,14/06/1983,Single,0,Manawatu-Whanganui
+1511,Joanna Matthews,14/02/1950,Single,0,Manawatu-Whanganui
+1512,Joshua Stevens-Clifford,25/03/1966,Single,0,Canterbury
+1513,Jennifer Parsons,01/10/1975,Married,0,Southland
+1514,Christine Smith,07/10/1992,Single,0,Taranaki
+1515,Mark MacDonald,21/12/2000,Single,0,Hawke's Bay
+1516,Emma Collis,15/12/1999,Single,0,Auckland
+1517,Toni Hawkins,24/12/1948,Single,0,Southland
+1518,Ian Moore,23/02/1955,Single,1,Waikato
+1519,Scott Perry-Gullery,28/11/2006,Single,0,Taranaki
+1520,Scott Roberts,09/06/1964,Married,0,Manawatu-Whanganui
+1521,Dean Ball,10/07/1972,Single,0,Auckland
+1522,Charles Smith,22/02/1999,Married,2,Waikato
+1523,Katherine Corbett,16/08/1973,Married,1,Wellington
+1524,Daniel Morgan,21/11/1946,Single,0,Southland
+1525,Micheal Gray-Rees,26/01/1994,Married,1,Taranaki
+1526,Andrew Alve,08/04/1966,Single,1,Auckland
+1527,Simon Boyle-Sinclair,21/08/1969,Single,2,Otago
+1528,James Wallis,03/04/2002,Single,0,Hawke's Bay
+1529,Brent Whyte,11/02/1953,Married,1,Taranaki
+1530,Trinity Orr-Neal,05/02/2005,Single,0,Northland
+1531,Mathew Middleton,26/03/1966,Married,3,Wellington
+1532,Paula Wills-MacKay,06/09/1973,Married,0,Wellington
+1533,Brendan MacDonald,03/08/1963,Married,0,Waikato
+1534,Ella Bradley,10/04/1978,Single,0,Auckland
+1535,Nicola Thomas,16/01/1982,Single,1,Manawatu-Whanganui
+1536,Natalie Buick,01/10/2004,Married,1,Southland
+1537,Karyn Barnes,16/11/1965,Married,2,Manawatu-Whanganui
+1538,Amber Giles-Paterson,16/08/1948,Married,1,Manawatu-Whanganui
+1539,David O'Brien,21/05/1988,Single,0,Taranaki
+1540,Susan Donald,22/04/1981,Single,0,Canterbury
+1541,Janine Horn,25/08/1971,Married,0,Bay of Plenty
+1542,Benjamin Booth-Baker,23/03/1959,Married,0,Waikato
+1543,Mary Bruce,30/01/1997,Married,3,Canterbury
+1544,Robyn Morgan,10/05/1950,Single,0,Manawatu-Whanganui
+1545,Karen Williamson,23/02/2002,Single,0,Southland
+1546,Sophie Sheridan,02/01/2001,Married,2,Wellington
+1547,Joshua Clarke-Davey,04/04/2000,Married,1,Manawatu-Whanganui
+1548,Julie Smith,13/06/1948,Single,0,Waikato
+1549,Michael Eaton,02/03/1954,Single,0,Wellington
+1550,Danielle Jenkins,02/02/1984,Married,3,Wellington
+1551,Christopher Pickering,20/02/1997,Married,1,Hawke's Bay
+1552,Scott Gilchrist,05/11/1998,Single,0,Southland
+1553,Kate Whyte,24/08/1962,Married,2,Canterbury
+1554,Sarah Porter-Ward,10/02/1973,Married,0,Canterbury
+1555,James Duncan,15/09/2001,Married,2,Canterbury
+1556,Alan Smith,30/11/1982,Single,0,Otago
+1557,Mary Fairhall-Hoskins,25/05/1958,Single,0,Bay of Plenty
+1558,Andrew Goodwin,05/10/1985,Married,0,Canterbury
+1559,Benjamin Barnes,04/07/1983,Married,2,Bay of Plenty
+1560,Paul Nicholson,06/07/2007,Married,2,Wellington
+1561,Brittany George,15/11/1957,Single,0,Auckland
+1562,Peter Gill-Kelly,19/12/1958,Married,1,Manawatu-Whanganui
+1563,Tane Miller,27/12/1990,Single,0,Wellington
+1564,Christine Gifford,12/11/1946,Married,0,Hawke's Bay
+1565,David Ford-Parker,28/07/1984,Married,1,Northland
+1566,Anne Weston,16/03/2004,Single,0,Otago
+1567,Natasha George,11/02/1993,Married,0,Hawke's Bay
+1568,Ella Scott-Taylor,23/07/1967,Married,0,Canterbury
+1569,Suzanne Irving,21/07/1990,Married,0,Wellington
+1570,Aaron Fletcher,30/10/1970,Single,1,Southland
+1571,Michelle Stewart,15/08/2005,Married,2,Waikato
+1572,Mark Carter,09/03/1979,Single,0,Auckland
+1573,Sophie Stewart,01/07/1966,Single,0,Auckland
+1574,Joanne Carter,23/03/1966,Single,0,Northland
+1575,Joshua Henry,11/01/1964,Married,1,Canterbury
+1576,Taylor Miller,31/07/2004,Single,0,Auckland
+1577,Sarah Forsyth-Pope,24/07/1974,Married,1,Southland
+1578,Paula Burns,14/03/1955,Married,1,Otago
+1579,Andrea Moore,19/07/1960,Single,0,Otago
+1580,John Bell,10/09/1976,Married,0,Wellington
+1581,Tane Laing,06/09/1947,Single,0,Wellington
+1582,Kora Hope,21/01/1976,Single,0,Auckland
+1583,Scott Law,27/04/1953,Single,0,Taranaki
+1584,Daniel Morris,21/09/2001,Married,4,Manawatu-Whanganui
+1585,Sandra McGregor,12/01/1990,Married,0,Northland
+1586,Mark Hanson,13/09/1980,Single,1,Bay of Plenty
+1587,Christine Arnold-Parker,20/10/1978,Single,0,Taranaki
+1588,Stephen Smith,09/04/1991,Single,0,Otago
+1589,James Bradley,15/02/1952,Single,0,Hawke's Bay
+1590,Alexander Lloyd,24/01/1993,Married,2,Hawke's Bay
+1591,Julie Robert,05/05/1985,Single,0,Otago
+1592,Grant Jones,04/04/1987,Single,0,Northland
+1593,Tracy Lyon,14/08/2006,Single,2,Waikato
+1594,Daniel Jones,14/09/1988,Single,0,Taranaki
+1595,Ruby MacKay,20/02/1982,Married,2,Waikato
+1596,Ariana Russell,30/03/1961,Single,0,Manawatu-Whanganui
+1597,Aria Rees,29/12/1955,Single,0,Taranaki
+1598,Evie Wratt,31/05/1989,Married,1,Auckland
+1599,Gary Seymour,25/12/1994,Married,3,Auckland
+1600,Caitlyn Dawson-McGrath,17/10/1979,Married,2,Manawatu-Whanganui
+1601,Judith Gordon,06/03/1963,Married,2,Bay of Plenty
+1602,Jillian Blake-Hardy,05/09/1986,Single,0,Taranaki
+1603,Mary Scott,03/11/1979,Married,4,Manawatu-Whanganui
+1604,Molly Nicol,20/06/1993,Married,1,Auckland
+1605,Kirsty Nicol,15/08/1950,Married,3,Canterbury
+1606,Joanne Gillespie,29/05/1977,Married,2,Wellington
+1607,Manaaki Chandler,07/05/1965,Married,0,Waikato
+1608,Joanna Wong,27/05/1982,Married,2,Taranaki
+1609,Karl Buchanan,04/01/1973,Married,1,Otago
+1610,Michelle Wong,23/02/1962,Married,1,Wellington
+1611,Mark Griffin-Smith,19/04/1995,Married,1,Taranaki
+1612,Christine Henderson,25/08/1971,Single,0,Manawatu-Whanganui
+1613,Jamie Marfell,09/04/1966,Married,0,Hawke's Bay
+1614,Rachel Ferguson,17/11/1999,Single,0,Southland
+1615,Wendy Pearce,23/08/1957,Married,3,Waikato
+1616,Barry Perrin,21/07/1962,Married,0,Otago
+1617,Jayden Smith,13/10/1971,Single,1,Manawatu-Whanganui
+1618,Christopher Sullivan,25/12/1991,Married,2,Otago
+1619,Paige Johnston-Kendall,16/11/1986,Married,1,Bay of Plenty
+1620,Sally Thompson,06/02/1954,Married,0,Waikato
+1621,Brent Smith,18/09/1957,Married,0,Hawke's Bay
+1622,Jordan Moore,11/05/1961,Married,0,Wellington
+1623,Colleen Stevens,10/06/1976,Single,0,Northland
+1624,Jessie Thomas,25/04/2006,Married,1,Wellington
+1625,Violet Chapman,01/06/2003,Married,1,Waikato
+1626,Elizabeth Wallace-Long,25/07/1971,Single,0,Northland
+1627,Alana Peters,07/06/1993,Married,0,Wellington
+1628,Shannon Drake,14/06/1985,Single,0,Southland
+1629,Waimarie Anderson,08/02/1972,Single,0,Hawke's Bay
+1630,Lynette Watt,02/02/1991,Single,0,Otago
+1631,Paul Lane,15/08/1973,Single,0,Waikato
+1632,Lily Roberts,08/01/1989,Single,1,Manawatu-Whanganui
+1633,Bridget Munro,16/11/1988,Married,1,Southland
+1634,Nicola Smith,03/07/1964,Married,0,Canterbury
+1635,John Davidson,14/06/1979,Single,0,Manawatu-Whanganui
+1636,Suzanne Wells-Davey,27/03/2002,Married,2,Taranaki
+1637,Caitlyn Morrison,25/04/1993,Single,0,Waikato
+1638,Sarah Johansen,23/11/1994,Married,0,Wellington
+1639,Ruby Franklin,22/03/1987,Married,2,Canterbury
+1640,Nigel Thompson-Burton,12/09/1956,Married,0,Auckland
+1641,Matthew Harris,19/03/1973,Married,2,Waikato
+1642,David Freeman-Love,27/04/1969,Single,0,Manawatu-Whanganui
+1643,Molly Gray,24/05/2003,Married,1,Southland
+1644,Roger Wells,29/08/1952,Single,1,Wellington
+1645,Brian Bailey,14/06/1962,Single,0,Bay of Plenty
+1646,Rebecca Hook,23/10/1982,Married,3,Wellington
+1647,Seth Rowland,10/01/1986,Married,0,Wellington
+1648,Patrick Forsyth,13/09/1974,Single,0,Southland
+1649,Zachary Findlay,24/05/1986,Single,0,Canterbury
+1650,Amy Mitchell,09/10/1987,Married,0,Otago
+1651,Thomas Hart,13/10/1964,Married,0,Northland
+1652,Rachel Hodson,22/02/2004,Single,0,Hawke's Bay
+1653,Michael Graham,13/04/1954,Married,1,Manawatu-Whanganui
+1654,Jeffrey Day,28/03/1997,Married,1,Manawatu-Whanganui
+1655,Samuel Crawford,02/06/1964,Married,2,Canterbury
+1656,Benjamin Richards,09/04/1996,Single,0,Canterbury
+1657,Mary Jensen,29/02/1996,Married,0,Northland
+1658,Jessie Adams,20/06/1999,Single,1,Auckland
+1659,Tania Banks,29/11/2002,Married,1,Hawke's Bay
+1660,Tracey Saunders,25/04/1997,Single,0,Bay of Plenty
+1661,Tracey Thompson,30/04/1966,Married,1,Taranaki
+1662,Jayden Powell,06/06/1947,Married,1,Wellington
+1663,Stuart Taylor,20/11/1987,Single,0,Canterbury
+1664,Willow Currie,08/03/2005,Single,0,Southland
+1665,Sophie Short,02/04/1966,Single,1,Taranaki
+1666,Samuel Bowden,11/06/1986,Married,0,Taranaki
+1667,Judith Cameron,14/12/1981,Married,2,Manawatu-Whanganui
+1668,Melissa Hickey-Lang,02/02/1998,Single,0,Otago
+1669,Rebecca Burrell,22/08/1950,Single,0,Northland
+1670,Hazel Dalton,08/04/1995,Married,1,Hawke's Bay
+1671,Mereana Morris,23/03/1951,Married,1,Manawatu-Whanganui
+1672,Grace Harrison,01/03/1988,Single,0,Auckland
+1673,Alexander McMahon,23/03/1985,Married,1,Waikato
+1674,Samuel Johnston,03/09/1973,Married,0,Bay of Plenty
+1675,Peter Carroll,01/08/1962,Single,0,Northland
+1676,Isabel Jones,15/03/1989,Single,0,Hawke's Bay
+1677,Gemma Drake,29/09/1975,Married,4,Canterbury
+1678,Roger Berkahn,24/05/1983,Married,0,Southland
+1679,Sarah Mason,07/04/1965,Single,0,Taranaki
+1680,Mikayla Ham-Rowe,03/10/1961,Married,2,Auckland
+1681,Kerry Davis,19/11/1997,Married,2,Waikato
+1682,Ashleigh Dickson,12/04/2001,Married,1,Manawatu-Whanganui
+1683,Benjamin Rush,03/10/1953,Married,1,Canterbury
+1684,Jesse Gardiner,19/09/1980,Single,0,Hawke's Bay
+1685,Linda Craig-Prouse,31/08/1984,Married,1,Otago
+1686,Tia McIntosh,21/03/1978,Single,1,Auckland
+1687,Sara Turner,22/07/1953,Single,0,Otago
+1688,Caitlin Marfell,26/08/2003,Single,1,Hawke's Bay
+1689,Noah McLean,15/02/1947,Single,0,Waikato
+1690,Tyler Gardiner,26/12/1952,Single,0,Northland
+1691,Belinda Gardiner,11/08/1964,Single,0,Canterbury
+1692,Charlotte Richards,22/05/1970,Married,1,Wellington
+1693,Joseph Flood-Turner,11/01/1985,Married,0,Hawke's Bay
+1694,Travis Jenkins,12/03/1964,Married,0,Taranaki
+1695,Ryan West,25/03/1953,Married,1,Otago
+1696,Anita Jones,25/08/1977,Single,1,Waikato
+1697,Luke Bowden-Findlay,30/03/1977,Single,0,Otago
+1698,Carol Martin-Burgess,26/09/1996,Single,0,Otago
+1699,Catherine Ireland,25/12/1950,Single,0,Canterbury
+1700,Jessica Mason-Black,20/09/1981,Single,0,Canterbury
+1701,Paula Freeth,01/11/2003,Married,2,Taranaki
+1702,Malcolm McMahon,16/01/1993,Married,2,Wellington
+1703,Melanie Alexander,13/09/1950,Married,1,Southland
+1704,Lauren Conway-Toms,30/05/1980,Married,1,Wellington
+1705,Kay Smith,13/09/1989,Married,1,Otago
+1706,William Morgan,29/11/1958,Single,0,Canterbury
+1707,Judith Best-Stratford,31/03/1972,Married,2,Manawatu-Whanganui
+1708,Joseph Southee,15/01/1968,Single,0,Northland
+1709,Jamie Gleeson,03/07/1966,Single,0,Canterbury
+1710,Benjamin Montgomery-Douglas,28/04/1964,Married,2,Taranaki
+1711,Dean Thompson,13/10/1965,Married,2,Hawke's Bay
+1712,Anthony Batchelar,03/04/1957,Married,2,Waikato
+1713,Gary Harris,07/08/1954,Married,2,Canterbury
+1714,Emily Claridge,12/02/2006,Married,1,Bay of Plenty
+1715,Daniel Wheeler,13/10/1984,Married,0,Auckland
+1716,Kelly Fletcher,26/09/1952,Married,3,Hawke's Bay
+1717,Gordon Simmons,11/05/1949,Married,1,Hawke's Bay
+1718,James Mason,17/03/2005,Single,0,Hawke's Bay
+1719,Lincoln Nielsen-Harris,28/10/1996,Married,1,Hawke's Bay
+1720,Geoffrey O'Connor,13/08/1950,Single,0,Hawke's Bay
+1721,Deborah Eglinton,23/04/1970,Single,0,Northland
+1722,Richard Wilkinson,28/09/1973,Single,0,Wellington
+1723,Amy Hayes,06/05/2001,Single,0,Otago
+1724,Michael Evans-Taylor,20/08/2007,Single,0,Wellington
+1725,Mason Wallis-Fisher,26/10/1968,Single,0,Southland
+1726,Mark Buchanan,01/01/1948,Single,0,Otago
+1727,Lisa Stevens,22/10/1971,Married,1,Bay of Plenty
+1728,Samuel Dalton,03/12/1963,Single,0,Wellington
+1729,Matthew Toms,26/07/1966,Single,0,Wellington
+1730,Megan Montgomery,25/01/1993,Single,0,Auckland
+1731,David Priest-Harrison,12/03/1976,Single,0,Manawatu-Whanganui
+1732,Alice Robb,23/11/1988,Single,1,Manawatu-Whanganui
+1733,Kate Carpenter-Joe,08/01/1973,Married,1,Manawatu-Whanganui
+1734,Rachel Atkinson,25/06/1998,Single,0,Manawatu-Whanganui
+1735,Lance Rickard,09/06/2000,Single,0,Northland
+1736,Mikayla Clarke,19/03/2000,Single,0,Hawke's Bay
+1737,Isabella Gray-Gibbs,03/05/1992,Married,2,Southland
+1738,John Webby,28/02/1975,Married,0,Northland
+1739,Peter Holloway,21/03/1991,Married,0,Auckland
+1740,Colleen Pollard,15/06/1987,Single,0,Otago
+1741,David Cresswell,10/08/1969,Married,0,Wellington
+1742,Joshua Low-Rodgers,23/05/1945,Married,0,Canterbury
+1743,Bella Murphy,14/12/1978,Married,2,Canterbury
+1744,Liam Herd,27/05/1983,Single,0,Taranaki
+1745,Lisa Brown-Jackson,01/05/1949,Single,1,Wellington
+1746,Tony Bond-Burt,04/07/1994,Married,1,Hawke's Bay
+1747,Sean Smith,24/01/1992,Married,2,Auckland
+1748,Margaret Read,31/12/2004,Single,0,Southland
+1749,Trevor Spencer,20/02/1989,Single,0,Manawatu-Whanganui
+1750,Joanne Guard,22/07/1963,Married,0,Wellington
+1751,Karen Price,22/07/1996,Married,1,Waikato
+1752,Andrew Warner,19/02/1981,Married,1,Taranaki
+1753,Adrienne Davis,22/06/1950,Single,0,Taranaki
+1754,Rawiri Bailey,30/10/1991,Single,0,Bay of Plenty
+1755,Thomas Ward,23/04/1967,Married,0,Wellington
+1756,Michael Scott,26/07/1977,Married,0,Hawke's Bay
+1757,Mark Poole,28/08/1967,Single,0,Northland
+1758,Brendon Green,05/02/1968,Married,0,Otago
+1759,Kim Baker,13/11/1949,Married,0,Wellington
+1760,Maria Bishell-Parsons,20/04/1984,Single,0,Southland
+1761,Zachary Sixtus,03/08/1970,Married,1,Northland
+1762,Richard Brown,05/07/1999,Married,0,Auckland
+1763,Gavin Poole,20/05/1949,Single,0,Southland
+1764,Logan Wallace,12/11/1970,Married,0,Wellington
+1765,Matthew Perry,28/09/2003,Married,1,Wellington
+1766,Alexandra Gill-Leslie,13/10/2004,Single,0,Manawatu-Whanganui
+1767,Ashley Stuart-Lawson,03/09/1946,Single,0,Southland
+1768,Harper Davis,23/11/1951,Single,0,Southland
+1769,Olivia Howard-Browne,13/06/2006,Married,1,Canterbury
+1770,Michael Russell,22/07/1973,Single,0,Manawatu-Whanganui
+1771,Judith Jensen-McNabb,08/01/1949,Single,0,Northland
+1772,Mark Lee-Stuart,01/04/1969,Married,0,Northland
+1773,Stella Stone-Moore,29/11/1965,Married,1,Waikato
+1774,Fiona Frost,19/02/1980,Single,0,Hawke's Bay
+1775,Angus McCallum,27/09/2001,Single,0,Southland
+1776,Jason Davis,17/07/1958,Single,0,Southland
+1777,Riley Harrison,09/05/1990,Single,0,Taranaki
+1778,Madeleine Hughes,07/04/1984,Single,0,Hawke's Bay
+1779,Maria Pedersen,13/12/1955,Single,0,Auckland
+1780,Sophie Ingram,27/08/1978,Married,2,Taranaki
+1781,Michael Rutherford,26/08/1976,Married,1,Taranaki
+1782,David Whyte,05/05/2000,Single,0,Northland
+1783,Deborah Edwards,13/05/1945,Married,1,Waikato
+1784,Ashton Anderson,29/09/1952,Married,1,Wellington
+1785,Jeremy Peters-Landon-Lane,25/05/1969,Married,1,Auckland
+1786,Damon Morris,21/10/1959,Married,1,Taranaki
+1787,Gregory Barrett,20/01/1957,Married,2,Southland
+1788,Cody Allen,17/10/1951,Married,4,Canterbury
+1789,Jackson Butcher,16/06/1952,Married,0,Northland
+1790,Geoffrey Green,28/12/1999,Married,0,Canterbury
+1791,Troy McManaway,25/04/1987,Married,3,Waikato
+1792,Brian Gilmore,21/10/1953,Single,0,Manawatu-Whanganui
+1793,Kurt Pike,17/07/1966,Married,0,Southland
+1794,Zoe Jensen,19/01/1948,Single,0,Southland
+1795,Lucy Sanders-Morrison,06/01/1955,Single,0,Hawke's Bay
+1796,Andrew Leslie,20/04/2004,Married,0,Wellington
+1797,Wendy Hogg,22/02/1959,Married,0,Taranaki
+1798,Riley Eaton,01/10/1986,Single,0,Otago
+1799,Justin Wheeler,20/10/1988,Married,2,Taranaki
+1800,Jamie Rowe,01/02/1957,Single,0,Auckland
+1801,Kirsten Burton,30/07/1978,Married,2,Hawke's Bay
+1802,Mark Collis-Eaton,13/02/1989,Single,0,Manawatu-Whanganui
+1803,Darren Cameron,24/08/2003,Married,0,Canterbury
+1804,Denise Rush,26/07/1970,Married,0,Hawke's Bay
+1805,Tony Boyce,16/05/1982,Single,0,Wellington
+1806,Philip Wallace,18/03/1980,Married,3,Hawke's Bay
+1807,Mark Francis,05/03/1987,Married,2,Bay of Plenty
+1808,Julie Kelly,30/11/1969,Married,2,Otago
+1809,Emma Smith,18/12/1974,Single,1,Bay of Plenty
+1810,Michael Lucas-Thompson,31/03/2002,Married,1,Northland
+1811,Leanne Williams,19/09/1963,Single,0,Northland
+1812,Brian Price,23/01/1982,Married,0,Bay of Plenty
+1813,Danielle Patchett,04/07/1965,Married,1,Hawke's Bay
+1814,Craig Holmes-Martin,02/02/2003,Single,0,Manawatu-Whanganui
+1815,Suzanne Smith,14/04/1965,Single,0,Otago
+1816,Renee Jamieson,08/07/1972,Married,2,Auckland
+1817,Jonathan Carr,13/09/1996,Single,0,Bay of Plenty
+1818,Dianne Baxter,10/03/1959,Married,2,Auckland
+1819,Keith Tait,17/06/1996,Single,0,Bay of Plenty
+1820,Helen Thompson,18/06/2002,Single,0,Northland
+1821,Rebecca Hickey,03/03/1959,Married,2,Southland
+1822,Sharon Anderson,12/05/1954,Single,0,Waikato
+1823,Geoffrey Eden,01/12/1978,Single,0,Northland
+1824,Heidi Currie,28/07/1991,Single,0,Otago
+1825,Rachel Paton,18/04/1965,Single,0,Manawatu-Whanganui
+1826,Amanda Tait-Blick,14/05/1955,Married,1,Wellington
+1827,Mary Davey-Stratford,26/11/2003,Married,0,Waikato
+1828,Deborah Olsen,11/04/1981,Married,3,Manawatu-Whanganui
+1829,Jonathan Patchett,19/08/1975,Married,2,Taranaki
+1830,Benjamin Harris-Simmons,01/02/1947,Single,1,Auckland
+1831,Kathleen Edwards-Brown,02/03/1971,Single,0,Canterbury
+1832,David Herd,01/09/1949,Married,0,Taranaki
+1833,Isaac Smith,21/02/1967,Single,0,Taranaki
+1834,Charlotte Mitchell,30/05/1981,Married,2,Auckland
+1835,Penelope Gordon,24/05/2006,Married,0,Waikato
+1836,Simon Lewis,24/07/2000,Married,2,Waikato
+1837,Charlotte Bird,08/01/1966,Single,0,Auckland
+1838,Joshua Donald,26/08/1963,Single,1,Waikato
+1839,Rawiri Rogers,07/01/2001,Married,0,Northland
+1840,Samantha Berry-Ingram,26/09/2004,Married,1,Southland
+1841,Karen Anderson,08/02/1951,Single,1,Southland
+1842,Helen Cunningham,28/10/1998,Married,0,Otago
+1843,Margaret Gledhill,27/10/1956,Married,1,Northland
+1844,Colin Goodwin,23/04/1974,Married,0,Northland
+1845,Suzanne Edwards,08/08/1983,Single,0,Otago
+1846,Nicola Jones,02/03/2005,Married,1,Bay of Plenty
+1847,Stephen Wilkinson-Donaldson,12/06/1949,Married,2,Wellington
+1848,Thomas Perry,01/10/1996,Single,0,Manawatu-Whanganui
+1849,Tane Williams,25/01/1952,Single,0,Hawke's Bay
+1850,Jessica Bell,07/01/1959,Single,0,Waikato
+1851,John Williams,01/03/1992,Single,1,Southland
+1852,Jane Mears,21/02/2003,Single,0,Waikato
+1853,Amelia Neal,27/02/1993,Married,0,Manawatu-Whanganui
+1854,Michelle Francis,20/04/1976,Married,1,Southland
+1855,Liam Jensen,10/09/1974,Married,0,Canterbury
+1856,Sandra Carroll,07/07/1956,Married,1,Hawke's Bay
+1857,Ashley Morrison-Pearson,03/07/1971,Married,2,Waikato
+1858,Nathan Smith,02/07/1963,Married,0,Bay of Plenty
+1859,Isabella Reid,02/04/1947,Married,2,Southland
+1860,Denise Drummond,30/10/2001,Single,0,Manawatu-Whanganui
+1861,Melanie McIntyre,12/12/2005,Single,1,Northland
+1862,Natasha Saunders,12/08/1985,Married,0,Northland
+1863,Richard Fulton,24/11/1961,Married,1,Taranaki
+1864,Daniel Smith,22/10/1946,Married,2,Manawatu-Whanganui
+1865,Sandra Payne,16/03/1949,Married,1,Auckland
+1866,Robert Lowe,30/04/1956,Married,1,Southland
+1867,Andrew Carr,29/05/2000,Single,1,Otago
+1868,Lisa McDonald,31/12/1958,Married,1,Hawke's Bay
+1869,Tracey Campbell,15/06/1959,Single,0,Bay of Plenty
+1870,Hannah Smith,30/05/1989,Married,2,Northland
+1871,Jake Holland,25/05/1949,Married,0,Bay of Plenty
+1872,Michael Gardiner-Brown,12/10/1959,Single,0,Bay of Plenty
+1873,Rhys Hodson-Cairns,24/05/1993,Married,0,Southland
+1874,Chloe Vincent-Waters,02/11/1987,Single,0,Canterbury
+1875,Monique Hardie,11/02/1992,Single,0,Waikato
+1876,Christine Nolan,13/09/1991,Married,2,Hawke's Bay
+1877,Anika Smith,22/12/2006,Married,1,Otago
+1878,Janet Spencer,20/09/1960,Single,0,Auckland
+1879,Nicole Smith-Smith,20/07/1996,Single,0,Bay of Plenty
+1880,David Wilton-Jensen,23/04/1950,Married,0,Manawatu-Whanganui
+1881,Jack Wallace,24/03/1955,Married,1,Auckland
+1882,Michael Baker,06/04/1994,Married,1,Hawke's Bay
+1883,Paula Patchett,31/10/1963,Single,0,Otago
+1884,Kerry McManaway,02/01/1989,Married,2,Waikato
+1885,David Perano,24/03/1968,Married,2,Southland
+1886,Lance Fairhall,27/02/1990,Married,2,Southland
+1887,Matthew Fisher,17/10/1966,Married,1,Bay of Plenty
+1888,Mary Brown,12/05/1978,Married,2,Southland
+1889,Andrew Dalziel,20/10/1958,Married,2,Canterbury
+1890,Clinton Little,08/01/1999,Married,0,Northland
+1891,Justin McEwen,09/09/1976,Married,0,Bay of Plenty
+1892,Paul Jensen,29/11/1956,Married,2,Taranaki
+1893,Geoffrey Bird,28/02/1988,Single,0,Canterbury
+1894,Shannon Millar-McLachlan,17/05/1969,Married,3,Otago
+1895,Chloe Gardner,17/04/1979,Married,2,Waikato
+1896,Rachel Sheridan,28/11/1998,Single,0,Bay of Plenty
+1897,Raymond McEwen,27/07/1950,Single,0,Otago
+1898,Martin Simpson-Hawkins,01/06/1962,Single,0,Hawke's Bay
+1899,Georgina Miller,28/02/1983,Married,0,Wellington
+1900,Anna Martin,02/11/1976,Single,0,Southland
+1901,Thomas Smith,17/07/2003,Married,1,Hawke's Bay
+1902,Kathryn Foote,06/10/1971,Single,0,Waikato
+1903,Janet Jenkins,09/12/1984,Single,0,Southland
+1904,Stacey Doherty,17/05/1953,Married,1,Bay of Plenty
+1905,Chelsea Pritchard-Thornton,23/05/1997,Married,1,Canterbury
+1906,Kelly West,04/10/1991,Single,0,Waikato
+1907,Michael Forsyth,20/12/1994,Married,1,Hawke's Bay
+1908,Jonathan Blackwell,02/07/1969,Married,2,Northland
+1909,Oliver Freeth,09/09/1962,Single,0,Canterbury
+1910,Tracey Moore,28/09/1961,Single,0,Northland
+1911,Vanessa Carroll-Smith,15/05/1997,Single,0,Canterbury
+1912,Jennifer Nielsen,21/03/2006,Married,1,Auckland
+1913,Suzanne Willis,10/03/1956,Married,0,Bay of Plenty
+1914,Nikau Kerr-Elliott,29/03/2005,Married,0,Canterbury
+1915,Gillian Perry-Willis,03/06/1994,Married,1,Canterbury
+1916,Michael Terry,04/05/1968,Married,1,Wellington
+1917,Philip McMurray-Kennedy,14/11/1965,Married,0,Manawatu-Whanganui
+1918,Ryan Smith,28/08/1949,Married,1,Manawatu-Whanganui
+1919,Kirsten Woods,15/10/1994,Single,0,Northland
+1920,Cody Edwards,17/01/1954,Single,0,Auckland
+1921,Christine Jarvis,29/07/1975,Married,1,Otago
+1922,Cooper Taylor,04/05/1957,Single,1,Otago
+1923,Denis Connolly,21/09/1972,Single,0,Taranaki
+1924,Belinda Burgess-Williams,27/09/1950,Single,0,Southland
+1925,Edward Harrison,04/10/1984,Married,0,Waikato
+1926,Katherine Manning,21/07/1945,Married,0,Otago
+1927,Philip Smith-Greer,03/10/1947,Married,1,Wellington
+1928,Kerry Smith,09/12/1985,Married,1,Hawke's Bay
+1929,Tony Crawford-Wells,17/02/1974,Single,0,Wellington
+1930,Natalie Larsen,10/05/1966,Married,2,Bay of Plenty
+1931,Michelle Duncan,19/10/1948,Married,3,Northland
+1932,Sally Smith,23/02/2004,Married,2,Hawke's Bay
+1933,Paige Lyons,10/05/1954,Single,0,Manawatu-Whanganui
+1934,Brooke Tapp-Middlemiss,16/01/1996,Married,2,Canterbury
+1935,Julie Gilchrist,06/02/2004,Married,1,Northland
+1936,Jessica McDonald,29/04/1988,Single,0,Waikato
+1937,Michael Rowland,10/11/1999,Married,0,Manawatu-Whanganui
+1938,Monique Mason,17/11/1977,Single,0,Waikato
+1939,Rose Matthews-Bassett,22/04/1977,Married,2,Canterbury
+1940,Peter Morrison,07/03/1958,Single,0,Auckland
+1941,Simon Willis,25/04/1998,Single,0,Canterbury
+1942,Amber Hodson,31/10/1950,Single,0,Southland
+1943,Kaia Smart,27/11/2005,Married,2,Manawatu-Whanganui
+1944,Jordan Butler,19/06/1961,Single,1,Bay of Plenty
+1945,Philip Herd,28/12/1950,Married,2,Hawke's Bay
+1946,Ria Anderson,15/02/1967,Married,0,Auckland
+1947,Darren Carter-Sullivan,24/12/2005,Married,2,Southland
+1948,Nathan Boon,07/01/1988,Single,0,Auckland
+1949,Aria Robb,29/03/2004,Single,0,Manawatu-Whanganui
+1950,Raewyn Ball-Curtis,24/07/1970,Married,1,Wellington
+1951,Mia Tait,02/03/2003,Single,0,Northland
+1952,David Thomas,15/11/1950,Single,0,Waikato
+1953,Hamish Gibbons,16/09/1957,Married,2,Southland
+1954,Malcolm Jackson,25/03/1966,Single,0,Manawatu-Whanganui
+1955,Paula Lewis-Bradley,28/10/1957,Married,2,Southland
+1956,Hannah O'Sullivan,18/02/1991,Married,1,Hawke's Bay
+1957,Michelle Bradley,28/02/1952,Married,1,Canterbury
+1958,Lance Lloyd,02/10/1954,Married,1,Wellington
+1959,Joshua McLean,01/11/1985,Married,1,Hawke's Bay
+1960,Peter Johnstone,26/03/2001,Married,0,Wellington
+1961,Mason Lewis,07/10/1991,Single,0,Northland
+1962,Te Ariki Newton-Webster,19/04/2001,Married,0,Waikato
+1963,Fiona Corlett,27/11/1948,Married,2,Taranaki
+1964,Samuel MacDonald,06/10/1994,Married,3,Otago
+1965,Timothy Terry,18/03/2003,Married,2,Bay of Plenty
+1966,Gemma McPherson,29/12/2006,Single,0,Taranaki
+1967,Liam Wells,14/01/1991,Married,1,Waikato
+1968,Rachel Olsen,28/10/1980,Single,0,Northland
+1969,Ethan Boon-Judd,13/03/1982,Single,0,Auckland
+1970,Caleb Wratt,26/05/1984,Married,0,Wellington
+1971,John Bell-Martin,07/04/1992,Married,3,Hawke's Bay
+1972,Steven Wood-Watkins,22/03/1958,Single,0,Canterbury
+1973,Ian Chambers,04/11/1951,Single,1,Taranaki
+1974,Jack Peterson,21/02/1991,Single,0,Wellington
+1975,Blair Lambert,16/02/1957,Married,3,Southland
+1976,Hemi Satherley,14/04/1985,Married,0,Bay of Plenty
+1977,Michael Jamieson,21/03/1947,Single,0,Auckland
+1978,James Johnston,22/06/1985,Married,0,Canterbury
+1979,Rebecca Corbett,20/07/1990,Married,2,Bay of Plenty
+1980,Richard Jeffries,27/02/1989,Single,0,Southland
+1981,Michael Rogers-Smith,03/11/1952,Married,1,Wellington
+1982,Joseph Fox,05/08/1979,Married,0,Auckland
+1983,Mark Tanner,14/07/1977,Married,0,Canterbury
+1984,Robert Henderson,08/11/1977,Married,2,Canterbury
+1985,Gemma Jackson,14/01/1967,Single,0,Northland
+1986,Christine Kendall,01/04/1946,Married,3,Bay of Plenty
+1987,Sandra North,23/12/1980,Married,2,Wellington
+1988,Kenneth Nielsen,23/06/1993,Single,0,Otago
+1989,Philip Wood,21/09/1989,Single,0,Manawatu-Whanganui
+1990,Shane Dillon,08/04/1945,Married,1,Northland
+1991,Ruby Campbell,02/09/1953,Single,0,Manawatu-Whanganui
+1992,Michael Thompson,18/05/1962,Single,0,Northland
+1993,Benjamin Jackson,23/03/1965,Single,0,Southland
+1994,Chloe McManaway,10/09/1989,Married,2,Canterbury
+1995,Gavin Fenton,02/04/1980,Married,0,Auckland
+1996,Judith Boyd,16/03/1992,Married,4,Canterbury
+1997,Suzanne Irving,26/02/1986,Married,0,Hawke's Bay
+1998,Deborah Harris,09/09/2000,Single,0,Hawke's Bay
+1999,Andrew Turner,01/03/2003,Married,2,Canterbury
+2000,Matthew Reid,04/05/1969,Married,1,Otago
+2001,Peter Grant,28/04/1982,Married,1,Southland
+2002,Jacob Craw-Dixon,28/07/1950,Married,2,Canterbury
+2003,Tracey Turner,09/10/1958,Married,1,Northland
+2004,Tane Drummond-Davis,25/03/1970,Married,0,Manawatu-Whanganui
+2005,Maia Currie,09/05/1955,Single,0,Wellington
+2006,Jane Burnett,30/09/1961,Married,0,Otago
+2007,Bruce Mitchell-Little,24/05/1949,Married,0,Southland
+2008,Ian Graham,02/07/1963,Married,1,Hawke's Bay
+2009,Edward Harris,11/01/1960,Married,2,Waikato
+2010,Richard Campbell,24/09/1980,Married,3,Southland
+2011,Mark Best-Scott,24/08/1968,Single,1,Taranaki
+2012,Shirley Newman-Stratford,01/12/2005,Single,0,Hawke's Bay
+2013,Glenn Wheeler,14/03/1957,Married,0,Southland
+2014,Lily Funnell,21/04/1972,Married,2,Northland
+2015,Caitlin Smith-Lee,27/06/1955,Single,0,Southland
+2016,Cameron Sutton,06/02/1963,Single,0,Canterbury
+2017,Nicole Parker,30/04/1986,Married,2,Taranaki
+2018,Christine Soper,30/03/1999,Married,2,Hawke's Bay
+2019,Fiona Mudgway,01/05/1980,Single,0,Southland
+2020,Geoffrey Davison,15/09/1965,Single,1,Taranaki
+2021,Sarah Bright,15/02/1950,Married,2,Northland
+2022,Tyler Evans,23/10/1948,Single,1,Wellington
+2023,Lincoln Cox-Spelman,04/10/1973,Married,2,Otago
+2024,Tina Martin,13/10/1978,Single,0,Bay of Plenty
+2025,Nicola O'Connor,04/11/1986,Single,0,Waikato
+2026,Paul Kenny,03/12/1995,Married,1,Manawatu-Whanganui
+2027,Tamati Morton,18/07/2007,Married,1,Waikato
+2028,Amy Ferguson-Evans,02/12/2004,Single,0,Northland
+2029,Susan Gray,19/11/1969,Single,0,Northland
+2030,Hope Taylor,16/08/1978,Married,0,Northland
+2031,Jack Thomas,08/02/2007,Married,1,Wellington
+2032,Samuel Mann,12/04/2003,Single,2,Southland
+2033,Gary Morrison-MacDonald,16/02/1995,Married,0,Manawatu-Whanganui
+2034,Jean Boon-McFarlane,29/08/1988,Single,0,Taranaki
+2035,Tony Rickard,20/08/2002,Single,0,Wellington
+2036,Henry Dunn,07/04/1967,Single,0,Hawke's Bay
+2037,Barbara Phillips,25/01/1994,Married,1,Taranaki
+2038,Isabel Harris,22/05/1978,Married,1,Southland
+2039,Kevin Banks,08/11/1972,Married,2,Otago
+2040,Aimee Hook,05/12/1961,Married,1,Auckland
+2041,Jenna Stevens,20/01/1974,Married,2,Northland
+2042,Samantha Mitchell,01/10/1974,Married,1,Hawke's Bay
+2043,Chelsea Clarke,09/06/1974,Single,0,Southland
+2044,Stacey Carson,08/06/1952,Married,1,Northland
+2045,Andrew Powell-MacKay,21/03/2006,Married,0,Southland
+2046,Nathan Jarvis,05/03/1990,Married,0,Otago
+2047,Jason Newman,02/05/1999,Married,1,Southland
+2048,Graham Blair,28/11/2004,Single,1,Bay of Plenty
+2049,Paige Hubbard,02/02/2001,Married,1,Otago
+2050,Brendon Mitchell,06/05/1946,Married,2,Auckland
+2051,Hamish Smith,25/06/1991,Married,2,Northland
+2052,Nicholas Harrison,15/07/1985,Married,0,Manawatu-Whanganui
+2053,Jayden McKay,21/12/1977,Single,0,Hawke's Bay
+2054,Elizabeth Simpson,11/09/1979,Married,0,Wellington
+2055,Ethan Thomas,03/11/1962,Married,3,Manawatu-Whanganui
+2056,Nathan Wilton,25/02/1977,Single,0,Waikato
+2057,Oliver Brooks,27/03/1957,Single,0,Wellington
+2058,Mary Moore-Campbell,18/03/1972,Married,2,Auckland
+2059,Rawiri McFarlane-McEwen,09/11/1986,Married,3,Southland
+2060,Shaun Fisher,18/08/1980,Married,1,Northland
+2061,Darryl McEwen,29/01/1949,Married,1,Hawke's Bay
+2062,Melanie Johnston,25/03/1963,Single,1,Canterbury
+2063,Tyler Dickson-Parker,25/10/2005,Married,3,Auckland
+2064,Andrew Taylor,02/08/1995,Married,1,Auckland
+2065,Ethan Miller,07/03/1986,Married,1,Manawatu-Whanganui
+2066,Christine Jarvis,24/08/1969,Married,2,Northland
+2067,Brent Fox-Casey,02/05/1997,Married,3,Canterbury
+2068,Isabelle Gledhill,18/06/1995,Married,2,Canterbury
+2069,Krystal Richards-Satherley,14/03/1959,Single,0,Canterbury
+2070,Annette Mitchell,30/09/1987,Single,0,Southland
+2071,Bronwyn Reynolds-Lancaster,08/06/1989,Single,0,Otago
+2072,Patrick Davenport,01/01/1950,Married,1,Manawatu-Whanganui
+2073,Helen Forbes-Burr,26/08/1958,Single,0,Hawke's Bay
+2074,Andrew McDonald,14/05/1982,Single,1,Waikato
+2075,Steven Horton-Gilbert,14/01/1983,Single,0,Otago
+2076,Julia Moran,21/11/2006,Married,3,Northland
+2077,Jordan McLeod,12/03/1979,Single,0,Canterbury
+2078,Mason Drummond,05/09/1953,Married,1,Taranaki
+2079,Wayne Taylor,13/02/1992,Married,0,Taranaki
+2080,Katie Bartlett,06/11/1979,Married,2,Taranaki
+2081,Jeffrey Buchanan,08/03/1983,Married,1,Waikato
+2082,Jennifer Knight,06/06/1957,Single,0,Bay of Plenty
+2083,Malcolm Gibbons,05/07/1945,Married,2,Southland
+2084,Kayla Parkes,09/07/1962,Single,0,Southland
+2085,Gary Roberts,04/01/1953,Married,3,Canterbury
+2086,Andrew Baker,26/07/1947,Married,1,Southland
+2087,Troy Murphy,15/12/1953,Single,0,Wellington
+2088,Michael Parker,08/12/2000,Married,2,Taranaki
+2089,Brianna Robson,17/12/1987,Married,1,Hawke's Bay
+2090,Hannah Fenton,22/01/2005,Single,1,Manawatu-Whanganui
+2091,Paul Sinclair-Watt,30/12/1966,Single,0,Taranaki
+2092,Ryan Cook,09/12/1963,Married,0,Manawatu-Whanganui
+2093,William Wilkinson-Meredith,10/11/1997,Married,2,Taranaki
+2094,Barbara Mears-Gill,25/05/1989,Single,0,Manawatu-Whanganui
+2095,Lilly Rasmussen-Cook,13/03/1963,Married,0,Southland
+2096,Mary Davison-Black,05/04/1975,Married,0,Bay of Plenty
+2097,Jacqueline Connolly,13/04/1951,Married,2,Canterbury
+2098,John McPherson,21/11/1956,Single,2,Southland
+2099,Kathryn Miles-Nicol,04/05/1946,Married,0,Auckland
+2100,Stephen Rasmussen,06/09/1991,Married,2,Bay of Plenty
+2101,Antony Williams,05/08/1961,Single,0,Taranaki
+2102,Ashley Berry,12/05/1994,Single,0,Northland
+2103,Matthew Duncan,25/04/1946,Single,0,Southland
+2104,Raymond Curtis,19/11/1947,Married,2,Waikato
+2105,Richard Roberts,07/08/1987,Married,2,Taranaki
+2106,Robert Smith,11/10/1998,Single,0,Taranaki
+2107,Paula Wells,17/01/1993,Married,2,Bay of Plenty
+2108,Cameron Horton,19/08/2005,Married,2,Auckland
+2109,George Webster,30/06/1961,Single,1,Manawatu-Whanganui
+2110,Nevaeh Watts,13/04/1953,Married,1,Southland
+2111,Bradley Wallace,19/09/1979,Married,1,Taranaki
+2112,Aaron Bailey,01/05/1960,Married,0,Bay of Plenty
+2113,Catherine Coley,11/04/1960,Married,0,Northland
+2114,Natasha McCarthy,05/04/2006,Single,0,Southland
+2115,Chloe Mitchell,30/10/1951,Married,2,Southland
+2116,Anna Graham,09/06/1969,Married,1,Hawke's Bay
+2117,Matthew Gray,02/01/1981,Married,1,Hawke's Bay
+2118,Christine Rush-Stokes,01/09/1991,Married,0,Waikato
+2119,Sandra Phillips-Harris,04/04/2007,Married,0,Canterbury
+2120,Tina Gledhill,23/04/1993,Single,2,Wellington
+2121,Shane Meads,31/10/1997,Married,0,Canterbury
+2122,Graeme Olsen,29/12/1993,Single,0,Wellington
+2123,Brent McEwen,11/05/1994,Single,0,Manawatu-Whanganui
+2124,Benjamin Godfrey,13/04/1957,Married,0,Bay of Plenty
+2125,Holly Cresswell,28/08/1977,Single,0,Hawke's Bay
+2126,Madison Burgess,24/04/1954,Single,0,Auckland
+2127,Jacob Little,26/07/1981,Single,0,Canterbury
+2128,Kylie Simmonds,29/01/1971,Single,0,Otago
+2129,Olivia Berry-Terry,11/02/2000,Married,1,Southland
+2130,Oscar Baker,06/02/1945,Single,0,Southland
+2131,Ian Shaw,30/12/1953,Married,1,Hawke's Bay
+2132,Thomas Price,14/09/2002,Married,1,Wellington
+2133,Garry Turner,22/12/2002,Single,0,Otago
+2134,Elizabeth Hutchinson,15/09/1948,Single,0,Canterbury
+2135,Brett Drummond,23/08/1954,Single,0,Taranaki
+2136,Noel Rush,02/08/1948,Married,0,Taranaki
+2137,Murray Williams,22/11/2001,Single,0,Wellington
+2138,Alexander O'Sullivan,13/04/1950,Single,0,Waikato
+2139,Adam Manson,01/04/1973,Married,2,Otago
+2140,John Turner,18/10/1980,Married,1,Waikato
+2141,John Barr-Saunders,14/10/1988,Single,1,Hawke's Bay
+2142,Felix Hart,13/11/2004,Single,0,Taranaki
+2143,Matthew Hansen,26/10/1955,Single,0,Southland
+2144,Sarah Payne,07/07/2004,Married,0,Southland
+2145,Nikita Carter,01/11/1983,Single,0,Waikato
+2146,Patrick Grant-Hart,01/03/1951,Single,1,Hawke's Bay
+2147,Zoe Jackson,28/04/1959,Single,1,Waikato
+2148,Angela Powell-Booth,19/12/1982,Married,3,Southland
+2149,Ryan Weston,21/03/1966,Single,1,Manawatu-Whanganui
+2150,Sarah Bell,29/07/1999,Single,1,Wellington
+2151,Courtney Mitchell,14/03/1950,Married,1,Taranaki
+2152,Rebecca Graham-Green,25/12/1955,Married,2,Auckland
+2153,Anthony Nelson,21/05/1996,Single,1,Otago
+2154,Liam Collis,09/02/1947,Married,1,Taranaki
+2155,Benjamin Harper-Jones,06/09/1998,Married,1,Auckland
+2156,Andrew Scott,27/11/1965,Single,0,Southland
+2157,Rachael Vincent,11/12/1978,Married,0,Taranaki
+2158,Rachael Forbes,20/09/1953,Married,0,Wellington
+2159,Grant Alve,05/03/1979,Single,0,Taranaki
+2160,Samantha Moore,11/11/1984,Married,1,Southland
+2161,Lucy Rees,24/08/1964,Married,0,Southland
+2162,Nicholas Williams,03/07/1987,Married,1,Waikato
+2163,Stephen Bull,04/06/1989,Married,2,Manawatu-Whanganui
+2164,Tamati Brooks,30/06/1994,Married,2,Waikato
+2165,Tessa Harrison,08/05/1998,Single,0,Manawatu-Whanganui
+2166,Fiona Munro,25/03/1974,Married,1,Wellington
+2167,Elizabeth Irving,16/03/1986,Married,2,Canterbury
+2168,Luke Godfrey,15/07/1951,Married,0,Otago
+2169,Reuben Lewis,10/12/2003,Married,0,Wellington
+2170,Aroha Davies,08/01/1965,Married,0,Bay of Plenty
+2171,Elliot O'Sullivan,23/12/1950,Married,1,Hawke's Bay
+2172,Paul Lloyd,09/02/1977,Married,2,Bay of Plenty
+2173,Melissa Turner,05/05/1953,Married,1,Northland
+2174,Amelia Gee,10/03/1972,Single,0,Manawatu-Whanganui
+2175,Tania Jackson-Barnes,25/05/2002,Married,1,Manawatu-Whanganui
+2176,Jaime Casey,03/05/1979,Single,0,Taranaki
+2177,Stephen Corbett-Jones,20/09/1988,Single,0,Hawke's Bay
+2178,Oliver Hope,04/06/1955,Married,0,Hawke's Bay
+2179,Jack Harper-Sanders,31/01/1960,Married,0,Wellington
+2180,Michelle Phillips,14/10/1976,Married,1,Taranaki
+2181,Susan Francis,30/09/1950,Single,0,Southland
+2182,Thomas Boon,08/03/1997,Married,1,Wellington
+2183,James Brown,16/03/1968,Single,0,Northland
+2184,Debra Hubbard,07/09/1952,Single,0,Southland
+2185,Amelia Hart,20/11/1976,Married,0,Canterbury
+2186,Graeme Anderson,22/10/1985,Married,1,Canterbury
+2187,Angela Dawick,20/08/1998,Single,0,Taranaki
+2188,Debra MacDonald,20/06/1946,Single,0,Southland
+2189,Emma Burgess,05/08/1950,Single,0,Southland
+2190,Edward Thompson,13/05/2004,Married,2,Southland
+2191,Sophia Barnett,23/06/1990,Single,0,Auckland
+2192,Samuel Scott,06/04/2006,Married,1,Taranaki
+2193,Victoria Wallace,03/06/1958,Married,0,Auckland
+2194,Katelyn Pearson,31/03/1998,Married,0,Hawke's Bay
+2195,Isabel Rutherford,22/05/1971,Married,1,Taranaki
+2196,Renee Nelson,14/03/1950,Married,3,Bay of Plenty
+2197,Maria Marshall-Soper,17/11/1994,Single,0,Otago
+2198,Alice Alve,10/12/1954,Single,0,Southland
+2199,Brenda Frost,23/07/1972,Single,1,Canterbury
+2200,Olivia Aberhart,23/07/2001,Married,0,Waikato
+2201,Megan Dick,22/05/1947,Married,1,Bay of Plenty
+2202,Jason Cole,17/03/1956,Married,0,Canterbury
+2203,Denise Wood,30/11/1957,Single,0,Hawke's Bay
+2204,Vicki Gardiner-O'Sullivan,14/06/1965,Single,1,Taranaki
+2205,Sandra Jackson,14/11/1978,Married,1,Taranaki
+2206,Jessica Clarke,06/04/2001,Single,0,Southland
+2207,Kimberley Blair,15/08/1952,Single,0,Wellington
+2208,Joanne Gray,22/05/1985,Married,0,Hawke's Bay
+2209,Joanne Morris,16/10/1989,Married,1,Otago
+2210,Megan Kenny,11/11/2007,Single,0,Southland
+2211,Roger Harris,10/02/1989,Married,2,Wellington
+2212,Tina Harris-Simonsen,11/05/1987,Married,0,Wellington
+2213,Michael Brooks,30/09/1999,Single,1,Otago
+2214,Sean MacDonald-Walsh,10/06/1982,Married,1,Otago
+2215,Craig Weston,16/05/1953,Married,1,Bay of Plenty
+2216,Jessica Sheridan,19/10/1992,Married,2,Canterbury
+2217,Aimee Boyce,22/02/1960,Single,0,Otago
+2218,Duncan Fleming-Jenkins,02/05/2006,Single,0,Manawatu-Whanganui
+2219,Aaron Healey,17/02/1947,Married,0,Otago
+2220,Christian Boyce,25/06/2000,Married,0,Waikato
+2221,Hannah Hansen-Osborne,03/03/1974,Single,0,Southland
+2222,Yvonne Davis,04/10/1988,Married,1,Otago
+2223,Robert Boyd,04/09/1953,Married,0,Otago
+2224,Zoe Hansen,08/06/2006,Single,1,Northland
+2225,Charlotte Mason,22/03/1993,Married,1,Bay of Plenty
+2226,Brittany Boyd,01/08/1971,Married,1,Wellington
+2227,Samuel Hart-Marshall,02/04/1951,Single,0,Hawke's Bay
+2228,Jeffrey Hills,12/04/1985,Married,0,Bay of Plenty
+2229,Matthew Pratt,07/04/1950,Married,2,Canterbury
+2230,Amanda Sowman,12/10/1975,Single,1,Waikato
+2231,Claire Waugh,30/12/1959,Single,0,Southland
+2232,Lachlan Jensen,26/12/1997,Married,0,Wellington
+2233,Mitchell Morgan-Stace,09/08/1987,Married,2,Taranaki
+2234,Sienna Mitchell-Laing,03/04/1953,Married,1,Hawke's Bay
+2235,Ethan Strawbridge,21/03/1951,Married,1,Hawke's Bay
+2236,Sarah Landon-Lane,22/01/1959,Married,0,Auckland
+2237,Joseph Smith,29/11/1949,Married,1,Taranaki
+2238,Daniel Currie,13/06/2005,Single,1,Taranaki
+2239,Samantha Henderson,06/08/1945,Married,1,Canterbury
+2240,Mary Bond-Thomas,26/03/1968,Married,1,Waikato
+2241,Tia Waters,31/03/1945,Married,2,Hawke's Bay
+2242,Pauline Forsyth,11/01/1958,Married,2,Bay of Plenty
+2243,Lachlan Pope,08/09/1996,Single,0,Taranaki
+2244,Simon Thomas,02/09/1959,Married,1,Manawatu-Whanganui
+2245,Caroline Thompson,20/12/1991,Married,1,Auckland
+2246,Edward Ward-Scott,02/02/1993,Married,2,Hawke's Bay
+2247,John Dobson-Coleman,14/02/1972,Single,0,Taranaki
+2248,Christopher Hyde-Lang,13/01/1964,Married,0,Canterbury
+2249,Mark Fulton,09/02/1966,Married,0,Hawke's Bay
+2250,Wayne Hamilton,25/12/2004,Married,2,Canterbury
+2251,Mackenzie Knight,06/08/1966,Single,0,Northland
+2252,Matthew Wilton,02/07/1983,Single,1,Auckland
+2253,Susan Shepherd,27/06/1975,Married,0,Northland
+2254,William Neal,16/10/1972,Married,0,Bay of Plenty
+2255,Sarah Curtis-Ching,16/11/1968,Married,1,Auckland
+2256,Brett Dobson,15/02/1974,Married,2,Taranaki
+2257,Elizabeth Reid,13/03/1970,Married,3,Otago
+2258,Richard Campbell,02/08/1966,Married,1,Northland
+2259,Paul MacDonald,10/07/1983,Single,1,Auckland
+2260,Lucas O'Brien,09/11/1985,Married,4,Otago
+2261,Denise Hope,24/08/1993,Married,0,Taranaki
+2262,Marcus Freeth,29/04/1991,Single,0,Bay of Plenty
+2263,Hannah Ryan,27/04/1958,Single,0,Bay of Plenty
+2264,Katrina Cairns,27/07/1973,Married,1,Hawke's Bay
+2265,John Ball,18/02/1985,Married,0,Southland
+2266,Mark Morris,15/09/1988,Married,1,Hawke's Bay
+2267,Thomas Morris,07/03/2002,Single,0,Wellington
+2268,Steven Warner,27/07/1947,Married,1,Manawatu-Whanganui
+2269,Antony Scott,08/07/1999,Married,3,Waikato
+2270,Edward Avery-Dixon,09/10/1982,Married,1,Otago
+2271,Kathryn Jones,19/03/1965,Single,0,Otago
+2272,Kathryn Spencer,11/11/2006,Single,0,Northland
+2273,Tracey Harris,24/02/1960,Married,2,Auckland
+2274,Cameron Esson,10/07/2003,Married,1,Canterbury
+2275,Dianne Thompson,07/03/1994,Single,0,Waikato
+2276,Maraea Southee,22/12/2003,Married,0,Southland
+2277,Stephen Jones-Jones,12/08/1965,Married,0,Canterbury
+2278,Grant Andrew-Hayes,10/04/1963,Married,0,Otago
+2279,Timothy Greig,24/01/1953,Single,0,Wellington
+2280,Sheryl Wratt,27/04/2005,Married,2,Manawatu-Whanganui
+2281,Michelle Woolley,10/04/1961,Married,2,Wellington
+2282,Michelle Matheson,24/10/1966,Single,0,Northland
+2283,Dianne Allen,23/01/1965,Single,0,Hawke's Bay
+2284,Hayden Potter,26/05/1961,Single,0,Manawatu-Whanganui
+2285,Noah Williams,25/07/1978,Single,0,Auckland
+2286,Adam Reid,09/08/2000,Married,0,Hawke's Bay
+2287,Joseph Harrison,18/04/2000,Married,0,Southland
+2288,Kelsey Davies,15/02/1966,Single,0,Hawke's Bay
+2289,Mia Jefferies,05/02/1952,Single,0,Canterbury
+2290,Thomas O'Brien,11/09/1975,Married,0,Canterbury
+2291,Deborah Dixon,30/07/1949,Single,0,Manawatu-Whanganui
+2292,Cherie Jenkins,05/02/2004,Married,1,Hawke's Bay
+2293,Carter Willis,09/08/1995,Single,0,Southland
+2294,Adrian Lloyd,22/01/1963,Married,2,Wellington
+2295,Michelle Ford,23/12/1962,Married,0,Hawke's Bay
+2296,Anne Kelly,26/02/1955,Married,4,Northland
+2297,Joanne Graham,09/12/1974,Married,0,Manawatu-Whanganui
+2298,Ashleigh Robson,19/09/1994,Married,1,Hawke's Bay
+2299,Garry Jamieson,01/05/1985,Married,2,Canterbury
+2300,Maree Rowe,02/05/1952,Married,1,Taranaki
+2301,Michael Vincent,06/11/1959,Single,0,Southland
+2302,Steven Bird,25/02/1961,Married,1,Northland
+2303,Ashley Adams,10/02/1987,Married,1,Wellington
+2304,Jasmine Harris,06/11/1994,Single,0,Manawatu-Whanganui
+2305,Joshua Hansen-Cameron,31/03/1988,Single,0,Auckland
+2306,Fiona Smith-Edwards,06/09/2006,Married,0,Taranaki
+2307,Kate Jenkins-Fairhall,21/02/1961,Single,0,Canterbury
+2308,Natalie Evans,05/07/1967,Married,1,Canterbury
+2309,William Dawson,10/01/1974,Single,0,Hawke's Bay
+2310,Colin Allen,22/02/1950,Married,1,Taranaki
+2311,Martin Foot,03/08/1984,Married,1,Wellington
+2312,Sophie Crawford,24/12/1947,Married,0,Southland
+2313,Mya McKay-Adams,22/02/1979,Married,0,Hawke's Bay
+2314,Richard Harris,11/08/1999,Married,1,Auckland
+2315,Julie Whyte,15/01/1982,Single,1,Southland
+2316,Ella Holland,26/03/2001,Married,1,Taranaki
+2317,Paul Reed-Rayner,22/03/2003,Married,1,Auckland
+2318,Beverley Gilchrist,17/06/1994,Single,0,Manawatu-Whanganui
+2319,Charles Perry,23/11/1959,Single,0,Northland
+2320,Hugo Anderson,17/03/1984,Single,0,Manawatu-Whanganui
+2321,Isabella MacKay,04/02/1958,Single,0,Hawke's Bay
+2322,William Zimmerman,05/02/1991,Married,0,Canterbury
+2323,Kaia Willis,23/10/1956,Single,0,Waikato
+2324,Stephanie Olsen,20/04/1973,Married,3,Wellington
+2325,Craig Dick-Kenny,02/09/2001,Married,0,Taranaki
+2326,Jayden McLean,02/11/1998,Single,0,Waikato
+2327,Brent Smith-Laing,01/12/1954,Married,0,Auckland
+2328,Kevin McKay,20/11/1982,Single,0,Wellington
+2329,Geoffrey McKay,01/05/1999,Single,0,Manawatu-Whanganui
+2330,John Reid,29/01/2001,Married,2,Otago
+2331,Andrew Jenkins,10/03/1974,Single,0,Wellington
+2332,Andrew Martin,13/09/2004,Married,0,Southland
+2333,Michelle Griffin,16/06/1955,Married,1,Bay of Plenty
+2334,Cameron Perano-Kelly,24/05/2007,Married,2,Manawatu-Whanganui
+2335,Daniel Crawford-Gibson,22/02/2000,Married,1,Hawke's Bay
+2336,Jill Coutts,02/08/1951,Single,0,Southland
+2337,Martin Hansen-Coleman,06/07/2004,Married,1,Waikato
+2338,Carolyn Gibbs-Neal,27/03/1973,Married,1,Taranaki
+2339,Gavin Thompson,20/06/1983,Single,0,Otago
+2340,Leanne Boyce,06/07/2004,Single,0,Northland
+2341,Cameron Saunders,23/03/1966,Single,0,Bay of Plenty
+2342,Karen McEwen,09/07/1973,Single,0,Manawatu-Whanganui
+2343,Amanda Higgins,31/01/1997,Married,2,Southland
+2344,Phillip Bishop,25/06/1965,Married,0,Waikato
+2345,Kelly Jackson-Pratt,24/05/1983,Married,1,Canterbury
+2346,Phillip Powell,29/04/1972,Married,0,Taranaki
+2347,John Pritchard,27/02/1980,Single,0,Otago
+2348,Benjamin Knight,16/02/1989,Single,0,Hawke's Bay
+2349,Lynette Steele,21/05/1983,Married,2,Auckland
+2350,Shirley Campbell,08/09/1984,Single,0,Southland
+2351,Paula Taylor,10/11/1958,Single,0,Wellington
+2352,Lucas Coutts,10/03/1954,Single,0,Northland
+2353,Gavin Lewis,06/05/1945,Married,3,Manawatu-Whanganui
+2354,Natasha Thomas-Smith,29/12/1985,Single,0,Bay of Plenty
+2355,Ashleigh Cameron,21/02/1977,Married,0,Wellington
+2356,Judith Taylor,12/03/1953,Married,1,Manawatu-Whanganui
+2357,Katherine Edwards,22/11/1960,Married,3,Manawatu-Whanganui
+2358,Ryan Read-Gleeson,26/11/1986,Single,0,Taranaki
+2359,Catherine Smith,19/07/1954,Married,0,Hawke's Bay
+2360,Christopher Hubbard,08/02/1982,Single,0,Canterbury
+2361,Kate McKay,18/09/1951,Married,1,Northland
+2362,Jacqueline Morgan,28/02/1971,Single,0,Southland
+2363,John Kendall,27/12/1954,Single,1,Taranaki
+2364,John McMillan-Smith,05/07/1965,Married,0,Auckland
+2365,Judith Gillies-Gibson,21/05/1954,Married,2,Taranaki
+2366,Emma Perrin,01/04/1969,Single,0,Waikato
+2367,Deborah Connolly,20/08/1980,Single,0,Southland
+2368,Angela Coley,06/11/1968,Married,0,Waikato
+2369,Heather McCarthy-Baldwin,06/11/1963,Single,0,Canterbury
+2370,Timothy Brown-Wallis,28/10/1977,Single,0,Bay of Plenty
+2371,Maia Henderson,12/02/1993,Married,2,Otago
+2372,Emily Hickey,22/12/1984,Single,0,Manawatu-Whanganui
+2373,Lucy Long,03/07/1949,Single,0,Taranaki
+2374,Sebastian Hart,23/06/1951,Married,0,Wellington
+2375,Joshua Patterson,06/12/1966,Single,1,Taranaki
+2376,Kahu Dawick,06/10/1994,Single,0,Taranaki
+2377,Steven Hansen,21/08/2005,Married,3,Otago
+2378,Tanya Brown,13/12/1961,Married,1,Bay of Plenty
+2379,Scott Williams,07/11/1996,Married,0,Waikato
+2380,Mary Anderson-Hansen,25/03/1952,Married,1,Manawatu-Whanganui
+2381,Jane Berkahn,14/12/1983,Single,0,Bay of Plenty
+2382,Craig Burns,06/02/1991,Single,0,Taranaki
+2383,Daniel Bell,15/04/2000,Married,0,Wellington
+2384,Benjamin Smith,29/05/1990,Single,0,Otago
+2385,Allan Turner,06/04/1945,Married,3,Taranaki
+2386,Lisa Jeffries,03/02/1968,Married,3,Taranaki
+2387,Katie McGrath,20/09/1983,Married,2,Hawke's Bay
+2388,Holly Gore,04/12/1982,Single,0,Northland
+2389,Jeffrey Parsons,18/05/2004,Married,3,Hawke's Bay
+2390,Anna Maxwell-Stevens,06/12/1952,Married,1,Waikato
+2391,Andrew Butler,10/06/1946,Single,0,Northland
+2392,Timothy Neal-Low,12/07/1949,Married,2,Hawke's Bay
+2393,Bailey Bird-Rowlands,02/07/1986,Married,2,Northland
+2394,James Taylor-Hickey,13/06/1952,Single,0,Wellington
+2395,Toni Shand,11/05/1989,Single,0,Waikato
+2396,Gregory Carter,03/09/1967,Married,2,Waikato
+2397,Cameron Hayward,05/11/1994,Single,0,Manawatu-Whanganui
+2398,David Williams,11/04/1983,Married,3,Taranaki
+2399,Harrison Brown,25/03/1973,Single,0,Bay of Plenty
+2400,Teresa Lang-Webster,18/09/1953,Single,0,Wellington
+2401,Brandon Holdaway,26/03/1960,Married,1,Otago
+2402,Joanne Johnston,26/09/2002,Single,0,Canterbury
+2403,Todd Smith,09/02/1998,Married,1,Otago
+2404,Maree Fisher,04/06/1991,Married,0,Hawke's Bay
+2405,Liam Taylor,04/01/1997,Single,0,Southland
+2406,Jason McEwen,13/04/1954,Married,3,Waikato
+2407,Bridget Dunn,23/05/2006,Married,1,Waikato
+2408,Courtney Coleman,05/11/1948,Married,0,Waikato
+2409,Benjamin Smith,05/01/1973,Married,2,Waikato
+2410,Lisa Corbett,02/12/1945,Single,0,Waikato
+2411,Ross Williams,12/07/1953,Single,0,Otago
+2412,Ethan Davies,25/11/1985,Single,0,Wellington
+2413,Tiare Stewart,23/12/1971,Single,0,Wellington
+2414,Michael Williams,25/11/1981,Single,0,Southland
+2415,Nicole Kendall,27/12/2005,Married,1,Auckland
+2416,Olivia Claridge,31/12/1997,Married,2,Taranaki
+2417,Simon Jensen-Stokes,09/08/1966,Single,1,Northland
+2418,Kayla Taylor,07/03/2006,Single,0,Otago
+2419,Kathleen Williams-Lancaster,01/03/2002,Married,1,Hawke's Bay
+2420,Geoffrey Simmons,04/04/1953,Single,1,Northland
+2421,Andrew Baker,13/11/1974,Married,0,Taranaki
+2422,Vanessa Smith,25/10/2001,Single,0,Waikato
+2423,Eli Gill-Hutchinson,28/08/1950,Married,2,Canterbury
+2424,Shane Gill-Smith,10/12/1970,Married,0,Manawatu-Whanganui
+2425,Amy Wood,15/06/1957,Married,1,Taranaki
+2426,Kylie Morton,14/01/1947,Single,0,Otago
+2427,Toni Horn,31/03/1996,Single,0,Southland
+2428,Ross Bradley-Conway,09/02/1968,Married,2,Northland
+2429,Joanne McEwen-Miles,13/12/1994,Single,2,Taranaki
+2430,Roger Simmons,27/12/1993,Single,0,Auckland
+2431,Shane Baird-Francis,15/11/1983,Single,0,Waikato
+2432,Rebecca Carter-Whittaker,15/09/1976,Single,0,Wellington
+2433,Caleb Smith,26/04/1999,Single,0,Hawke's Bay
+2434,Benjamin Parker-Douglas,16/11/1967,Single,1,Canterbury
+2435,Amelia Morgan,12/03/1963,Single,0,Waikato
+2436,Richard Gledhill-Griffiths,13/05/1953,Single,0,Hawke's Bay
+2437,Michelle Potter-Jefferies,08/02/1975,Married,1,Canterbury
+2438,Jeremy Smart,26/04/1969,Single,0,Waikato
+2439,Denise Taylor,27/04/1950,Single,0,Otago
+2440,Lily Mudgway-Gardner,18/06/1962,Married,1,Manawatu-Whanganui
+2441,Dennis Cresswell-Adams,12/10/1956,Single,0,Canterbury
+2442,Michaela Mason-Woods,11/06/1957,Married,1,Hawke's Bay
+2443,Shelley Field,05/10/1947,Single,0,Wellington
+2444,Anthony Ham,14/07/1962,Single,0,Waikato
+2445,Nicholas Davison,13/12/1968,Married,1,Manawatu-Whanganui
+2446,Mathew Phillips,06/03/1950,Single,0,Canterbury
+2447,Brenda Williams,16/10/1958,Single,0,Auckland
+2448,Jade Booth-Day,02/08/1988,Married,0,Northland
+2449,Cameron Webb-Caldwell,14/09/1967,Married,0,Southland
+2450,Karen Hoskins,24/03/1987,Married,1,Otago
+2451,Isaac Morrison,12/02/1955,Married,2,Bay of Plenty
+2452,Brendan MacDonald,19/03/1966,Single,0,Hawke's Bay
+2453,Renee George,12/07/1959,Single,0,Wellington
+2454,Amber Forbes-Fisher,31/01/1989,Married,2,Auckland
+2455,William Doherty,20/05/1983,Married,0,Bay of Plenty
+2456,Mary Sowman-Atkinson,26/02/1953,Single,0,Southland
+2457,Matthew Herd,25/04/1980,Single,0,Otago
+2458,Emma Potter,06/11/1964,Single,0,Otago
+2459,Elizabeth Gibbs,15/07/1969,Married,1,Bay of Plenty
+2460,Grace Hardie,26/01/1992,Married,1,Manawatu-Whanganui
+2461,Patricia Burrell,13/07/1969,Married,0,Southland
+2462,Linda Williams,23/07/1969,Married,3,Waikato
+2463,Maia Ferguson,29/05/1973,Single,0,Southland
+2464,Sarah Street-Foote,29/07/1961,Married,1,Canterbury
+2465,Mila Dawson,10/02/1986,Single,2,Bay of Plenty
+2466,Hamish Campbell-Sinclair,10/04/1979,Married,1,Southland
+2467,Kathryn Burt-Ward,23/02/1957,Married,1,Northland
+2468,Christopher Pedersen,30/12/1996,Single,1,Manawatu-Whanganui
+2469,Penelope Jackson,23/03/1947,Single,0,Northland
+2470,Nigel Burr,30/11/1953,Single,0,Canterbury
+2471,Tania Craw,07/01/1969,Single,1,Southland
+2472,Nicola Green,14/11/1964,Married,2,Otago
+2473,Susan Banks,26/02/1985,Married,1,Hawke's Bay
+2474,Barbara Barr-Williams,24/07/2007,Single,0,Wellington
+2475,Suzanne Peters,24/04/1995,Married,0,Otago
+2476,Phillip Jordan-Sowman,25/02/1994,Single,0,Otago
+2477,Tania Arnott-Thompson,07/11/2005,Single,0,Bay of Plenty
+2478,Lynette Johansen-Fowler,17/09/1966,Married,1,Manawatu-Whanganui
+2479,Justin Forrest,05/07/1997,Single,0,Northland
+2480,Gary Harrison,18/04/1983,Married,2,Otago
+2481,Louise Franklin,10/12/1973,Single,0,Taranaki
+2482,Janet Conway,26/08/1954,Married,3,Manawatu-Whanganui
+2483,Jason Murphy,05/10/2004,Married,0,Auckland
+2484,Ashley Morris,21/12/1952,Single,0,Waikato
+2485,Joseph Bailey-Evans,10/05/2007,Married,2,Wellington
+2486,Rachel Broughan-Dawson,02/07/1954,Married,0,Manawatu-Whanganui
+2487,Liam Allan,24/05/1956,Married,0,Wellington
+2488,Susan Way-Butler,12/04/1999,Married,3,Northland
+2489,Joseph Steele,19/01/1970,Married,1,Auckland
+2490,Troy Harper-Owen,08/05/1980,Married,2,Taranaki
+2491,Gabrielle Mitchell,20/12/1992,Married,2,Wellington
+2492,Stephanie Cox,26/10/1950,Married,0,Hawke's Bay
+2493,Peter Thomas-Clarke,15/04/1950,Married,0,Southland
+2494,Paul Patchett,31/05/1979,Single,1,Manawatu-Whanganui
+2495,John Whyte-Joe,12/12/1949,Married,1,Waikato
+2496,Stephanie Anderson,28/09/1951,Single,0,Northland
+2497,Hannah Carroll,23/11/1989,Single,0,Canterbury
+2498,Warren Watts,22/08/1961,Single,0,Canterbury
+2499,Jan Croad-Johansen,16/12/1962,Married,0,Southland
+2500,Joseph Edwards,16/09/1978,Single,0,Otago
+2501,Damian Willis,15/01/1980,Married,2,Northland
+2502,Aaron Brown,10/11/1982,Single,2,Taranaki
+2503,Paul Anderson,21/09/1991,Single,1,Taranaki
+2504,Jane Greig-Collis,09/11/1977,Married,1,Taranaki
+2505,Stephen Browne,14/06/2004,Single,0,Hawke's Bay
+2506,Kathryn Peters,03/08/1985,Married,1,Southland
+2507,Kate Scott,20/07/1952,Married,2,Manawatu-Whanganui
+2508,Jarrod Bryant-Parker,26/10/1973,Single,0,Southland
+2509,John Ryan,18/08/1952,Married,1,Otago
+2510,Nicole Rayner,28/10/1977,Married,1,Waikato
+2511,Jessica Baker-Morrison,10/06/1979,Single,0,Northland
+2512,Angela Mercer,16/09/1962,Married,1,Manawatu-Whanganui
+2513,Jessica Dobson,03/11/1973,Single,0,Bay of Plenty
+2514,Thomas Roberts-Ireland,12/01/1968,Married,0,Taranaki
+2515,George Perry,12/11/1983,Single,0,Canterbury
+2516,Deborah Parsons,22/08/1986,Married,1,Northland
+2517,Caitlin Butler,20/01/1994,Single,0,Northland
+2518,Aria Marfell,25/12/2006,Married,3,Northland
+2519,Angela Jones,25/03/1959,Married,0,Manawatu-Whanganui
+2520,Danielle Hart,11/05/1981,Married,2,Hawke's Bay
+2521,Flynn Bell,07/05/1970,Married,0,Auckland
+2522,Denise Sowman,01/11/1945,Married,1,Waikato
+2523,Phillip Berry,12/01/1979,Married,1,Taranaki
+2524,Amy Miller,22/07/1946,Married,1,Waikato
+2525,Allan Simonsen,25/03/2000,Married,0,Southland
+2526,Caitlyn Hoare,12/04/1963,Married,1,Manawatu-Whanganui
+2527,Austin Barr,14/10/1996,Married,0,Wellington
+2528,Alison Hudson,07/10/1981,Single,0,Waikato
+2529,Blair Forrest,10/07/1971,Single,0,Hawke's Bay
+2530,Shelley Reardon-Rush,02/07/1995,Married,2,Southland
+2531,Edward Cameron-Allen,20/07/1989,Married,0,Southland
+2532,Jan Wilton,12/01/1960,Single,0,Bay of Plenty
+2533,Emma Morris,26/09/1992,Married,1,Wellington
+2534,Elizabeth Smith,23/09/1978,Single,0,Bay of Plenty
+2535,Vanessa Pritchard,13/07/1993,Single,0,Northland
+2536,Diane Learmonth,12/12/1971,Married,1,Bay of Plenty
+2537,Joel Sullivan,26/04/1952,Single,0,Northland
+2538,Grant Dobson-Logan,25/05/1951,Single,0,Auckland
+2539,Daniel Clunies-Ross,15/04/1985,Single,0,Taranaki
+2540,Cameron Dunn,16/02/1977,Married,0,Wellington
+2541,Rachel Taylor-Cox,06/12/1972,Single,0,Canterbury
+2542,Sarah Anderson,17/10/1991,Married,2,Auckland
+2543,Jennifer Smith-Paton,14/04/1996,Single,0,Canterbury
+2544,Leanne Davies,10/04/1989,Single,0,Waikato
+2545,Karen Burton,29/08/1982,Married,1,Bay of Plenty
+2546,Timothy Rush,07/03/1950,Single,0,Northland
+2547,Phillip Bell,26/10/1995,Married,4,Northland
+2548,Craig Paul,22/08/1952,Married,2,Auckland
+2549,Katie Poole,08/08/1980,Married,1,Canterbury
+2550,Philip Hayward,01/02/1972,Single,0,Manawatu-Whanganui
+2551,Brett Guard-Parkes,21/10/2004,Married,0,Northland
+2552,Kerry Bishop-Richards,25/02/1989,Single,0,Bay of Plenty
+2553,Flynn Donald,16/07/1999,Married,2,Auckland
+2554,Kim Neal,27/05/1976,Single,0,Waikato
+2555,Taylor Parkes,29/11/2002,Married,1,Northland
+2556,Kevin Long,29/07/1945,Married,0,Auckland
+2557,Christine Chapman,15/04/1945,Married,0,Wellington
+2558,Damon Scott,11/02/1976,Married,1,Waikato
+2559,Anthony Weston,21/07/1955,Married,1,Southland
+2560,Megan Gilmore,18/05/1968,Married,3,Otago
+2561,Timothy Morgan,03/10/2000,Single,0,Auckland
+2562,Paris Barnes-Fulton,29/03/1962,Married,2,Taranaki
+2563,Melanie Cameron,27/03/1985,Single,0,Bay of Plenty
+2564,Peter Miller,19/10/1962,Married,1,Bay of Plenty
+2565,Bruce McLeod,14/10/1988,Single,0,Auckland
+2566,Hayley Mercer,15/03/1985,Single,1,Waikato
+2567,William Drake-Dunn,12/10/2006,Single,2,Waikato
+2568,Christopher North,20/08/1959,Single,0,Otago
+2569,Catherine Bell-Spelman,28/11/1966,Married,0,Bay of Plenty
+2570,Cameron Bull,08/11/1973,Married,1,Manawatu-Whanganui
+2571,Harper Kerr,20/11/1952,Single,0,Auckland
+2572,Jasmine Rayner,18/12/1992,Married,3,Hawke's Bay
+2573,Grace McLeod,07/01/1981,Single,0,Northland
+2574,Sarah Robert-Faulkner,19/08/2001,Married,2,Canterbury
+2575,Scott Hope,04/04/1978,Married,1,Wellington
+2576,Nicholas Freeman-Coleman,07/08/1968,Single,0,Northland
+2577,Shaun Bond,09/05/1997,Married,0,Hawke's Bay
+2578,Pamela MacDonald,31/12/1982,Single,0,Southland
+2579,Jamie Shannon,19/08/1945,Married,0,Otago
+2580,Isla Davis,17/10/1984,Married,1,Taranaki
+2581,Aroha Gardiner,05/03/1962,Married,2,Canterbury
+2582,Matthew Anderson,13/08/1963,Single,0,Otago
+2583,Jennifer Guard,30/10/1992,Single,2,Southland
+2584,Michael Gaskin-Booth,24/08/2003,Married,2,Northland
+2585,Tiare Vercoe,09/04/1978,Single,0,Auckland
+2586,Rachael Nicol,12/01/1982,Married,2,Otago
+2587,Isaac Andrew,12/06/1993,Married,2,Bay of Plenty
+2588,Simon Stewart,16/06/1973,Married,2,Northland
+2589,Jesse Dean,16/04/1966,Married,2,Taranaki
+2590,Emma Rees,26/06/1989,Married,0,Northland
+2591,Grant Joe,16/02/2006,Single,0,Canterbury
+2592,Terence Reynolds,30/10/1969,Married,1,Otago
+2593,Troy Jamieson,29/11/2001,Single,0,Bay of Plenty
+2594,Anthony Gunn,13/01/1979,Single,1,Hawke's Bay
+2595,Benjamin Saunders-Morgan,05/06/1958,Married,3,Taranaki
+2596,Jessica Bright,19/03/2002,Single,0,Taranaki
+2597,Edward Phillips-Harrison,28/07/1983,Married,0,Bay of Plenty
+2598,Luke Page,25/10/1952,Single,0,Taranaki
+2599,Peter Edwards,18/02/1985,Married,1,Auckland
+2600,Reuben Caldwell,16/09/1959,Single,0,Taranaki
+2601,Karen Zimmerman,11/09/1961,Single,0,Canterbury
+2602,Peter Eden,13/01/1966,Married,2,Hawke's Bay
+2603,Nicole Gray,18/06/1954,Married,2,Hawke's Bay
+2604,Jessica O'Keefe,21/06/1963,Single,0,Wellington
+2605,Ariki Carter,27/10/1974,Married,2,Taranaki
+2606,Joseph Dick,23/08/1968,Married,2,Waikato
+2607,Julie Peters,03/07/2001,Single,0,Northland
+2608,Warwick Nielsen,03/07/1955,Married,2,Canterbury
+2609,Deborah Kenny-Matthews,02/02/2000,Single,0,Otago
+2610,Daniel Jordan-Fletcher,18/05/2001,Single,0,Otago
+2611,Benjamin Middleton-Carter,24/09/1976,Single,0,Taranaki
+2612,Timothy Pope,08/11/1987,Married,2,Auckland
+2613,Carolyn Reynolds,29/03/1970,Married,2,Canterbury
+2614,Michelle Carpenter,04/11/1966,Single,0,Auckland
+2615,Michael Millard,11/06/1945,Single,0,Northland
+2616,Kate Wells,09/05/2006,Married,0,Auckland
+2617,Thomas Jenkins,03/09/1976,Married,1,Manawatu-Whanganui
+2618,Philip Davidson,12/11/1986,Single,0,Taranaki
+2619,Lorraine Nicholson-Kennedy,31/08/2001,Single,0,Hawke's Bay
+2620,Paul Ball-Burton,15/03/1972,Married,0,Otago
+2621,William Zimmerman,02/11/1996,Married,0,Wellington
+2622,Jason Rayner,15/03/1984,Single,0,Waikato
+2623,Amanda Carr-Blick,28/03/2005,Married,2,Wellington
+2624,Danielle Hardie,26/01/1996,Single,0,Southland
+2625,Murray Caldwell,26/07/1948,Married,0,Taranaki
+2626,Robert Turner-Matthews,08/11/1971,Married,2,Manawatu-Whanganui
+2627,Aaliyah Moore,27/12/2004,Married,2,Auckland
+2628,George Edwards-Davison,12/08/1974,Married,2,Bay of Plenty
+2629,Christopher Cooksley,07/09/1997,Married,1,Wellington
+2630,Jonathan Larsen,10/12/1976,Married,2,Wellington
+2631,Nicola Landon-Lane,24/05/1990,Single,1,Taranaki
+2632,Nicole Pritchard,05/06/1951,Married,0,Waikato
+2633,Gordon Waller,13/02/1972,Married,1,Waikato
+2634,Susan Sheridan,10/08/1994,Single,0,Southland
+2635,Jeanette Williams-West,17/04/1995,Married,0,Southland
+2636,Darryl Griffiths,26/02/1997,Single,1,Taranaki
+2637,Isla Kerr,05/01/1945,Married,2,Manawatu-Whanganui
+2638,Rachael Mortimer-Freeth,20/04/1954,Single,0,Southland
+2639,Andrew Johnston,23/03/1951,Single,0,Southland
+2640,Mia Rush,18/04/1964,Married,1,Southland
+2641,Millie Millar,01/09/1962,Married,1,Wellington
+2642,Christopher Casey,03/09/2001,Married,0,Canterbury
+2643,Sally Matthews,06/10/1994,Married,1,Taranaki
+2644,Ruth Smith,13/08/1966,Married,1,Canterbury
+2645,Keira Gilchrist-Smith,25/05/1989,Married,1,Hawke's Bay
+2646,Jill Taylor,28/10/1973,Single,0,Otago
+2647,Matthew Trask,19/07/1975,Married,3,Taranaki
+2648,Renee Dickson,08/05/2002,Single,2,Otago
+2649,Bella Henderson,06/10/1973,Single,0,Manawatu-Whanganui
+2650,Sophia Williams,18/05/1945,Single,0,Manawatu-Whanganui
+2651,Emily Pickering-Bishop,04/04/2004,Married,2,Otago
+2652,Anahera Miller,06/03/1953,Single,0,Hawke's Bay
+2653,Jacqueline McDowall,13/08/1991,Single,0,Manawatu-Whanganui
+2654,Jason Knowles-Fulton,04/07/1946,Married,2,Bay of Plenty
+2655,Colin Gibson-Smith,30/12/1966,Single,0,Northland
+2656,Martin Lucas,26/05/1947,Married,1,Manawatu-Whanganui
+2657,Elizabeth Thompson,05/05/1951,Single,0,Auckland
+2658,Michael Kelly,07/08/1963,Married,4,Hawke's Bay
+2659,Natasha Jensen,31/01/2001,Married,0,Canterbury
+2660,Lisa Jones,17/02/1967,Single,2,Bay of Plenty
+2661,Carter Matheson,22/04/1988,Married,0,Waikato
+2662,Kelly Forbes,22/11/1967,Married,0,Otago
+2663,Jason Smith-McLachlan,21/05/1962,Single,0,Bay of Plenty
+2664,Samuel Nicholson,29/10/1952,Single,1,Taranaki
+2665,Emily Johnston-Lee,14/01/2003,Married,1,Hawke's Bay
+2666,Jack Crawford,02/09/1996,Married,0,Auckland
+2667,Peter Craig-Murphy,06/08/1990,Single,0,Canterbury
+2668,Jennifer Henderson-Morris,01/04/1945,Married,0,Otago
+2669,Alan Day,26/09/1953,Married,2,Waikato
+2670,John Eaton-Bright,08/07/1951,Married,0,Bay of Plenty
+2671,Aiden Webb,29/03/1949,Married,0,Manawatu-Whanganui
+2672,Paul Griffiths-Lloyd,16/07/1973,Single,0,Waikato
+2673,Hayley Gordon-McMurray,05/10/1945,Single,0,Otago
+2674,Hannah Booth,27/03/1955,Married,2,Canterbury
+2675,Deborah Hickey,14/09/1990,Single,0,Hawke's Bay
+2676,James Morton-Harper,03/04/1950,Married,2,Wellington
+2677,Linda Larsen,11/01/1959,Single,0,Bay of Plenty
+2678,Jacqueline Morrison,13/05/1966,Single,0,Hawke's Bay
+2679,Amanda Parsons,02/04/1956,Single,0,Auckland
+2680,Lisa Day,16/12/1996,Single,1,Otago
+2681,Logan Burns-Baker,04/08/2007,Married,1,Manawatu-Whanganui
+2682,Jackson Kay,23/04/1953,Single,0,Wellington
+2683,Denise Dalziel,29/09/1983,Married,2,Waikato
+2684,Shaun Fulton,20/11/1994,Married,2,Hawke's Bay
+2685,Jessica Wheeler,12/05/1973,Married,3,Southland
+2686,Gordon O'Sullivan-Mitchell,10/02/2005,Single,0,Manawatu-Whanganui
+2687,Kay Bartlett,22/03/1960,Single,0,Taranaki
+2688,Rachel Morris,27/10/2007,Married,0,Taranaki
+2689,Timothy Gray,13/07/1964,Single,0,Otago
+2690,Sarah Pritchard,23/07/1989,Married,1,Waikato
+2691,Jacob Waugh,15/05/1973,Married,0,Southland
+2692,Michael Gore,03/05/1954,Married,2,Manawatu-Whanganui
+2693,Kayla Williams-Harper,21/09/1972,Single,2,Hawke's Bay
+2694,Margaret Evans,21/06/1987,Married,1,Wellington
+2695,Wayne Smith,29/10/1985,Single,0,Bay of Plenty
+2696,Lily Hepburn,08/10/2002,Single,0,Canterbury
+2697,Jacqueline Spelman,29/10/1956,Married,0,Wellington
+2698,Graeme Morrison,09/10/2005,Single,0,Auckland
+2699,Mark Lloyd,06/06/1991,Married,1,Bay of Plenty
+2700,Maraea McMahon,21/04/1976,Single,0,Taranaki
+2701,Rodney Stubbs,01/04/2004,Single,0,Canterbury
+2702,John Botham,17/05/1945,Married,2,Northland
+2703,Nicholas O'Connor,10/04/1980,Single,0,Northland
+2704,Ann Pedersen,08/08/1962,Single,0,Hawke's Bay
+2705,Bronwyn Terry,09/12/1988,Single,0,Hawke's Bay
+2706,Jeffrey Hutchinson,21/12/1948,Single,2,Taranaki
+2707,Sarah Dalton,15/08/1947,Married,0,Wellington
+2708,Olivia Carr,10/02/1989,Married,0,Manawatu-Whanganui
+2709,Robyn Harris,20/07/2002,Single,0,Hawke's Bay
+2710,Rachel Thomas-Evans,01/01/1973,Married,0,Southland
+2711,Carolyn Jensen,29/09/1977,Single,0,Otago
+2712,Blair Ritchie-Williams,04/02/2006,Married,1,Otago
+2713,Rachael Conway,17/03/1968,Single,0,Southland
+2714,Hayley Ferguson,16/06/1962,Married,0,Bay of Plenty
+2715,Martin Nolan-Moore,13/07/1964,Single,0,Otago
+2716,Stephen McMillan,24/06/1993,Married,1,Northland
+2717,Tyler Hart-Armstrong,01/04/1977,Married,1,Northland
+2718,Mikayla Simpson,13/09/1999,Single,0,Waikato
+2719,Carlos Morrison,20/01/1971,Single,0,Otago
+2720,Alexander MacDonald,10/07/1965,Married,0,Wellington
+2721,Alexandra O'Sullivan-Allan,15/02/2004,Married,0,Auckland
+2722,Kate Bowden,30/04/1968,Single,0,Hawke's Bay
+2723,Mark Kerr,08/07/1980,Single,1,Bay of Plenty
+2724,Shirley Fuller,31/05/1956,Married,0,Wellington
+2725,Christine Baldick,15/11/1945,Single,0,Northland
+2726,Hamish Lewis,03/03/1960,Single,0,Waikato
+2727,Matthew Miles-Campbell,23/04/1958,Married,2,Waikato
+2728,Justine Landon-Lane,31/07/2006,Married,0,Taranaki
+2729,Susan Hubbard,24/08/1969,Married,2,Taranaki
+2730,James Harris,01/05/1967,Single,0,Canterbury
+2731,Dylan Batchelar,08/07/2002,Single,0,Southland
+2732,Sophia Frost,18/09/1948,Single,0,Hawke's Bay
+2733,Kim Jensen-McNabb,03/05/1957,Single,1,Taranaki
+2734,David Moran,24/12/1956,Single,0,Canterbury
+2735,Emily Murphy-Hudson,23/10/1994,Married,0,Waikato
+2736,Kevin Taylor,23/05/1960,Married,2,Hawke's Bay
+2737,Rachel Sullivan-Harris,25/11/2004,Married,0,Northland
+2738,Robyn Williams,15/06/1977,Married,2,Auckland
+2739,Anne Ward,24/10/1981,Married,0,Southland
+2740,Mason Stevens,23/07/1945,Single,0,Southland
+2741,Shelley Mitchell,26/03/2005,Single,0,Wellington
+2742,Mark Bright,27/04/1996,Single,0,Southland
+2743,David Sinclair,01/05/1963,Single,0,Manawatu-Whanganui
+2744,Grant Burton,19/03/1964,Single,0,Wellington
+2745,Donald Bartlett-Harrison,12/01/1991,Single,1,Northland
+2746,Glenda Gardner,23/05/1996,Single,1,Taranaki
+2747,Aimee Stokes,31/07/1979,Married,0,Waikato
+2748,Chelsea Brown,21/04/1974,Single,0,Northland
+2749,Bevan Haines-Larsen,27/08/1991,Single,0,Auckland
+2750,Craig Mitchell,05/09/1960,Single,0,Taranaki
+2751,Joshua Ryan-Tapp,29/11/1951,Married,1,Northland
+2752,Timothy MacDonald-Joe,09/12/1966,Single,0,Canterbury
+2753,Reuben Tait,28/11/2002,Married,0,Southland
+2754,Michelle Webb-Pope,22/02/1977,Married,1,Southland
+2755,Robyn Craven-Knight,17/10/1962,Single,0,Taranaki
+2756,Jack Jenkins-Hawkins,02/05/2001,Single,0,Auckland
+2757,Julie Rush,08/09/1971,Single,0,Manawatu-Whanganui
+2758,Aimee Buckley,01/09/1948,Single,1,Auckland
+2759,Melissa Martin,31/12/1975,Married,3,Bay of Plenty
+2760,Alan Marfell-Wood,03/09/1993,Single,0,Otago
+2761,Samuel Smith-McEwen,05/12/1970,Married,2,Southland
+2762,Linda Ward,15/07/1959,Married,0,Manawatu-Whanganui
+2763,Jordan Morgan,20/12/1949,Single,0,Southland
+2764,Graham Webster,27/12/1993,Married,1,Southland
+2765,Vanessa Gibb,25/01/1998,Single,0,Manawatu-Whanganui
+2766,Natasha Healey,18/01/1978,Single,0,Canterbury
+2767,Mikaere Nielsen-Taylor,21/09/1948,Married,1,Bay of Plenty
+2768,Emma Gardiner,04/10/2007,Single,1,Otago
+2769,Jonathan Burrell,10/12/1949,Married,1,Canterbury
+2770,Sarah Rowland,15/01/1985,Married,0,Canterbury
+2771,Danielle Thompson-Jensen,18/11/1983,Married,1,Southland
+2772,Logan Rasmussen-Paton,19/06/1954,Single,0,Canterbury
+2773,Simon Hooper,14/03/1995,Single,0,Taranaki
+2774,Susan Rogers,06/02/2005,Married,3,Manawatu-Whanganui
+2775,Graeme Adams,21/07/1969,Married,4,Canterbury
+2776,Nicholas Low,13/04/1962,Married,2,Hawke's Bay
+2777,Cameron Ritchie,26/12/1973,Single,1,Otago
+2778,Ruby Manson,03/01/1949,Married,0,Taranaki
+2779,Alice Coleman,02/02/1947,Single,1,Wellington
+2780,Robyn Cox,09/01/1984,Single,0,Canterbury
+2781,Peter Rose,24/11/1982,Married,2,Otago
+2782,Kingston Paterson,30/06/2002,Single,1,Manawatu-Whanganui
+2783,Tanya Small-Doherty,27/01/1996,Married,3,Bay of Plenty
+2784,Sandra Smart,05/06/2005,Married,1,Southland
+2785,Michael Williams,28/12/1988,Single,1,Bay of Plenty
+2786,Julie Findlay,24/03/1995,Single,0,Waikato
+2787,James Morrison,07/05/1987,Single,0,Canterbury
+2788,Adam Marshall,23/02/1955,Married,0,Hawke's Bay
+2789,Mark Gibbs,17/02/1981,Married,1,Hawke's Bay
+2790,Richard Stevenson,14/01/1969,Single,0,Waikato
+2791,Charlie Middleton-Wood,06/04/1957,Single,0,Waikato
+2792,Kyle Ewart,04/08/1947,Married,2,Otago
+2793,Lee Reader,11/03/1967,Single,0,Northland
+2794,Michael Cameron,07/01/1956,Married,0,Hawke's Bay
+2795,David Allerby-Mercer,06/10/1946,Married,1,Southland
+2796,Brooke Huddleston,20/08/1946,Married,1,Manawatu-Whanganui
+2797,Jackson Bryant,26/01/1972,Single,0,Canterbury
+2798,Richard Bradley,22/05/1953,Married,0,Waikato
+2799,Justin Dick,20/01/1980,Married,0,Auckland
+2800,Phillip Campbell,10/03/1978,Married,3,Manawatu-Whanganui
+2801,Isabella Guard-Day,21/03/1959,Single,0,Southland
+2802,Isabelle Russell,11/07/1952,Married,4,Waikato
+2803,Aaron Warren,23/02/1972,Single,0,Northland
+2804,Isabelle Lewis,08/05/1949,Married,2,Northland
+2805,David Judd-Satherley,14/01/2000,Single,0,Northland
+2806,Alice Burnett,23/07/1994,Married,2,Manawatu-Whanganui
+2807,Amy Hopkins,22/12/1956,Single,0,Auckland
+2808,Bruce Hart,16/03/1992,Single,0,Manawatu-Whanganui
+2809,Anthony Trask,11/11/2003,Single,0,Manawatu-Whanganui
+2810,Jack Day-Hart,21/08/1956,Single,0,Hawke's Bay
+2811,Wendy Hubbard,18/01/2000,Married,1,Taranaki
+2812,Ian Davenport,06/06/1998,Single,0,Auckland
+2813,Joshua Jenkins,17/06/1987,Married,1,Northland
+2814,Max Anderson-Smith,05/11/1946,Married,1,Auckland
+2815,Peter Turner,24/08/1972,Single,1,Waikato
+2816,Jane Todd,24/08/1980,Married,1,Manawatu-Whanganui
+2817,Blake Phillips,23/01/1960,Married,4,Auckland
+2818,Kora Thomas,11/04/1977,Married,1,Taranaki
+2819,Sharon Wilkinson,19/01/1954,Single,0,Auckland
+2820,George Weston,07/05/2006,Single,0,Northland
+2821,Graeme Butler,30/08/1986,Married,1,Bay of Plenty
+2822,Jonathan Schwass,18/11/2002,Single,0,Bay of Plenty
+2823,Bruce Pickering,19/09/1999,Single,0,Manawatu-Whanganui
+2824,Mitchell Hudson,18/09/1993,Married,0,Auckland
+2825,Stephen Harris-Bailey,20/06/1957,Married,2,Canterbury
+2826,Grant Hoskins-Fox,14/04/1980,Single,0,Southland
+2827,Kaia Roberts-Beard,23/03/1967,Single,0,Taranaki
+2828,Michelle Dick,19/10/2002,Married,0,Hawke's Bay
+2829,Matilda Jennings,20/04/1957,Married,3,Taranaki
+2830,Michael O'Keefe,02/02/1961,Married,0,Manawatu-Whanganui
+2831,Hannah Osborne,31/10/1977,Married,1,Auckland
+2832,Michael Rasmussen,08/03/1984,Married,0,Hawke's Bay
+2833,Nia Fowler,16/10/1962,Married,2,Waikato
+2834,Bridget Murphy,15/03/1997,Single,1,Wellington
+2835,Heather Rickard,12/04/1962,Single,0,Southland
+2836,Rebecca McLean,22/06/1951,Married,3,Canterbury
+2837,Rachel Allen,12/02/1998,Single,0,Wellington
+2838,Melanie Ching,30/06/1953,Married,0,Northland
+2839,Zachary Lowe,02/02/1953,Married,1,Wellington
+2840,Bruce Matthews-Ford,23/07/1982,Single,0,Manawatu-Whanganui
+2841,Christine Sheridan,04/03/2005,Married,2,Taranaki
+2842,Cameron Payne,15/09/1997,Single,0,Canterbury
+2843,Peter Clarke,19/10/1985,Married,1,Manawatu-Whanganui
+2844,Lucas Tapp,08/02/1948,Single,0,Canterbury
+2845,Lauren Pike,11/01/1981,Single,1,Hawke's Bay
+2846,Charlotte Payne,10/02/1988,Married,2,Canterbury
+2847,Dianne Monk-McIntyre,16/09/1981,Single,0,Canterbury
+2848,Sharon Murphy,08/03/1972,Single,0,Auckland
+2849,Susan Hardie,22/09/2005,Married,1,Bay of Plenty
+2850,Hannah Short,27/04/1965,Single,0,Northland
+2851,David Cooksley,09/02/1966,Married,0,Canterbury
+2852,Lynette Brown-Barker,15/06/1954,Married,0,Canterbury
+2853,Sandra Blair,27/10/1999,Married,3,Auckland
+2854,Robyn Freeth,07/07/1971,Married,1,Bay of Plenty
+2855,David Phillips,21/04/1960,Single,0,Northland
+2856,Steven Campbell,29/03/1995,Married,2,Taranaki
+2857,Daniel Turner,26/08/1963,Single,0,Hawke's Bay
+2858,Alexandra Thomas,29/01/1966,Single,1,Waikato
+2859,Richard Todd,14/09/1960,Single,0,Southland
+2860,Gemma Jackson,18/06/1995,Single,0,Manawatu-Whanganui
+2861,Charlotte Burrell,25/03/1996,Single,0,Hawke's Bay
+2862,Sophie Kay,11/09/1947,Single,0,Waikato
+2863,Brent Smart-Nielsen,14/07/2004,Married,2,Bay of Plenty
+2864,Rachel Bailey,02/12/1951,Single,0,Taranaki
+2865,Victoria Jeffries-Green,30/09/2002,Married,2,Waikato
+2866,Sarah Buick,07/08/1973,Single,0,Canterbury
+2867,Shaun Miller,06/03/1994,Married,0,Otago
+2868,Taylor Spencer-Patchett,17/04/1990,Single,0,Auckland
+2869,Anne Harris,03/10/1999,Married,2,Hawke's Bay
+2870,Mark Cook,04/06/1974,Single,0,Wellington
+2871,Brandon Ellery-Tucker,22/01/1983,Single,0,Manawatu-Whanganui
+2872,Jan Rowe-Davenport,10/12/1970,Single,2,Canterbury
+2873,Barbara Stubbs-Alexander,13/08/1951,Married,2,Hawke's Bay
+2874,Brett Bishell,14/06/1969,Single,0,Hawke's Bay
+2875,Jessie Powell-MacKay,16/07/1968,Single,0,Taranaki
+2876,Sharon Stevenson,24/06/1980,Single,0,Northland
+2877,Samantha Watts,28/10/1997,Married,2,Otago
+2878,Daniel Henderson,24/10/1987,Single,1,Wellington
+2879,Gareth Williamson,02/11/1946,Married,2,Otago
+2880,Shannon Neal,05/08/2000,Single,0,Manawatu-Whanganui
+2881,Holly Christie,24/09/1963,Single,0,Manawatu-Whanganui
+2882,Graham Hooper,08/02/1988,Single,0,Wellington
+2883,Daniel McGill,23/02/1982,Married,0,Canterbury
+2884,Pauline Wratt,19/01/1998,Single,0,Bay of Plenty
+2885,Sharon Graham,07/11/1986,Married,1,Manawatu-Whanganui
+2886,Glenn Jenkins,11/02/2007,Single,0,Waikato
+2887,Michael Davies,27/09/1978,Single,0,Wellington
+2888,Phillip Cameron,26/02/2003,Single,0,Southland
+2889,Holly Wills,11/11/2005,Single,0,Wellington
+2890,William Marshall,28/06/1952,Married,1,Hawke's Bay
+2891,Grace McCallum-Ritchie,23/01/1965,Married,3,Bay of Plenty
+2892,Laura Kennedy,30/03/1992,Single,0,Otago
+2893,Benjamin Dickson,24/02/2007,Married,0,Hawke's Bay
+2894,Sharon Moore,20/01/1968,Single,2,Otago
+2895,Jennifer Blackwell,16/12/1951,Single,1,Hawke's Bay
+2896,Matthew Gaskin-Webb,16/03/1960,Single,0,Taranaki
+2897,David Simpson,16/07/1963,Single,0,Northland
+2898,Diane Dillon,22/10/1959,Married,1,Canterbury
+2899,Jeremy Hardy,19/10/1954,Married,2,Waikato
+2900,David Smith-Watt,04/12/2001,Married,2,Waikato
+2901,Linda Kirk,27/12/1957,Single,0,Auckland
+2902,Sean Field,04/08/1987,Married,1,Wellington
+2903,Phoebe O'Leary,03/09/1969,Single,0,Waikato
+2904,Jade Bowden,16/11/1960,Married,2,Manawatu-Whanganui
+2905,Isabella Twidle,21/01/1954,Married,1,Otago
+2906,Robert Dick,25/06/1951,Married,1,Southland
+2907,Laura Harris,18/02/2001,Single,0,Southland
+2908,Paul Moran,17/10/1988,Single,0,Bay of Plenty
+2909,John Stevenson,11/07/1948,Single,0,Wellington
+2910,Joanne Gibbons-Brown,25/07/1956,Single,0,Taranaki
+2911,Julia Satherley,13/11/2005,Married,1,Auckland
+2912,Sienna Moore,26/04/1991,Married,0,Otago
+2913,Wayne Morgan,20/01/1962,Married,1,Hawke's Bay
+2914,Paul Burns,29/10/1992,Single,0,Auckland
+2915,Matiu Reid,03/09/1975,Single,0,Waikato
+2916,Nicola Jenkins,24/09/1960,Married,1,Otago
+2917,Tracy Turner,17/08/1981,Single,1,Northland
+2918,Grace Smith-Small,13/05/1993,Single,1,Auckland
+2919,Lucy Rayner,27/09/1949,Single,0,Northland
+2920,Kevin Nash,03/10/1994,Single,0,Northland
+2921,Hemi Rayner,09/02/1957,Married,2,Taranaki
+2922,Michael Cresswell,14/01/1953,Married,2,Northland
+2923,Bernard Jamieson,08/08/1992,Married,2,Manawatu-Whanganui
+2924,Sally Fisher,10/03/1977,Single,1,Auckland
+2925,Christine Davies,23/12/1956,Married,2,Bay of Plenty
+2926,Sophie Kerr,19/06/1957,Single,0,Southland
+2927,Danielle Phillips,12/12/1988,Married,1,Taranaki
+2928,Gregory Wheeler,21/07/1980,Single,0,Hawke's Bay
+2929,Stephen Taylor,26/10/1982,Married,2,Otago
+2930,Ashleigh Smith,29/11/1980,Married,0,Canterbury
+2931,Grant Jenkins,08/05/1999,Married,0,Auckland
+2932,Jamie Brown-Hansen,20/03/1988,Single,0,Manawatu-Whanganui
+2933,Christine Cook,26/05/1968,Single,0,Canterbury
+2934,Mathew Stevenson,26/07/2005,Married,1,Manawatu-Whanganui
+2935,Justin McCormick,13/03/1975,Single,0,Wellington
+2936,Amelia Wilkinson-Twidle,02/02/1953,Married,2,Bay of Plenty
+2937,Brendon Casey-Bradley,18/04/1956,Married,2,Otago
+2938,Courtney Hart,19/08/1986,Married,2,Bay of Plenty
+2939,Teresa Hayward,14/05/1971,Married,1,Northland
+2940,Nathan Brown,29/08/1961,Single,1,Otago
+2941,David Shailer,21/09/1957,Married,1,Bay of Plenty
+2942,Hunter Sixtus,03/08/2007,Married,0,Bay of Plenty
+2943,Ashley Rowe-Clifford,20/09/1966,Single,0,Otago
+2944,Lois Bartlett-Powell,01/02/1982,Single,0,Waikato
+2945,Ethan Martin,11/11/1996,Single,1,Northland
+2946,Tyler McEwen-Nicholson,06/07/1950,Married,1,Northland
+2947,Joseph Marshall,06/11/1977,Single,1,Canterbury
+2948,Georgina Doherty,09/05/1997,Single,0,Northland
+2949,Kevin Jones,22/12/1950,Married,2,Taranaki
+2950,Pippa Harper-Hansen,01/04/1966,Married,1,Otago
+2951,Kyle Jones,09/07/1965,Single,0,Wellington
+2952,Hayden Wilkinson,17/12/2000,Married,2,Taranaki
+2953,Paula Barnett,14/01/1957,Single,0,Canterbury
+2954,Natalie Jones,03/07/1959,Single,0,Auckland
+2955,Valerie Rickard,21/05/1993,Married,1,Taranaki
+2956,Paul Cresswell,09/10/1983,Married,0,Bay of Plenty
+2957,Alice Blick-Wood,26/10/1991,Single,1,Southland
+2958,Aaron Green-Kendall,23/06/2001,Married,2,Wellington
+2959,Mikaere Humphrey,16/03/1970,Married,1,Auckland
+2960,Christopher Todd,21/03/1987,Married,0,Southland
+2961,Stephen Grant-Harper,07/09/2003,Single,0,Auckland
+2962,Daniel Booker-Bush,16/06/1963,Single,0,Bay of Plenty
+2963,Jamie Williamson,30/10/1963,Married,1,Waikato
+2964,Ella Smith,12/01/1992,Married,1,Waikato
+2965,Noah Ferguson,08/01/1990,Married,0,Taranaki
+2966,Archie Thomas,21/09/1955,Single,0,Northland
+2967,Connor Patchett,09/04/1995,Single,0,Bay of Plenty
+2968,Evelyn Morris,14/02/2003,Married,0,Bay of Plenty
+2969,Brendon Campbell-Booth,23/01/2005,Single,0,Hawke's Bay
+2970,Lincoln Hodson,22/07/1953,Married,1,Wellington
+2971,John Mitchell,19/06/1960,Single,0,Otago
+2972,Christine Pritchard,13/10/1999,Married,1,Bay of Plenty
+2973,Jayden Gardiner,24/02/1995,Married,0,Bay of Plenty
+2974,Mackenzie Jones,06/03/1979,Married,1,Canterbury
+2975,Richard Dalton,19/11/1947,Single,0,Hawke's Bay
+2976,Warren Harrison,21/12/1961,Single,1,Taranaki
+2977,Karen Carpenter,29/09/1948,Married,1,Canterbury
+2978,Charlotte Morrison,28/03/1949,Married,0,Southland
+2979,Michael Graham,25/12/1993,Married,0,Manawatu-Whanganui
+2980,Simon Brown,18/08/1961,Single,0,Manawatu-Whanganui
+2981,Fiona Bell,19/02/1982,Single,0,Hawke's Bay
+2982,Brent Brown,28/02/1980,Married,2,Southland
+2983,Matthew Hansen,17/10/1966,Single,0,Northland
+2984,Campbell Harris,21/10/1960,Married,1,Bay of Plenty
+2985,Abigail Taylor,12/04/1971,Married,1,Waikato
+2986,Brittany Bailey-Watts,06/04/1983,Single,0,Southland
+2987,Alan Edmonds,29/04/1977,Single,0,Wellington
+2988,Eva Dunn,04/07/1975,Single,2,Northland
+2989,Nicholas Andrew,23/05/1968,Single,0,Wellington
+2990,Kate Banks,25/10/1975,Single,0,Northland
+2991,Diane Morris,25/08/1994,Single,0,Bay of Plenty
+2992,Waimarie Funnell,14/12/1969,Married,2,Northland
+2993,Jason Stevens,20/10/1947,Single,0,Waikato
+2994,Nikita Douglas,08/05/1960,Single,0,Hawke's Bay
+2995,Scott Clarke,09/07/1972,Married,0,Otago
+2996,Karen Ford,04/05/1971,Married,1,Southland
+2997,Heather Dawson,18/12/1953,Single,0,Otago
+2998,Deborah Reid,25/11/1957,Single,0,Auckland
+2999,Warren Miles,07/04/1998,Single,0,Wellington
+3000,Susan Hayward,22/11/1996,Single,0,Northland
