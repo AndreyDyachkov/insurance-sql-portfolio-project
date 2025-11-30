@@ -59,6 +59,14 @@ Data is generated using Python and the `Faker` library with realistic business l
 ## 📊 Analytical SQL (analysis_queries.sql)
 
 Includes insurance metrics and KPIs:
+### **📌 Annual Gross Premium Written (GPW) by Line of Business (LOB)**
+- Typical insurance KPI that used to estimate sales by LOB;
+- Other intervals (month, quarter) cam be applied as well.
+
+### **📌 Running Total of Monthly GPW by Year (Common Table Expression (CTE) + Window Function)**
+- Common insurance KPI to estimated YTD (Year-to-Date) sales  
+- SQL query includes CTE to aggregate sales by month and year and a window function to calculate running total
+
 
 ### **📌 Gross Premium Earned (GPE)**
 - Accurate day-level overlap calculation  
