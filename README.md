@@ -4,7 +4,7 @@ This repository simulates the core analytical processes of an insurance company,
 The project demonstrates the end-to-end design of a small **Insurance Data Mart**, including:
 - Generation of realistic **synthetic data** using Python + Faker;
 - Creation of **dimensional data mart structures**;  
-- Analytical SQL queries for insurance metrics and KPIs: **GPE**, **exposure**, **frequency**, and **claims analysis**;
+- Analytical SQL queries for insurance metrics and KPIs: **Gross Premium Written(GPW)**, **Gross Premium Earned(GPE)**, **exposure**, **frequency**, and **claims analysis**;
 - Production-ready SQL scripts.
 
 ---
@@ -12,7 +12,11 @@ The project demonstrates the end-to-end design of a small **Insurance Data Mart*
 ## 🏗️ Project Overview
 
 ### 🎯 Goal  
-Build a realistic insurance analytics environment to demonstrate data generation, data modelling, and data analysis using SQL. 
+Demonstrate practical data engineering and SQL analytics skills by:
+- Building a realistic insurance data pipeline from scratch;
+- Implementing dimensional modeling best practices;
+- Calculating industry-standard insurance KPIs;
+- Writing well-structured, documented SQL scripts.
 
 ## 🧬 Synthetic Data Generation
 Data is generated using Python and the `Faker` library with realistic business logic:
@@ -26,7 +30,7 @@ Data is generated using Python and the `Faker` library with realistic business l
 
 ### ✔️ `generate_policies.py`
 - Assigns insurance policies to customers:
-  - Policy number
+  - Policy number;
   - Product (Basic Health Cover, Premium Health Cover, etc.) and Line of Business (Health, Travel, etc.);
   - Start and end dates;
   - Premium amount (GPW);
@@ -36,13 +40,12 @@ Data is generated using Python and the `Faker` library with realistic business l
 - Creates claims with:
   - Occurred date (must fall within policy period);
   - Reporting date;
-  - Settled date for approved and rejected claims
+  - Settled date for approved and rejected claims;
   - Claim status (Approved, Pending, Rejected); 
   - Claim amount (lognormal distribution); 
-  - Payout logic:
+  - Payout logic: 
     - 0 for Rejected/Pending;  
-    - 80% Approved = full payout within coverage amount; 
-    - 20% Approved = partial payout.
+    - 80% of Approved claims receive full payout within coverage amount; 20% receive partial payout.
       
 ---
 
