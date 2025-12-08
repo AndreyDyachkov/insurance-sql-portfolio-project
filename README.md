@@ -26,7 +26,7 @@ insurance-sql-portfolio-project/
 │   ├── DimProduct(with_id).csv
 │   ├── DimRegion(with_id).csv
 │   ├── FactClaims(with_id).csv
-│   └── FactPolicies(with_id).sql
+│   └── FactPolicies(with_id).csv
 └── README.md
 ```
 
