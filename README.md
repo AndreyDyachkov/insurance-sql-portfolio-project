@@ -22,37 +22,39 @@ Data is generated using Python and the `Faker` library with realistic business l
   - Name;
   - Date of birth;
   - Marital status;
-  - Number of children (realistic distribution);
   - Region (NZ regions).
 
 ### ✔️ `generate_policies.py`
 - Assigns insurance policies to customers:
-  - Policy type (Auto, House, Contents, Life…);
-  - Start / end dates (exactly 1-year policies);
+  - Policy number
+  - Product (Basic Health Cover, Premium Health Cover, etc.) and Line of Business (Health, Travel, etc.);
+  - Start and end dates;
   - Premium amount (GPW);
   - Coverage amount.
 
 ### ✔️ `generate_claims.py`
 - Creates claims with:
-  - Accident date (must fall within policy period);
+  - Occurred date (must fall within policy period);
   - Reporting date;
-  - Claim status; 
-  - Claim amount; 
+  - Settled date for approved and rejected claims
+  - Claim status (Approved, Pending, Rejected); 
+  - Claim amount (lognormal distribution); 
   - Payout logic:
     - 0 for Rejected/Pending;  
-    - 80% Approved = full payout; 
-    - 20% Approved = partial payout.  
+    - 80% Approved = full payout within coverage amount; 
+    - 20% Approved = partial payout.
+      
 ---
 
 ## 🗄️ Data Mart Schema
 
-`create_insurance_data_mart.sql` builds the full relational schema:
+`create_insurance_data_mart_2.sql` builds the full relational schema:
 
 #### ER Diagram
-<img src="er_diagram.png"  width="600">
+<img src="ER_diagram_v2.png"  width="800">
 
 #### Relational Schema
-<img src="relational_schema.png" width="600">
+<img src="Relational_schema_v2.png" width="800">
 
 ---
 
