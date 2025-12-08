@@ -58,7 +58,7 @@ Data is generated using Python and the `Faker` library with realistic business l
 
 ---
 
-## 📊 Analytical SQL (analysis_queries.sql)
+## 📊 Analytical SQL (analysis_queries_v2.sql)
 
 Includes insurance metrics and KPIs:
 ### **📌 Annual Gross Premium Written (GPW) by Line of Business (LOB)**
