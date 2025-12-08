@@ -9,6 +9,27 @@ The project demonstrates the end-to-end design of a small **Insurance Data Mart*
 
 ---
 
+## 📁 Repository Structure
+```
+insurance-sql-portfolio-project/
+├── python_generators/
+│   ├── generate_customers_v2.py
+│   ├── generate_policies_v2.py
+│   └── generate_claims_v2.py
+├── sql_queries/
+│   ├── create_insurance_data_mart_2.sql
+│   └── analysis_queries_v2.sql
+├── sample_data/
+│   ├── DimClaimStatus(with_id).csv
+│   ├── DimCustomer(with_id).csv
+│   ├── DimPolicyType(with_id).csv
+│   ├── DimProduct(with_id).csv
+│   ├── DimRegion(with_id).csv
+│   ├── FactClaims(with_id).csv
+│   └── FactPolicies(with_id).sql
+└── README.md
+```
+
 ## 🏗️ Project Overview
 
 ### 🎯 Goal  
@@ -37,16 +58,17 @@ Data is generated using Python and the `Faker` library with realistic business l
   - Coverage amount.
 
 ### ✔️ `generate_claims.py`
-- Creates claims with:
-  - Occurred date (must fall within policy period);
-  - Reporting date;
-  - Settled date for approved and rejected claims;
+- Creates realistic claims with:
+  - Claim ID and policy reference;
+  - Occurred date (validated to fall within policy period);
+  - Reporting date (after occurred date);
+  - Settled date for Approved and Rejected claims ((null for Pending);
   - Claim status (Approved, Pending, Rejected); 
-  - Claim amount (lognormal distribution); 
+  - Claim amount (follows lognormal distribution); 
   - Payout logic: 
-    - 0 for Rejected/Pending;  
-    - 80% of Approved claims receive full payout within coverage amount; 20% receive partial payout.
-      
+    - 0 for Rejected/Pending claims;  
+    - 80% of Approved claims receive full payout within coverage limit; 20% receive partial payout.
+
 ---
 
 ## 🗄️ Data Mart Schema
@@ -98,3 +120,14 @@ Full scripts are available in:
 - [`analysis_queries_v2.sql`](analysis_queries.sql)
 
 ---
+
+## 📋 Prerequisites
+- Python 3.8+
+- PostgreSQL
+- Required Python packages: `faker`, `pandas`, `numpy`, `random`
+
+## 💻 Usage
+1. Clone the repository;
+2. Install dependencies: `pip install faker` and run data generation scripts to generate sample data OR use ready-made sample data;
+4. Execute SQL scripts to create the data mart, upload sample data;
+5. Run analytical queries.
