@@ -78,11 +78,11 @@ Includes various typical analytical tasks:
 
 ### **📌 Frequency Calculation (Common Table Expression (CTE))**
 Claim frequency calculation is one of the main tasks in insurance analytics, used for premium pricing.
-- Claim Frequency for Expired Policies by LOB and Year;  
+- Claim Frequency for Expired Policies by Product, LOB and Year;  
 - Exposure-Based Frequency for a specific reporting period.
 
 ### **📌 Claim Severity by LOB and Year**
-Severity is average cost per claim, also used for premium pricing.
+Severity is the average cost per claim, also used for premium pricing.
 
 ### **📌 Gross Premium Earned (GPE) per LOB (Common Table Expressions (CTE))**
 - Accurate day-level overlap calculation; 
@@ -91,7 +91,7 @@ Severity is average cost per claim, also used for premium pricing.
 
 ## 🧩 SQL Queries
 Full scripts are available in:
-- [`create_insurance_data_mart.sql`](create_insurance_data_mart.sql)  
-- [`analysis_queries.sql`](analysis_queries.sql)
+- [`create_insurance_data_mart_2.sql`](create_insurance_data_mart.sql)  
+- [`analysis_queries_v2.sql`](analysis_queries.sql)
 
 ---
