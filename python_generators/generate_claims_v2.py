@@ -47,6 +47,8 @@ def generate_claims(n_claims=2500, seed=42):
     
     # Pre-filter policies that started before cutoff
     valid_policies = df_policies[df_policies['start_date'] <= cutoff_date]
+    # Count active days  within the cutoff period to weight policy selection by them to get uniform claim distribution 
+    valid_policies['active_days'] = (valid_policies['end_date'].clip(upper=cutoff_date) - valid_policies['start_date']).dt.days
     
     # Claim status 
     claim_status_ids = df_claim_status['claim_status_id'].tolist()
@@ -55,7 +57,7 @@ def generate_claims(n_claims=2500, seed=42):
 
     for claim_id in range(1, n_claims + 1):
         # Randomly select a policy
-        policy_row = valid_policies.sample(n=1).iloc[0]
+        policy_row = valid_policies.sample(n=1, weights='active_days').iloc[0]
         policy_id = policy_row['policy_id']
         policy_start = pd.to_datetime(policy_row['start_date'], format="%Y-%m-%d")
         policy_end = pd.to_datetime(policy_row['end_date'], format="%Y-%m-%d")
