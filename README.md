@@ -117,7 +117,7 @@ Severity is the average cost per claim, also used for premium pricing.
 ## 🧩 SQL Queries
 Full scripts are available in:
 - [`create_insurance_data_mart_2.sql`](create_insurance_data_mart.sql)  
-- [`analysis_queries_v2.sql`]([analysis_queries.sql](https://github.com/AndreyDyachkov/insurance-sql-portfolio-project/blob/main/sql_queries/analysis_queries_v2.sql))
+- [`analysis_queries_v2.sql`](https://github.com/AndreyDyachkov/insurance-sql-portfolio-project/blob/main/sql_queries/analysis_queries_v2.sql)
 
 ---
 
